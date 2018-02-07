@@ -18,18 +18,18 @@ As informações aqui apresentadas se baseiam nas fases propostas por Kitchenham
   
 
 *   **Slides da Palestra**
-    *   Revisão Sistemática. [Mídia:RevisaoSistematicaConceitos.pdf](/w/images/3/36/RevisaoSistematicaConceitos.pdf "RevisaoSistematicaConceitos.pdf")
+    *   Revisão Sistemática. [RevisaoSistematicaConceitos.pdf](/https://github.com/lapisusp/lapisusp.github.io/blob/master/files/RevisaoSistematicaConceitos.pdf)
 *   **Protocolo**
-    *   Exemplo - Adriano [Mídia:Protocolo_Adriano.pdf](/w/images/0/00/Protocolo_Adriano.pdf "Protocolo Adriano.pdf")
-    *   Exemplo - Vagner [Mídia:ProtocoloVagner.pdf](/w/images/3/3d/ProtocoloVagner.pdf "ProtocoloVagner.pdf")
+    *   Exemplo - Adriano [Protocolo_Adriano.pdf](https://github.com/lapisusp/lapisusp.github.io/blob/master/files/Protocolo_Adriano.pdf)
+    *   Exemplo - Vagner [ProtocoloVagner.pdf](https://github.com/lapisusp/lapisusp.github.io/blob/master/files/ProtocoloVagner.pdf)
 *   **Condução**
-    *   Exemplo - Eunice [Mídia:ConducaoEunice.pdf](/w/images/b/bb/ConducaoEunice.pdf "ConducaoEunice.pdf")
-    *   Exemplo - Vagner [Mídia:ConducaoVagner.pdf](/w/images/f/f9/ConducaoVagner.pdf "ConducaoVagner.pdf")
+    *   Exemplo - Eunice [ConducaoEunice.pdf](https://github.com/lapisusp/lapisusp.github.io/raw/master/files/ConducaoEunice.pdf)
+    *   Exemplo - Vagner [ConducaoVagner.pdf](https://github.com/lapisusp/lapisusp.github.io/blob/master/files/ConducaoVagner.pdf)
 *   **Extração**
-    *   Exemplo - [Mídia:ExemploExtracao.pdf](/w/images/4/44/ExemploExtracao.pdf "ExemploExtracao.pdf")
+    *   Exemplo - [ExemploExtracao.pdf](https://github.com/lapisusp/lapisusp.github.io/blob/master/files/ExemploExtracao.pdf)
 *   **Arquivos - _StArt_**
-    *   Exemplo - Mateus [Mídia:RS_Mateus.zip](/w/images/4/4b/RS_Mateus.zip "RS Mateus.zip")
-    *   Exemplo - Vagner [Mídia:Vagner.zip](/w/images/3/3e/Vagner.zip "Vagner.zip")
+    *   Exemplo - Mateus [RS_Mateus.zip](https://github.com/lapisusp/lapisusp.github.io/blob/master/files/RS_Mateus.zip)
+    *   Exemplo - Vagner [Vagner.zip](https://github.com/lapisusp/lapisusp.github.io/blob/master/files/Vagner.zip)
 
 ## Exemplos de Artigos de Revisão Sistemática
 
