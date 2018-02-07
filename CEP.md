@@ -6,8 +6,10 @@ De acordo com a [Resolução CNS 196/96](http://bvsms.saude.gov.br/bvs/saudelegi
 
 A seguir apresentamos algumas dicas a respeito do processo de preparação e submissão do projeto para o CEP.
 
-**Atenção!!! As informações aqui contidas são apenas orientações,  
-não deixe de sempre verificar junto ao Comitê de Ética em Pesquisa se houve atualização dos procedimentos e formulários.**
+<span style="background-color: #FFFF00">
+<b>Atenção!!! As informações aqui contidas são apenas orientações,  
+não deixe de sempre verificar junto ao Comitê de Ética em Pesquisa se houve atualização dos procedimentos e formulários.</b>
+</span>
 
 Antes de Começar - Orientações
 ---------------------------------------------------------------------------------------------------------------------------------------
