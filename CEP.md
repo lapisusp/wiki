@@ -42,7 +42,7 @@ _Checklist_ \- Documentos e Informações necessárias
         2.  Doutorado: Podem submeter o processo no papel de Pesquisador Principal.
     2.  É **obrigatória** a inserção do(a) Orientador(a) como **Equipe de Pesquisa** , tenha em mãos o CPF de todos os envolvidos e certifique-se que os mesmos já se encontram cadastrados na Plataforma Brasil.
     3.  Conjunto mínimo de **Documentos Obrigatórios** (pode variar de acordo com o CEP escolhido).
-        1.  Veja os detalhes na página [**Documentos Obrigatórios**](/wiki/CEP-docs "CEP-docs") .
+        1.  Veja os detalhes na página [Documentos Obrigatórios](cep_docs) .
     4.  Critérios de Inclusão/Exclusão
         1.  Critérios de Inclusão - para **recrutamento** de sujeitos/participantes/voluntários para a pesquisa.
         2.  Critérios de Exclusão - para **retirada** de sujeitos/participantes/voluntários para a pesquisa.
