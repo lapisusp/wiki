@@ -1,6 +1,6 @@
 # CEP docs
 
-[Voltar à página do Comitê de Ética (CEP)]("CEP")
+[Voltar à página do Comitê de Ética (CEP)](CEP)
 
 
 
