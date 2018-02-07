@@ -6,15 +6,13 @@ Localizado na Escola de Artes, Ciências e Humanidades [(EACH)](http://www5.each
 
 Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp.br)
 
-<TABLE WIDTH=60% BORDER=0px>
-
-<TR><TD> Seleção - Pós-Graduação                  </TD> <TD> Revisão Sistemática </TD></TR>
-<TR><TD> Experimentos & Resultados </TD> <TD> Materiais para Alunos </TD></TR>
-<TR><TD> Comitê de Ética em Pesquisa      </TD> <TD> Iniciação Científica </TD></TR>
+<TABLE>
+<TR><TD> Seleção - Pós-Graduação                  </TD> <TD> [Revisão Sistemática](RS) </TD></TR>
+<TR><TD> [Experimentos & Resultados](experimentos) </TD> <TD> Materiais para Alunos </TD></TR>
+<TR><TD> [Comitê de Ética em Pesquisa](CEP)      </TD> <TD> Iniciação Científica </TD></TR>
 <TR><TD> Eventos & Periódicos                     </TD> <TD> Laboratório </TD></TR>
 <TR><TD> Projetos                                 </TD> <TD> Colaborações </TD></TR>
 <TR><TD> <i>LApIS for Fun! </i>                   </TD> <TD> <I>Writing Center</I> </TD></TR>
-
 </TABLE>
 
   
