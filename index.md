@@ -7,9 +7,9 @@ Localizado na Escola de Artes, Ciências e Humanidades [(EACH)](http://www5.each
 Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp.br)
 
 <TABLE>
-<TR><TD> Seleção - Pós-Graduação                  </TD> <TD> [Revisão Sistemática](RS) </TD></TR>
-<TR><TD> [Experimentos & Resultados](experimentos) </TD> <TD> Materiais para Alunos </TD></TR>
-<TR><TD> [Comitê de Ética em Pesquisa](CEP)      </TD> <TD> Iniciação Científica </TD></TR>
+<TR><TD> Seleção - Pós-Graduação                  </TD> <TD> <a href="rs" rel="nofollow">Revisão Sistemática</a></TD></TR>
+<TR><TD> <a href="experimentos" rel="nofollow">Experimentos & Resultados</a> </TD> <TD> Materiais para Alunos </TD></TR>
+<TR><TD> <a href="CEP" rel="nofollow">Comitê de Ética em Pesquisa</a>     </TD> <TD> Iniciação Científica </TD></TR>
 <TR><TD> Eventos & Periódicos                     </TD> <TD> Laboratório </TD></TR>
 <TR><TD> Projetos                                 </TD> <TD> Colaborações </TD></TR>
 <TR><TD> <i>LApIS for Fun! </i>                   </TD> <TD> <I>Writing Center</I> </TD></TR>
