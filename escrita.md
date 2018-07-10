@@ -1,3 +1,4 @@
+
 Inglês
 ======
 
@@ -37,16 +38,13 @@ Revisão automática de texto
 ### Exemplos em sites específicos
 
 *   IEEE: [http://lmgtfy.com/?q=%22specific+example%22+site%3Ahttp%3A%2F%2Fieeexplore.ieee.org%2F](https://www.google.com/url?q=http://lmgtfy.com/?q%3D%2522specific%2Bexample%2522%2Bsite%253Ahttp%253A%252F%252Fieeexplore.ieee.org%252F&sa=D&ust=1531249702295000)
-
-*   "specific example" site:http://ieeexplore.ieee.org/
+	  -   "specific example" site:http://ieeexplore.ieee.org/
 
 *   ACM: [http://lmgtfy.com/?q=%22specific+example%22+site%3Ahttps%3A%2F%2Fdl.acm.org%2F](https://www.google.com/url?q=http://lmgtfy.com/?q%3D%2522specific%2Bexample%2522%2Bsite%253Ahttps%253A%252F%252Fdl.acm.org%252F&sa=D&ust=1531249702295000)
-
-*   "specific example" site:https://dl.acm.org/
+	  -   "specific example" site:https://dl.acm.org/
 
 *   BBC: [http://lmgtfy.com/?q=%22specific+example%22+site%3Ahttps%3A%2F%2Fbbc.com](https://www.google.com/url?q=http://lmgtfy.com/?q%3D%2522specific%2Bexample%2522%2Bsite%253Ahttps%253A%252F%252Fbbc.com&sa=D&ust=1531249702296000)
-
-*   "specific example" site:https://bbc.com
+	  -  "specific example" site:https://bbc.com
 
 ### Preposições
 
@@ -99,16 +97,13 @@ Revisão automática de texto
 ### Exemplos em sites específicos
 
 *   IEEE: [http://lmgtfy.com/?q=%22termo%22+site%3Ahttp%3A%2F%2Fieeexplore.ieee.org%2F](https://www.google.com/url?q=http://lmgtfy.com/?q%3D%2522termo%2522%2Bsite%253Ahttp%253A%252F%252Fieeexplore.ieee.org%252F&sa=D&ust=1531249702304000)
-
-*   "termo" site:http://ieeexplore.ieee.org/
+	  -   "termo" site:http://ieeexplore.ieee.org/
 
 *   ACM: [http://lmgtfy.com/?q=termo+site%3Ahttps%3A%2F%2Fdl.acm.org%2F](https://www.google.com/url?q=http://lmgtfy.com/?q%3Dtermo%2Bsite%253Ahttps%253A%252F%252Fdl.acm.org%252F&sa=D&ust=1531249702305000)
-
-*   termo site:https://dl.acm.org/
+	  -   termo site:https://dl.acm.org/
 
 *   BBC: [http://lmgtfy.com/?q=%22termo%22+site%3Ahttps%3A%2F%2Fbbc.com](https://www.google.com/url?q=http://lmgtfy.com/?q%3D%2522termo%2522%2Bsite%253Ahttps%253A%252F%252Fbbc.com&sa=D&ust=1531249702305000)
-
-*   "termo" site:https://bbc.com
+	  -   "termo" site:https://bbc.com
 
 Dicionários
 -----------
