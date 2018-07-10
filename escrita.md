@@ -37,13 +37,13 @@ Revisão automática de texto
 
 ### Exemplos em sites específicos
 
-*   IEEE: [http://lmgtfy.com/?q=%22specific+example%22+site%3Ahttp%3A%2F%2Fieeexplore.ieee.org%2F](http://lmgtfy.com/?q%3D%2522specific%2Bexample%2522%2Bsite%253Ahttp%253A%252F%252Fieeexplore.ieee.org%252F)
+*   IEEE: [http://bfy.tw/Iyfa](http://bfy.tw/Iyfa)
 	*   "specific example" site:http://ieeexplore.ieee.org/
 
-*   ACM: [http://lmgtfy.com/?q=%22specific+example%22+site%3Ahttps%3A%2F%2Fdl.acm.org%2F](http://lmgtfy.com/?q%3D%2522specific%2Bexample%2522%2Bsite%253Ahttps%253A%252F%252Fdl.acm.org%252F)
+*   ACM: [http://bfy.tw/Iyfh](http://bfy.tw/Iyfh)
 	*   "specific example" site:https://dl.acm.org/
 
-*   BBC: [http://lmgtfy.com/?q=%22specific+example%22+site%3Ahttps%3A%2F%2Fbbc.com](http://lmgtfy.com/?q%3D%2522specific%2Bexample%2522%2Bsite%253Ahttps%253A%252F%252Fbbc.com)
+*   BBC: [http://bfy.tw/Iyfm](http://bfy.tw/Iyfm)
 	*   "specific example" site:https://bbc.com
 
 ### Preposições
@@ -95,13 +95,13 @@ Revisão automática de texto
 
 ### Exemplos em sites específicos
 
-*   IEEE: [http://lmgtfy.com/?q=%22termo%22+site%3Ahttp%3A%2F%2Fieeexplore.ieee.org%2F](http://lmgtfy.com/?q%3D%2522termo%2522%2Bsite%253Ahttp%253A%252F%252Fieeexplore.ieee.org%252F)
+*   IEEE: [http://bfy.tw/Iyfs](http://bfy.tw/Iyfs)
 	*   "termo" site:http://ieeexplore.ieee.org/
 
-*   ACM: [http://lmgtfy.com/?q=termo+site%3Ahttps%3A%2F%2Fdl.acm.org%2F](http://lmgtfy.com/?q%3Dtermo%2Bsite%253Ahttps%253A%252F%252Fdl.acm.org%252F)
+*   ACM: [http://bfy.tw/Iyfu](http://bfy.tw/Iyfu)
 	*   termo site:https://dl.acm.org/
 
-*   BBC: [http://lmgtfy.com/?q=%22termo%22+site%3Ahttps%3A%2F%2Fbbc.com](http://lmgtfy.com/?q%3D%2522termo%2522%2Bsite%253Ahttps%253A%252F%252Fbbc.com)
+*   BBC: [http://bfy.tw/Iyfz](http://bfy.tw/Iyfz)
 	*   "termo" site:https://bbc.com
 
 Dicionários
