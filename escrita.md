@@ -123,8 +123,10 @@ Aulas e livros
 
 Latex
 =========
+
 Editores
 --------------
+
 ### Web
 * Overleaf: [https://www.overleaf.com/dash](https://www.overleaf.com/dash)
 * Authorea: [https://www.authorea.com](https://www.authorea.com)
