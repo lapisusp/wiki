@@ -11,7 +11,8 @@ As informações aqui apresentadas se baseiam nas fases propostas por Kitchenham
   
 
 ## Materiais de Apoio
-[![Palestra Revisão Sistemática](https://img.youtube.com/vi/Wgaw97mTKWM/0.jpg)](https://www.youtube.com/watch?v=Wgaw97mTKWM)
+<object style="width:100%;height:100%;width: 820px; height: 461.25px; float: none; clear: both; margin: 2px auto;" data="http://www.youtube.com/embed/Wgaw97mTKWM">
+</object>
   
 **Palestra sobre Revisão Sistemática - Profa. Fátima L. S. Nunes**
 
