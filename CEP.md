@@ -16,7 +16,7 @@ Antes de Começar - Orientações
 
 *   É importante saber em qual CEP você irá submeter seu projeto, dependendo do CEP poderá haver diferença na documentação exigida para análise - converse com seu Orientador.
     *   As orientações aqui apresentadas levam em consideração os projetos já submetidos pelos membros do [**LApIS**](http://lapis.each.usp.br/).
-    *   Neste roteiro estamos disponibilizando informações sobre os seguintes CEP´s: [EACH](http://www5.each.usp.br/apresentacao-cep/), [HU-USP](http://www.hu.usp.br/cep-home/) e [FOB-USP](http://www.fob.usp.br/pagina/399) (Bauru).
+    *   Neste roteiro estamos disponibilizando informações sobre os seguintes CEP´s: [EACH](http://www5.each.usp.br/apresentacao-cep/), [HU-USP](http://www.hu.usp.br/cep/) e [FOB-USP](http://www.fob.usp.br/pagina/399) (Bauru).
 *   Todo o processo é digital, sendo conduzido por meio da [Plataforma Brasil](http://plataformabrasil.saude.gov.br/).
     *   Você deverá fazer um cadastro antes de começar a submeter as informações.
     *   O sistema permite que você vá preenchendo e salvando as informações, assim não é necessário digitar tudo em uma única vez.
