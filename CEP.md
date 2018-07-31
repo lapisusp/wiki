@@ -62,5 +62,3 @@ Documentos relacionados
 *   [Resolução CNS 196/96](http://bvsms.saude.gov.br/bvs/saudelegis/cns/1996/res0196_10_10_1996.html).
 *   [Resolução CNS 466/12](http://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf).
 *   [Ética no envolvimento de seres humanos na Engenharia de Software](http://www.revistas.unisinos.br/index.php/scientia/article/view/sct.20082.01) (Lucia Vilela Leite Filgueiras, Bárbara Dariano Silva).
-
-Disponível em "[http://lapis.each.usp.br/w/index.php?title=CEP&oldid=177](http://lapis.each.usp.br/w/index.php?title=CEP&oldid=177)"
