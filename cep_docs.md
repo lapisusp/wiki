@@ -79,4 +79,4 @@ Atenção! Caso a pesquisa envolva a população indigena, há documentos comple
 
 *   [Orientações - CEP - Faculdade de Odontologia de Bauru](/files/TCLE_FOBUSP.pdf) (FOB/USP)
 *   [Orientações - CEP - Hospital Universitário](/files/TCLE_HUUSP.pdf) da Universidade de São Paulo (HU/USP).
-*   **[Orientações - CEP - Escola de Artes, Ciências e Humanidades](http://www5.each.usp.br/apresentacao-cep/) da Universidade de São Paulo (EACH/USP) e [Comunicado aos Pesquisados] (/files/COMUNICADO.pdf).**
+*   **[Orientações - CEP - Escola de Artes, Ciências e Humanidades](http://www5.each.usp.br/apresentacao-cep/) da Universidade de São Paulo (EACH/USP) e [Comunicado aos Pesquisados](/files/COMUNICADO.pdf).**
