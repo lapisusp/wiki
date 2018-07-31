@@ -21,7 +21,7 @@ As informações aqui apresentadas se baseiam nas fases propostas por Kitchenham
 *   **Slides da Palestra**
     *   Revisão Sistemática. [RevisaoSistematicaConceitos.pdf](/https://github.com/lapisusp/lapisusp.github.io/blob/master/files/RevisaoSistematicaConceitos.pdf)
 *   **Protocolo**
-    *   Exemplo - Adriano [Protocolo_Adriano.pdf](https://github.com/lapisusp/lapisusp.github.io/raw/master/files/Protocolo_Adriano.pdf)
+    *   Exemplo - Adriano [Protocolo_Adriano.pdf](https:lapisusp.github.io/raw/master/files/Protocolo_Adriano.pdf)
     *   Exemplo - Vagner [ProtocoloVagner.pdf](https://github.com/lapisusp/lapisusp.github.io/raw/master/files/ProtocoloVagner.pdf)
 *   **Condução**
     *   Exemplo - Eunice [ConducaoEunice.pdf](https://github.com/lapisusp/lapisusp.github.io/raw/master/files/ConducaoEunice.pdf)
