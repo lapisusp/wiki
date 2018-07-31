@@ -19,18 +19,18 @@ As informações aqui apresentadas se baseiam nas fases propostas por Kitchenham
   
 
 *   **Slides da Palestra**
-    *   Revisão Sistemática. [RevisaoSistematicaConceitos.pdf](/https://github.com/lapisusp/lapisusp.github.io/blob/master/files/RevisaoSistematicaConceitos.pdf)
+    *   Revisão Sistemática. [RevisaoSistematicaConceitos.pdf](/files/RevisaoSistematicaConceitos.pdf)
 *   **Protocolo**
     *   Exemplo - Adriano [Protocolo_Adriano.pdf](/files/Protocolo_Adriano.pdf)
-    *   Exemplo - Vagner [ProtocoloVagner.pdf](https://github.com/lapisusp/lapisusp.github.io/raw/master/files/ProtocoloVagner.pdf)
+    *   Exemplo - Vagner [ProtocoloVagner.pdf](/files/ProtocoloVagner.pdf)
 *   **Condução**
-    *   Exemplo - Eunice [ConducaoEunice.pdf](https://github.com/lapisusp/lapisusp.github.io/raw/master/files/ConducaoEunice.pdf)
-    *   Exemplo - Vagner [ConducaoVagner.pdf](https://github.com/lapisusp/lapisusp.github.io/raw/master/files/ConducaoVagner.pdf)
+    *   Exemplo - Eunice [ConducaoEunice.pdf](/files/ConducaoEunice.pdf)
+    *   Exemplo - Vagner [ConducaoVagner.pdf](/files/ConducaoVagner.pdf)
 *   **Extração**
-    *   Exemplo - [ExemploExtracao.pdf](https://github.com/lapisusp/lapisusp.github.io/raw/master/files/ExemploExtracao.pdf)
+    *   Exemplo - [ExemploExtracao.pdf](/files/ExemploExtracao.pdf)
 *   **Arquivos - _StArt_**
-    *   Exemplo - Mateus [RS_Mateus.zip](https://github.com/lapisusp/lapisusp.github.io/raw/master/files/RS_Mateus.zip)
-    *   Exemplo - Vagner [Vagner.zip](https://github.com/lapisusp/lapisusp.github.io/raw/master/files/Vagner.zip)
+    *   Exemplo - Mateus [RS_Mateus.zip](/files/RS_Mateus.zip)
+    *   Exemplo - Vagner [Vagner.zip](/files/Vagner.zip)
 
 ## Exemplos de Artigos de Revisão Sistemática
 
@@ -85,10 +85,6 @@ Biolchini, Jorge, Paula Gomes Mian, Ana Candida Cruz Natali, and Guilherme Horta
 
 Kitchenham, Barbara. ["Procedures for performing systematic reviews."](http://www.ifs.tuwien.ac.at/~weippl/systemicReviewsSoftwareEngineering.pdf) Keele, UK, Keele University 33, no. 2004 (2004): 1-26.
 
-  
-
 * * *
 
 _Em caso de dúvidas, comentários ou sugestões entre em contato com: [Leonardo Silva](mailto:leonardosilva@usp.br)_
-
-Disponível em "[http://lapis.each.usp.br/w/index.php?title=RS&oldid=174](http://lapis.each.usp.br/w/index.php?title=RS&oldid=174)"
