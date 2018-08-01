@@ -8,7 +8,7 @@ Seja bem-vindo(a) a Wiki do [LApIS](http://lapis.each.usp.br/) \- Laboratório d
 
 Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp.br)
 
-<BR><BR>
+<BR>
 
 <TABLE>
   <TR>
@@ -31,7 +31,7 @@ Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp
   
 -->  
   
-<CENTER> Wiki mantido pelos alunos: **Cleber Gimenez**, **Leonardo Silva**, **Rafael Luiz Testa** e **Renan Vinícius Aranha** com intuito de reunir informações úteis aos membros do <a href="http://lapis.each.usp.br/" rel="nofollow"> LApIS </a>. </CENTER>
+<CENTER> Wiki mantido pelos alunos: Cleber Gimenez, Leonardo Silva, Rafael Luiz Testa e Renan Vinícius Aranha <BR> com intuito de reunir informações úteis aos membros do <a href="http://lapis.each.usp.br/" rel="nofollow"> LApIS </a>. </CENTER>
 
 * * *
 
