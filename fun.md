@@ -10,12 +10,9 @@ Passada por gerações de pós-graduandos essa é a receita [nem tão] secreta d
 
 Favor manter a mesa limpa e ao fim do dia não esquecer de limpar a cafeteira de retirar o lixo.
 
-![Foto dos membros do LApIS no encerramento das atividades de 2017](/files/lapis2017.png).
-
-[logo]: http://www.google.com/images/logo.gif
 
 ## Fechando 2017 - #teamLApIS
-<CENTER>
-   <IMG SRC="/files/lapis2017.png" alt="Foto dos membros do LApIS no encerramento das atividades de 2017"> 
-</CENTER>
 
+<CENTER>
+![Foto dos membros do LApIS no encerramento das atividades de 2017](/files/lapis2017.png).
+</CENTER>
