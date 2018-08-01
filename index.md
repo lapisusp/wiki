@@ -6,9 +6,6 @@ Localizado na Escola de Artes, Ciências e Humanidades [(EACH)](http://www5.each
 
 Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp.br)
 
-[Materiais para Alunos](materiais)
-
-
 <TABLE>
   <TR>
     <TD> <a href="materiais" rel="nofollow"> Conheça o LApIS </a>  </TD> <TD> <a href="rs" rel="nofollow">Revisão Sistemática</a></TD></TR>
@@ -17,7 +14,7 @@ Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp
 <TR><TD> <i>LApIS for Fun! </i>                   </TD> <TD> Eventos de Interesse </TD></TR>
 </TABLE>
 
-
+<!--
 
 <TABLE>
 <TR><TD> Seleção - Pós-Graduação                  </TD> <TD> <a href="rs" rel="nofollow">Revisão Sistemática</a></TD></TR>
@@ -27,6 +24,8 @@ Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp
 <TR><TD> Projetos                                 </TD> <TD> Colaborações </TD></TR>
 <TR><TD> <i>LApIS for Fun! </i>                   </TD> <TD> <I> <a href="escrita" rel="nofollow">Writing Center</a></I> </TD></TR>
 </TABLE>
+  
+-->  
   
 Wiki mantido pelos alunos: **Cleber Gimenez**, **Leonardo Silva**, **Rafael Luiz Testa** e **Renan Vinícius Aranha** com intuito de reunir informações úteis aos membros do [LApIS](http://lapis.each.usp.br/)
 
