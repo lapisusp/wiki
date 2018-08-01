@@ -11,7 +11,7 @@ Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp
 
 <TABLE>
   <TR>
-    <TD> <a href="materiais" rel="nofollow"> Conheça o LApIS </a>  </TD> <TD> <a href="rs" rel="nofollow">Revisão Sistemática</a></TD></TR>
+    <TD> <a href="materiais" rel="nofollow"> Conheça o LApIS </a> - Materiais para Alunos </TD> <TD> <a href="rs" rel="nofollow">Revisão Sistemática</a></TD></TR>
 <TR>
   <TD> <a href="CEP" rel="nofollow">Comitê de Ética em Pesquisa</a> </TD> <TD> <I> <a href="escrita" rel="nofollow">Writing Center</a></I> </TD></TR>
   <TR><TD> <a href="fun" rel="nofollow"><i>LApIS for Fun! </i></a> </TD> <TD> <a href="eventos" rel="nofollow">Eventos de Interesse</a> </TD></TR>
