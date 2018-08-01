@@ -8,6 +8,17 @@ Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp
 
 [Materiais para Alunos](materiais)
 
+
+<TABLE>
+  <TR>
+    <TD> <a href="materiais" rel="nofollow"> Conheça o LApIS </a>  </TD> <TD> <a href="rs" rel="nofollow">Revisão Sistemática</a></TD></TR>
+<TR>
+  <TD> <a href="CEP" rel="nofollow">Comitê de Ética em Pesquisa</a> </TD> <TD> <I> <a href="escrita" rel="nofollow">Writing Center</a></I> </TD></TR>
+<TR><TD> <i>LApIS for Fun! </i>                   </TD> <TD> Eventos de Interesse </TD></TR>
+</TABLE>
+
+
+
 <TABLE>
 <TR><TD> Seleção - Pós-Graduação                  </TD> <TD> <a href="rs" rel="nofollow">Revisão Sistemática</a></TD></TR>
 <TR><TD> <a href="experimentos" rel="nofollow">Experimentos & Resultados</a> </TD> <TD> [Materiais para Alunos](/wiki/materiais.md) </TD></TR>
