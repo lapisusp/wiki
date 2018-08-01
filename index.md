@@ -6,7 +6,7 @@ Localizado na Escola de Artes, Ciências e Humanidades [(EACH)](http://www5.each
 
 Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp.br)
 
-[Materiais para Alunos](/wiki/materiais.md)
+[Materiais para Alunos](materiais)
 
 <TABLE>
 <TR><TD> Seleção - Pós-Graduação                  </TD> <TD> <a href="rs" rel="nofollow">Revisão Sistemática</a></TD></TR>
