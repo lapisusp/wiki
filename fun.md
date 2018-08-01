@@ -12,7 +12,7 @@ Favor manter a mesa limpa e ao fim do dia não esquecer de limpar a cafeteira de
 
 
 ## Fechando 2017 - #teamLApIS
-<CENTER>
+
    <IMG SRC="/files/lapis2017.png" alt="Foto dos membros do LApIS no encerramento das atividades de 2017"> 
-</CENTER>
+
 
