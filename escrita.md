@@ -1,4 +1,5 @@
 
+
 Inglês
 ======
 
@@ -38,13 +39,13 @@ Revisão automática de texto
 ### Exemplos em sites específicos
 
 *   IEEE: [http://bfy.tw/Iyfa](http://bfy.tw/Iyfa)
-	*   "specific example" site:http://ieeexplore.ieee.org/
+	*   ["specific example" site:http://ieeexplore.ieee.org/](https://www.google.com/search?source=hp&ei=GxViW-6UM4SlwASO6ZyQDw&q=%22specific%20example%22%20site:http://ieeexplore.ieee.org/&oq=%22specific%20example%22%20site:http://ieeexplore.ieee.org/&gs_l=psy-ab.3...1279.1279.0.2097.4.2.0.0.0.0.103.103.0j1.2.0....0...1c.1.64.psy-ab..2.1.146.6..35i39k1.146.4EQV9p2G--8)
 
 *   ACM: [http://bfy.tw/Iyfh](http://bfy.tw/Iyfh)
-	*   "specific example" site:https://dl.acm.org/
+	*   ["specific example" site:https://dl.acm.org/](https://www.google.com/search?safe=off&ei=HxViW--BAoaGwgTsy4WgCQ&q=%22specific%20example%22%20site:https://dl.acm.org/&oq=%22specific%20example%22%20site:https://dl.acm.org/&gs_l=psy-ab.3...56405.56405.0.56882.1.1.0.0.0.0.98.98.1.1.0....0...1c.1.64.psy-ab..0.0.0....0.5SNvlX6ETGo)
 
 *   BBC: [http://bfy.tw/Iyfm](http://bfy.tw/Iyfm)
-	*   "specific example" site:https://bbc.com
+	*   ["specific example" site:https://bbc.com](https://www.google.com/search?safe=off&ei=WBViW4XNNYO9wATN8KH4DQ&q=%20%22specific%20example%22%20site:https://bbc.com&oq=%20%22specific%20example%22%20site:https://bbc.com&gs_l=psy-ab.3...18681.18681.0.19371.1.1.0.0.0.0.101.101.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.K5ZjI6Owx9o)
 
 ### Preposições
 
@@ -96,13 +97,13 @@ Revisão automática de texto
 ### Exemplos em sites específicos
 
 *   IEEE: [http://bfy.tw/Iyfs](http://bfy.tw/Iyfs)
-	*   "termo" site:http://ieeexplore.ieee.org/
+	*   ["termo" site:http://ieeexplore.ieee.org/](https://www.google.com/search?safe=off&ei=bRViW_XgEMilwATz47jIAw&q=%22termo%22%20site:http://ieeexplore.ieee.org/&oq=%22termo%22%20site:http://ieeexplore.ieee.org/&gs_l=psy-ab.3...26265.26265.0.26821.1.1.0.0.0.0.293.293.2-1.1.0....0...1c.1.64.psy-ab..0.0.0....0.E8WXQ9AL528)
 
 *   ACM: [http://bfy.tw/Iyfu](http://bfy.tw/Iyfu)
-	*   termo site:https://dl.acm.org/
+	*   ["termo" site:https://dl.acm.org/](https://www.google.com/search?safe=off&ei=1hViW9TAEMyMwgTWzr_IAQ&q=%22termo%22%20site:https://dl.acm.org/&oq=%22termo%22%20site:https://dl.acm.org/&gs_l=psy-ab.3...0.0.0.37041.0.0.0.0.0.0.0.0..0.0....0...1c..64.psy-ab..0.0.0....0.jPwc2hpwJK4)
 
 *   BBC: [http://bfy.tw/Iyfz](http://bfy.tw/Iyfz)
-	*   "termo" site:https://bbc.com
+	*   ["termo" site:https://bbc.com](https://www.google.com/search?safe=off&ei=mRViW-PdCoeAwgTgtoyoCA&q=%22termo%22%20site:https://bbc.com&oq=%22termo%22%20site:https://bbc.com&gs_l=psy-ab.3...16783.16783.0.17483.1.1.0.0.0.0.101.101.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.U_2pQ95lv4g)
 
 Dicionários
 -----------
@@ -141,6 +142,3 @@ Editores
 
 ### Equações
 * Codecogs: [https://www.codecogs.com/latex/eqneditor.php?lang=pt-br](https://www.codecogs.com/latex/eqneditor.php?lang=pt-br)
-
-
-
