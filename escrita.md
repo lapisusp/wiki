@@ -84,6 +84,7 @@ Revisão automática de texto
 ---------------------------
 
 *   FLiP: [https://www.flip.pt/FLiP-On-line/Corrector-ortografico-e-sintactico](https://www.flip.pt/FLiP-On-line/Corrector-ortografico-e-sintactico)
+* Language tool: [https://languagetool.org/pt/](https://languagetool.org/pt/)
 
 (Buscar) Exemplos de uso
 ------------------------
