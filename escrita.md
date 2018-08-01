@@ -9,7 +9,9 @@ Revisão automática de texto
 *   WriteLab: [https://app.writelab.com](https://app.writelab.com)
 *   Language tool: [https://languagetool.org/en/](https://languagetool.org/en/)
 *   Grammarly: [https://app.grammarly.com](https://app.grammarly.com)
+*   Hemingway App: [http://hemingwayapp.com/](http://hemingwayapp.com/
 *   Write & Improve: [https://writeandimprove.com](https://writeandimprove.com/)
+*   Expresso: [http://www.expresso-app.org/](http://www.expresso-app.org/)
 *   TEXTalyzer: [https://www.textalyzer.xyz/test](https://www.textalyzer.xyz/test)
 
 (Buscar) Exemplos de traduções
@@ -51,6 +53,10 @@ Revisão automática de texto
 ### Preposições
 
 *   Macmillan Dictionary: [http://www.macmillandictionary.com](http://www.macmillandictionary.com)
+
+### Emoções
+
+*   Tone Analyzer: [https://tone-analyzer-demo.ng.bluemix.net/](https://tone-analyzer-demo.ng.bluemix.net/)
 
 Dicionários
 -----------
