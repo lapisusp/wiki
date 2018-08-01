@@ -4,7 +4,6 @@ Seja bem-vindo(a) a Wiki do [LApIS](http://lapis.each.usp.br/) \- Laboratório d
 
 <CENTER> Localizado na Escola de Artes, Ciências e Humanidades <a href="http://www5.each.usp.br/" rel="nofollow"> (EACH) </a> da Universidade de São Paulo <a href="http://www.usp.br" rel="nofollow"> (USP) </a>, o <a href="http://lapis.each.usp.br/" rel="nofollow"> LApIS </a> tem como principal foco a concepção e desenvolvimento de técnicas de baixo custo e ferramentas para – mas não limitada – a área de saúde. Foi estabelecido com financiamento do CNPq, com um projeto inicial para a construção de um protótipo de um simulador para biópsia de mama. Entre as suas primeiras pesquisas, ferramentas para construção dinâmica de três dimensões (3D) estrutural de fetos por meio de medidas extraídas de duas dimensões ultra-som, visualização de informações de bancos de dados de imagens médicas, e um atlas virtual de câncer de mama foram desenvolvidos. </CENTER>
 
-<BR>
 
 Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp.br)
 
@@ -17,6 +16,8 @@ Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp
   <TD> <a href="CEP" rel="nofollow">Comitê de Ética em Pesquisa</a> </TD> <TD> <I> <a href="escrita" rel="nofollow">Writing Center</a></I> </TD></TR>
 <TR><TD> <i>LApIS for Fun! </i>                   </TD> <TD> Eventos de Interesse </TD></TR>
 </TABLE>
+
+<BR>
 
 <!--
 
