@@ -7,6 +7,7 @@ Revisão automática de texto
 ---------------------------
 
 *   WriteLab: [https://app.writelab.com](https://app.writelab.com)
+*   Language tool: [https://languagetool.org/en/](https://languagetool.org/en/)
 *   Grammarly: [https://app.grammarly.com](https://app.grammarly.com)
 *   Write & Improve: [https://writeandimprove.com](https://writeandimprove.com/)
 *   TEXTalyzer: [https://www.textalyzer.xyz/test](https://www.textalyzer.xyz/test)
@@ -83,8 +84,9 @@ Português
 Revisão automática de texto
 ---------------------------
 
-*   FLiP: [https://www.flip.pt/FLiP-On-line/Corrector-ortografico-e-sintactico](https://www.flip.pt/FLiP-On-line/Corrector-ortografico-e-sintactico)
 * Language tool: [https://languagetool.org/pt/](https://languagetool.org/pt/)
+*   FLiP: [https://www.flip.pt/FLiP-On-line/Corrector-ortografico-e-sintactico](https://www.flip.pt/FLiP-On-line/Corrector-ortografico-e-sintactico)
+
 
 (Buscar) Exemplos de uso
 ------------------------
