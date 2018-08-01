@@ -8,7 +8,7 @@ Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp
 
 <TABLE>
 <TR><TD> Seleção - Pós-Graduação                  </TD> <TD> <a href="rs" rel="nofollow">Revisão Sistemática</a></TD></TR>
-<TR><TD> <a href="experimentos" rel="nofollow">Experimentos & Resultados</a> </TD> <TD> Materiais para Alunos </TD></TR>
+<TR><TD> <a href="experimentos" rel="nofollow">Experimentos & Resultados</a> </TD> <TD> [Materiais para Alunos] (materiais.md) </TD></TR>
 <TR><TD> <a href="CEP" rel="nofollow">Comitê de Ética em Pesquisa</a>     </TD> <TD> Iniciação Científica </TD></TR>
 <TR><TD> Eventos & Periódicos                     </TD> <TD> Laboratório </TD></TR>
 <TR><TD> Projetos                                 </TD> <TD> Colaborações </TD></TR>
