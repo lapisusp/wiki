@@ -14,7 +14,7 @@ Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp
     <TD> <a href="materiais" rel="nofollow"> Conheça o LApIS </a>  </TD> <TD> <a href="rs" rel="nofollow">Revisão Sistemática</a></TD></TR>
 <TR>
   <TD> <a href="CEP" rel="nofollow">Comitê de Ética em Pesquisa</a> </TD> <TD> <I> <a href="escrita" rel="nofollow">Writing Center</a></I> </TD></TR>
-<TR><TD> <i>LApIS for Fun! </i>                   </TD> <TD> Eventos de Interesse </TD></TR>
+  <TR><TD> <a href="fun" rel="nofollow"><i>LApIS for Fun! </i></a> </TD> <TD> <a href="eventos" rel="nofollow">Eventos de Interesse</a> </TD></TR>
 </TABLE>
 
 <BR>
@@ -34,6 +34,7 @@ Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp
   
 <CENTER> Wiki mantido pelos alunos: Cleber Gimenez, Leonardo Silva, Rafael Luiz Testa e Renan Vinícius Aranha <BR> com intuito de reunir informações úteis aos membros do <a href="http://lapis.each.usp.br/" rel="nofollow"> LApIS </a>. </CENTER>
 
+<BR>
 * * *
 
 _Em caso de dúvidas, comentários ou sugestões entre em contato com: [Leonardo Silva (leonardosilva@usp.br)](mailto:leonardosilva@usp.br)_
