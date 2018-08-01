@@ -31,4 +31,4 @@ Wiki mantido pelos alunos: **Cleber Gimenez**, **Leonardo Silva**, **Rafael Luiz
 
 * * *
 
-_Em caso de dúvidas, comentários ou sugestões entre em contato com: [Leonardo Silva](mailto:leonardosilva@usp.br)_
+_Em caso de dúvidas, comentários ou sugestões entre em contato com: [Leonardo Silva (leonardosilva@usp.br)](mailto:leonardosilva@usp.br)_
