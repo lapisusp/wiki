@@ -39,3 +39,8 @@
 * Ocorre em **Novembro**.
 * Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Junho).
 
+# Revistas
+
+## Processamento de imagem
+## [ACM Transactions on Graphics (TOG)](https://tog.acm.org/)
+
