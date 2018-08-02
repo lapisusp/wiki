@@ -66,12 +66,9 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
  
 ## Geração de Expressões Faciais
 
-* [VIMET Game (2012) - Rafael Torres](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
-  ** [Artigo (2011) - VIMET Game - Rafael Torres](/files-materiais/4JogosSeriosSVR2011ViMetGame.pdf)
-  ** [Vídeo - VIMET Game - Rafael Torres](/files-materiais/4JogosSeriosvimetGameFull.mp4)
-* [Serious Games baseados em RV](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
-* [Serious games para Sáude e Treinamento Imersivo](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
-
+* [Artigo CBMS2015 - Rafael Testa](/files-materiais/5CBMS2015Rafael.pdf)
+  ** [Relatório IC - Rafael Testa](/files-materiais/5JogosPsiquiatricosRelatorioFinalRafaelTesta.pdf)
+* [Relatório - Reconhecimento de emoções](/files-materiais/5JogosPsiquiatricosRelatorio-finalUFG.pdf)
 
 <HR>
  
