@@ -56,24 +56,13 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 ## Jogos Sérios
 
 * [VIMET Game (2012) - Rafael Torres](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
-  ** [Artigo (2011) - VIMET Game - Rafael Torres](/files-materiais/4JogosSeriosSVR2011ViMetGame.pdf)
-  ** [Vídeo - VIMET Game - Rafael Torres](/files-materiais/4JogosSeriosvimetGameFull.mp4)
+  * [Artigo (2011) - VIMET Game - Rafael Torres](/files-materiais/4JogosSeriosSVR2011ViMetGame.pdf)
+  * [Vídeo - VIMET Game - Rafael Torres](/files-materiais/4JogosSeriosvimetGameFull.mp4)
 * [Serious Games baseados em RV](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
 * [Serious games para Sáude e Treinamento Imersivo](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
  
  
  <HR>
- 
-## Jogos Sérios
-
-* [VIMET Game (2012) - Rafael Torres](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
-  ** [Artigo (2011) - VIMET Game - Rafael Torres](/files-materiais/4JogosSeriosSVR2011ViMetGame.pdf)
-  ** [Vídeo - VIMET Game - Rafael Torres](/files-materiais/4JogosSeriosvimetGameFull.mp4)
-* [Serious Games baseados em RV](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
-* [Serious games para Sáude e Treinamento Imersivo](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
-
-
-<HR>
  
 ## Geração de Expressões Faciais
 
@@ -88,4 +77,4 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
  
 ## Correção Automática de Provas Dissertativas em Radiologia
 
-* [VIMET Game (2012) - Rafael Torres](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
+* [Correção - Texto Médico](/files-materiais/6CorrecaoTextoMedico.pdf)
