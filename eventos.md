@@ -1,6 +1,7 @@
 # Calendário de Eventos
 
 <BR>
+  
 ## EVENTOS NO PRIMEIRO SEMESTRE
 
 <HR>
@@ -15,7 +16,7 @@
 * Ocorre em **Junho**.
 * Deadline no início do **primeiro** semestre do ano do evento (aproximadamente Janeiro).
 
-<HR>
+<BR>
 
 ## EVENTOS NO SEGUNDO SEMESTRE
 
