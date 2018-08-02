@@ -34,7 +34,7 @@ As informações aqui apresentadas se baseiam nas fases propostas por Kitchenham
 
 ## Exemplos de Artigos de Revisão Sistemática
 
-*   Ricardo Wandré Dias Pedro, Fátima LS Nunes, and Ariane Machado-Lima. **["Using grammars for pattern recognition in images: a systematic review."](http://dl.acm.org.ez67.periodicos.capes.gov.br/citation.cfm?id=2543593)** ACM Computing Surveys (CSUR) 46.2 (2013): 26.
+*   Ricardo Wandré Dias Pedro, Fátima LS Nunes, and Ariane Machado-Lima. **["Using grammars for pattern recognition in images: a systematic review."](https://dl.acm.org/citation.cfm?id=2543593)** ACM Computing Surveys (CSUR) 46.2 (2013): 26.
 
 *   Narciso, Everton Note, Márcio Eduardo Delamaro, and Fátima De Lourdes Dos Santos Nunes. **["Test case selection: A systematic literature review."](http://www-worldscientific-com.ez67.periodicos.capes.gov.br/doi/abs/10.1142/S0218194014500259)** International Journal of Software Engineering and Knowledge Engineering 24.04 (2014): 653-676.
 
@@ -42,19 +42,19 @@ As informações aqui apresentadas se baseiam nas fases propostas por Kitchenham
 
 *   Gonçalves, Vagner Mendonça, Márcio Eduardo Delamaro, and Fátima de Lourdes dos Santos Nunes. **["A systematic review on the evaluation and characteristics of computer-aided diagnosis systems."](http://www.scielo.br/scielo.php?pid=S1517-31512014000400008&script=sci_arttext&tlng=pt)** Revista Brasileira De Engenharia Biomedica 30.4 (2014): 355-383.
 
-*   dos Santos, Alinne C. Correa, Marcio Eduardo Delamaro, and Fatima LS Nunes. **["The relationship between requirements engineering and virtual reality systems: A systematic literature review."](http://ieeexplore.ieee.org.ez67.periodicos.capes.gov.br/abstract/document/6655762/?reload=true)** Virtual and Augmented Reality (SVR), 2013 XV Symposium on. IEEE, 2013.
+*   dos Santos, Alinne C. Correa, Marcio Eduardo Delamaro, and Fatima LS Nunes. **["The relationship between requirements engineering and virtual reality systems: A systematic literature review."](https://ieeexplore.ieee.org/abstract/document/6655762/)** Virtual and Augmented Reality (SVR), 2013 XV Symposium on. IEEE, 2013.
 
   
 
 ## Exemplos de Artigos de Revisão **Não** Sistemática
 
-*   Petitjean, Sylvain. **["A survey of methods for recovering quadrics in triangle meshes."](https://dl.acm.org.ez67.periodicos.capes.gov.br/citation.cfm?id=508354)** ACM Computing Surveys (CSUR) 34, no. 2 (2002): 211-262.
+*   Petitjean, Sylvain. **["A survey of methods for recovering quadrics in triangle meshes."](https://dl.acm.org/citation.cfm?id=508354)** ACM Computing Surveys (CSUR) 34, no. 2 (2002): 211-262.
 
-*   Ivory, Melody Y., and Marti A. Hearst. **["The state of the art in automating usability evaluation of user interfaces."](https://dl.acm.org.ez67.periodicos.capes.gov.br/citation.cfm?id=503114)** ACM Computing Surveys (CSUR) 33, no. 4 (2001): 470-516.
+*   Ivory, Melody Y., and Marti A. Hearst. **["The state of the art in automating usability evaluation of user interfaces."](https://dl.acm.org/citation.cfm?id=503114)** ACM Computing Surveys (CSUR) 33, no. 4 (2001): 470-516.
 
-*   Zhao, Wenyi, Rama Chellappa, P. Jonathon Phillips, and Azriel Rosenfeld. **["Face recognition: A literature survey."](https://dl.acm.org.ez67.periodicos.capes.gov.br/citation.cfm?id=508354)** ACM computing surveys (CSUR) 35, no. 4 (2003): 399-458.
+*   Zhao, Wenyi, Rama Chellappa, P. Jonathon Phillips, and Azriel Rosenfeld. **["Face recognition: A literature survey."](https://dl.acm.org/citation.cfm?id=954342)** ACM computing surveys (CSUR) 35, no. 4 (2003): 399-458.
 
-*   Damas, Sergio, Oscar Cordón, Oscar Ibáñez, Jose Santamaría, Inmaculada Alemán, Miguel Botella, and Fernando Navarro. **["Forensic identification by computer-aided craniofacial superimposition: a survey."](https://dl.acm.org.ez67.periodicos.capes.gov.br/citation.cfm?id=1978806)** ACM Computing Surveys (CSUR) 43, no. 4 (2011): 27.
+*   Damas, Sergio, Oscar Cordón, Oscar Ibáñez, Jose Santamaría, Inmaculada Alemán, Miguel Botella, and Fernando Navarro. **["Forensic identification by computer-aided craniofacial superimposition: a survey."](https://dl.acm.org/citation.cfm?id=1978806)** ACM Computing Surveys (CSUR) 43, no. 4 (2011): 27.
 
   
 
@@ -68,22 +68,22 @@ UFSCAR.
 
 ## Para saber mais
 
-Petticrew, Mark, and Helen Roberts. **["Systematic reviews in the social sciences: A practical guide"](http://onlinelibrary-wiley-com.ez67.periodicos.capes.gov.br/book/10.1002/9780470754887)**. John Wiley & Sons, 2008.
+Petticrew, Mark, and Helen Roberts. **"Systematic reviews in the social sciences: A practical guide"**. John Wiley & Sons, 2008.
 
-Kitchenham, Barbara A., Tore Dyba, and Magne Jorgensen. **["Evidence-based software engineering."](https://dl.acm.org.ez67.periodicos.capes.gov.br/citation.cfm?id=999432)** In Proceedings of the 26th international conference on software engineering, pp. 273-281. IEEE Computer Society, 2004.
+Kitchenham, Barbara A., Tore Dyba, and Magne Jorgensen. **["Evidence-based software engineering."](https://dl.acm.org/citation.cfm?id=999432)** In Proceedings of the 26th international conference on software engineering, pp. 273-281. IEEE Computer Society, 2004.
 
   
 
 ## Sugestões de periódicos
 
-*   [ACM Computing Surveys (CSUR)](https://dl.acm.org.ez67.periodicos.capes.gov.br/citation.cfm?id=J204)
+*   [ACM Computing Surveys (CSUR)](https://csur.acm.org/)
 *   [Computer Science Review](https://www.journals.elsevier.com/computer-science-review) (Elsevier)
 
 ## Arquivos Relacionados
 
 Biolchini, Jorge, Paula Gomes Mian, Ana Candida Cruz Natali, and Guilherme Horta Travassos. "[Systematic review in software engineering.](ftp://161.24.19.221/ele/ivo/Leitura/biolchini_2005.pdf)" System Engineering and Computer Science Department COPPE/UFRJ, Technical Report ES 679, no. 05 (2005): 45.
 
-Kitchenham, Barbara. ["Procedures for performing systematic reviews."](http://www.ifs.tuwien.ac.at/~weippl/systemicReviewsSoftwareEngineering.pdf) Keele, UK, Keele University 33, no. 2004 (2004): 1-26.
+Kitchenham, Barbara. ["Procedures for performing systematic reviews."](http://csnotes.upm.edu.my/kelasmaya/pgkm20910.nsf/0/715071a8011d4c2f482577a700386d3a/$FILE/10.1.1.122.3308[1].pdf) Keele, UK, Keele University 33, no. 2004 (2004): 1-26.
 
 * * *
 
