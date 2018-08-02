@@ -39,8 +39,17 @@
 * Ocorre em **Novembro**.
 * Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Junho).
 
+
+<HR>
+  
+Mais eventos podem ser encontrados em: [http://www.guide2research.com/topconf/computer-vision](http://www.guide2research.com/topconf/computer-vision)
+
 # Revistas
 
 ## Processamento de imagem
 ## [ACM Transactions on Graphics (TOG)](https://tog.acm.org/)
+
+<HR>
+  
+Mais revistas podem ser encontradas em: [http://www.guide2research.com/journals/computer-vision](http://www.guide2research.com/journals/computer-vision)
 
