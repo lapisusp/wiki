@@ -36,7 +36,7 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
   
 <HR>
  
- ## Recuperação de Imagens baseada em Conteúdo (CBIR)
+## Recuperação de Imagens baseada em Conteúdo (CBIR)
 
 * [Minicurso - CBIR](/files-materiais/3CBIR0ConceitosMinicursoSaude.pdf)
 * [Monografia - Ana Paula de Oliveira Santos](/files-materiais/3CBIRAnaPaula.pdf)
@@ -45,16 +45,47 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
   * [Monografia - Leila Bergamasco](/files-materiais/3CBIRMonografiaTCCFinalLeila.pdf)
   * [Dissertação - Leila Bergamasco](/files-materiais/3CBIRDissertacaoFinalLeila.pdf)
 * [Artigo - Rafael A. P. Oliveira](/files-materiais/3CBIR-CBARRafaelseke14.pdf)  
-* [Dissertação - Everton Narciso](/files-materiais/3CBIRDissertacaoEvertonFinal)
+* [Dissertação - Everton Narciso](/files-materiais/3CBIRDissertacaoEvertonFinal.pdf)
 * [Artigo - Davi](/files-materiais/3CBIRiSysDaviPublicado.pdf)  
 * [Dissertação - Rafael Moraes](/files-materiais/3CBIRMonografiaRafael.pdf)  
 * [Processamento Som](/files-materiais/3CBIRProcessamentoSomLivro.pdf)  
 
 
-
-
-**Palestra sobre Revisão Sistemática - Profa. Fátima L. S. Nunes**
+<HR>
  
+## Jogos Sérios
 
-*   **Slides da Palestra**
-    *   Revisão Sistemática. [RevisaoSistematicaConceitos.pdf](/files/RevisaoSistematicaConceitos.pdf)
+* [VIMET Game (2012) - Rafael Torres](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
+  ** [Artigo (2011) - VIMET Game - Rafael Torres](/files-materiais/4JogosSeriosSVR2011ViMetGame.pdf)
+  ** [Vídeo - VIMET Game - Rafael Torres](/files-materiais/4JogosSeriosvimetGameFull.mp4)
+* [Serious Games baseados em RV](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
+* [Serious games para Sáude e Treinamento Imersivo](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
+ 
+ 
+ <HR>
+ 
+## Jogos Sérios
+
+* [VIMET Game (2012) - Rafael Torres](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
+  ** [Artigo (2011) - VIMET Game - Rafael Torres](/files-materiais/4JogosSeriosSVR2011ViMetGame.pdf)
+  ** [Vídeo - VIMET Game - Rafael Torres](/files-materiais/4JogosSeriosvimetGameFull.mp4)
+* [Serious Games baseados em RV](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
+* [Serious games para Sáude e Treinamento Imersivo](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
+
+
+<HR>
+ 
+## Geração de Expressões Faciais
+
+* [VIMET Game (2012) - Rafael Torres](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
+  ** [Artigo (2011) - VIMET Game - Rafael Torres](/files-materiais/4JogosSeriosSVR2011ViMetGame.pdf)
+  ** [Vídeo - VIMET Game - Rafael Torres](/files-materiais/4JogosSeriosvimetGameFull.mp4)
+* [Serious Games baseados em RV](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
+* [Serious games para Sáude e Treinamento Imersivo](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
+
+
+<HR>
+ 
+## Correção Automática de Provas Dissertativas em Radiologia
+
+* [VIMET Game (2012) - Rafael Torres](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
