@@ -16,6 +16,14 @@
 * Ocorre em **Junho**.
 * Deadline no início do **primeiro** semestre do ano do evento (aproximadamente Janeiro).
 
+## [CVPR - IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2019.thecvf.com/)
+* Ocorre em **Junho**.
+* Deadline no final do **segundo** semestre do ano anterior do evento (aproximadamente Novembro).
+
+## [SIGGRAPH - Special Interest Group on Computer GRAPHics and Interactive Techniques](http://sa2019.siggraph.org/)
+* Ocorre em **Junho**.
+* Deadline no inicio do **primeiro** semestre do ano do evento (aproximadamente Janeiro).
+
 <BR>
 
 ## EVENTOS NO SEGUNDO SEMESTRE
@@ -24,10 +32,10 @@
   
 ## [SVR - The Symposium on Virtual and Augmented Reality](http://svr.net.br/)
 * Ocorre em **Novembro**.
-* Deadline no início do **segundo** semestre do ano do evento (aproximadamente Junho).
+* Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Junho).
 
  
 ## [SIBGRAPI: Brazilian Symposium on Computer Graphics and Image Processing](http://www.wikicfp.com/cfp/program?id=2655&f=Brazilian%20Symposium%20on%20Computer%20Graphics%20and%20Image%20Processing)
 * Ocorre em **Novembro**.
-* Deadline no início do **segundo** semestre do ano do evento (aproximadamente Junho).
+* Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Junho).
 
