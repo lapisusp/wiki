@@ -24,4 +24,10 @@
   
 ## [SVR - The Symposium on Virtual and Augmented Reality](http://svr.net.br/)
 * Ocorre em **Novembro**.
-* Deadline no início do **primeiro** semestre do ano do evento (aproximadamente Janeiro).
+* Deadline no início do **segundo** semestre do ano do evento (aproximadamente Junho).
+
+ 
+## [SIBGRAPI: Brazilian Symposium on Computer Graphics and Image Processing](http://www.wikicfp.com/cfp/program?id=2655&f=Brazilian%20Symposium%20on%20Computer%20Graphics%20and%20Image%20Processing)
+* Ocorre em **Novembro**.
+* Deadline no início do **segundo** semestre do ano do evento (aproximadamente Junho).
+
