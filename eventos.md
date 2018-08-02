@@ -1,7 +1,10 @@
 # Calendário de Eventos
 
+<BR>
 ## EVENTOS NO PRIMEIRO SEMESTRE
 
+<HR>
+  
 ## [ACM SAC - The Symposium on Applied Computing](https://www.sigapp.org/sac/)
 * Ocorre em **Abril**
 * Deadline no **segundo** semestre do ano anterior ao evento (aproximadamente Setembro).
@@ -14,8 +17,12 @@
 
 <HR>
 
+<BR>
+  
 ## EVENTOS NO SEGUNDO SEMESTRE
 
+<HR>
+  
 ## [SVR - The Symposium on Virtual and Augmented Reality](http://svr.net.br/)
 * Ocorre em **Novembro**.
 * Deadline no início do **primeiro** semestre do ano do evento (aproximadamente Janeiro).
