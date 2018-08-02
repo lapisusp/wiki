@@ -17,8 +17,6 @@
 
 <HR>
 
-<BR>
-  
 ## EVENTOS NO SEGUNDO SEMESTRE
 
 <HR>
