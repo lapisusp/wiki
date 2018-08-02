@@ -67,7 +67,7 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 ## Geração de Expressões Faciais
 
 * [Artigo CBMS2015 - Rafael Testa](/files-materiais/5CBMS2015Rafael.pdf)
-  ** [Relatório IC - Rafael Testa](/files-materiais/5JogosPsiquiatricosRelatorioFinalRafaelTesta.pdf)
+  * [Relatório IC - Rafael Testa](/files-materiais/5JogosPsiquiatricosRelatorioFinalRafaelTesta.pdf)
 * [Relatório - Reconhecimento de emoções](/files-materiais/5JogosPsiquiatricosRelatorio-finalUFG.pdf)
 
 <HR>
