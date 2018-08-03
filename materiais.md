@@ -1,4 +1,5 @@
 
+
 # Materiais para alunos
 
 Conheça as áreas de atuação do Laboratório de Aplicações de Informática em Saúde - [LApIS](http://lapis.each.usp.br/) <br> por meio de alguns trabalhos desenvolvidos.
@@ -14,53 +15,54 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 * [Minicurso sobre RV](/files-materiais/0ConceitosMinicursoRealidadeVirtualEAumentadaLivroSVR2009_Minicursos.pdf)
 * [Minicurso sobre RV - Pré-simpósio](/files-materiais/0ConceitosMinicursoRealidadeVirtualEAumentaLivroConceitosSVR2009_PreSimposio.pdf)
 * [Projeto VIDA](/files-materiais/1PROJETOVIDAP&D2010Final.pdf)
-  * [Projeto VIDA - Artigo](/files-materiais/1PROJETOVIDAProjeto_VIDA.pdf)
-  * [Projeto VIDA - Vídeo (versão inglês)](/files-materiais/1FILMEvidaMovie_english.mp4)
-* [Simulação de Inserção de Agulha - Tese - Cleber](/files-materiais/1RVTese-Cleber-Revisada.pdf)  
-* [Projeto VIMET - Dissertação - Cleber](/files-materiais/1RVVIMETDissertaçãoCleberversao9.pdf)
-  * [Projeto VIMET - Dissertação - Ana Claudia](/files-materiais/1RVVIMETDissertaçãoFinalAnaClaudia.pdf)
+  * [Projeto VIDA - Artigo](http://lapis.each.usp.br/pt/research/vida/)
+  * [Projeto VIDA - Vídeo (versão inglês)](https://youtu.be/cCoM_mE2w-I)
+* [Simulação de Inserção de Agulha - Tese - Cleber](http://lapis.each.usp.br/pt/research/simulacao-de-insercao-de-agulha-para-treinamento-de-procedimento-de-anestesia-odontologica/)  
+* [Projeto VIMET - Dissertação - Cleber](http://lapis.each.usp.br/pt/research/vimet-implementacao-e-avaliacao-de-interacao-em-um-framework-para-treinamento-medico/)
+  * [Projeto VIMET - Dissertação - Ana Claudia](http://lapis.each.usp.br/pt/research/vimet-projeto-e-implementacao-de-um-framework-para-aplicacoes-de-treinamento-medico-usando-realidade-virtual/)
   * [Projeto VIMET - Vídeo Haptico](/files-materiais/)
   * [Projeto VIMET - Vídeo Luva](/files-materiais/)
-  * [Projeto VIMET - Vídeo Odonto](/files-materiais/1RVViMeTOdonto.wmv)
-  * [Projeto VIMET - Vídeo Wizard](/files-materiais/1VIMETMovieWizard.mp4)
-* [Estruturas de Dados](/files-materiais/1RVEstruturasDados.pdf)
+  * [Projeto VIMET - Vídeo Odonto](https://youtu.be/rrkjGDJDDws)
+  * [Projeto VIMET - Vídeo Wizard](https://youtu.be/r_LWnL3VWfg)
+* [Estruturas de Dados](https://www.ncbi.nlm.nih.gov/pubmed/27568296)
 * [Artigo - Evolução da RV e RA em Saúde](/files-materiais/1RVSaudeBrasil15AnosArtigoSVR.pdf)
 
 <HR>
 
 ## Visualização de Informação (VI)
 
-* [Dissertação - Claudia Berti](/files-materiais/2VISUALIZAÇÃODissertação ClaudiaBerti.pdf)
-* [Dissertação - Silvia](/files-materiais/2VISUALIZAÇÃODISSERTAÇAOSilvia.pdf)
-* [Dissertação - Roque](/files-materiais/2VISUALIZAÇÃOdissertaRoqueFinal.pdf)
-* [Artigo - Davi](/files-materiais/2VISUALIZAÇÃOiSysDaviPublicado.pdf)  
+* [Dissertação - Claudia Berti](http://lapis.each.usp.br/pt/research/vrvis-ferramenta/)
+* [Dissertação - Silvia](http://lapis.each.usp.br/pt/research/vrvis-manager/)
+* [Dissertação - Roque](http://lapis.each.usp.br/pt/research/visualizacao-tridimensional-de-programas-orientados-a-objeto/)
+* [Artigo - Davi](http://lapis.each.usp.br/pt/research/visualizacao-tridimensional-de-programas-orientados-a-objeto/)  
 
 <HR>
 
 ## Recuperação de Imagens baseada em Conteúdo (CBIR)
 
 * [Minicurso - CBIR](/files-materiais/3CBIR0ConceitosMinicursoSaude.pdf)
-* [Monografia - Ana Paula de Oliveira Santos](/files-materiais/3CBIRAnaPaula.pdf)
+* [Monografia - Ana Paula de Oliveira Santos](http://lapis.each.usp.br/pt/research/recuperacao-de-imagens-mamograficas-baseada-em-conteudo/)
 * [Plano de Pesquisa - Leila Bergamasco](/files-materiais/3CBIRLeilaBergamascoPlano de PesquisaDr.pdf)
-  * [Artigo - MEDINFO](/files-materiais/3CBIRArtigoMEDINFO.pdf)
+  * [Artigo - MEDINFO](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10134/1013430/A-novel-3D-shape-descriptor-for-automatic-retrieval-of-anatomical/10.1117/12.2253928.short?SSO=1)
   * [Monografia - Leila Bergamasco](/files-materiais/3CBIRMonografiaTCCFinalLeila.pdf)
-  * [Dissertação - Leila Bergamasco](/files-materiais/3CBIRDissertacaoFinalLeila.pdf)
-* [Artigo - Rafael A. P. Oliveira](/files-materiais/3CBIR-CBARRafaelseke14.pdf)  
-* [Dissertação - Everton Narciso](/files-materiais/3CBIRDissertacaoEvertonFinal.pdf)
-* [Artigo - Davi](/files-materiais/3CBIRiSysDaviPublicado.pdf)  
-* [Dissertação - Rafael Moraes](/files-materiais/3CBIRMonografiaRafael.pdf)  
+  * [Dissertação - Leila Bergamasco](http://www.teses.usp.br/teses/disponiveis/100/100131/tde-23092013-152421/pt-br.php)
+* [Artigo - Rafael A. P. Oliveira](http://lapis.each.usp.br/pt/research/sistema-para-recuperacao-de-imagens-por-conteudo-para-internet/)  
+* [Dissertação - Everton Narciso](http://lapis.each.usp.br/pt/research/selecao-automatizada-de-casos-de-teste-para-software-com-saidas-graficas-utilizando-cbir-e-conceitos-de-variabilidade/)
+* [Artigo - Davi](http://lapis.each.usp.br/pt/research/visualizacao-tridimensional-de-programas-orientados-a-objeto/)  
+* [Dissertação - Rafael Moraes](http://lapis.each.usp.br/pt/research/sistema-para-recuperacao-de-imagens-por-conteudo-para-internet/)  
 * [Processamento Som](/files-materiais/3CBIRProcessamentoSomLivro.pdf)  
-
+	* MITCHELL, Joan L. **Introduction to digital audio coding and standards**. Journal of Electronic Imaging, v. 13, n. 2, p. 399, 2004.
 
 <HR>
 
 ## Jogos Sérios
 
-* [VIMET Game (2012) - Rafael Torres](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
-  * [Artigo (2011) - VIMET Game - Rafael Torres](/files-materiais/4JogosSeriosSVR2011ViMetGame.pdf)
-  * [Vídeo - VIMET Game - Rafael Torres](/files-materiais/4JogosSeriosvimetGameFull.mp4)
-* [Serious Games baseados em RV](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
-* [Serious games para Sáude e Treinamento Imersivo](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
+* [VIMET Game (2012) - Rafael Torres](http://seer.ufrgs.br/index.php/jis/article/view/32127)
+  * [Artigo (2011) - VIMET Game - Rafael Torres](http://lapis.each.usp.br/pt/research/aplicando-aspectos-imersivos-em-um-serious-game-para-treinamento-medico-virtual/)
+* [Vídeo - VIMET Game - Rafael Torres](http://lapis.each.usp.br/pt/research/vimetgame-a-serious-game-for-virtual-medical-training-of-breast-biopsy/)
+* [Serious Games baseados em RV](/files-materiais/)
+* [Serious games para Sáude e Treinamento Imersivo](/files-materiais/)
+* [Serious games - Liliane](http://lapis.each.usp.br/pt/research/serious-games-baseados-em-realidade-virtual-para-educacao-medica/)
 
 
  <HR>
@@ -72,9 +74,9 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 
 ### Livros
 
-* PHARR, Matt; JAKOB, Wenzel; HUMPHREYS, Greg. Physically based rendering: From theory to implementation. Morgan Kaufmann, 2016.
+* PHARR, Matt; JAKOB, Wenzel; HUMPHREYS, Greg. **Physically based rendering: From theory to implementation**. Morgan Kaufmann, 2016.
 
-* SHUM, Heung-Yeung; CHAN, Shing-Chow; KANG, Sing Bing. Image-based rendering. Springer Science & Business Media, 2008.
+* SHUM, Heung-Yeung; CHAN, Shing-Chow; KANG, Sing Bing. **Image-based rendering**. Springer Science & Business Media, 2008.
 
 ### Bancos de expressões faciais
 
