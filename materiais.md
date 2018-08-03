@@ -1,3 +1,4 @@
+
 # Materiais para alunos
 
 Conheça as áreas de atuação do Laboratório de Aplicações de Informática em Saúde - [LApIS](http://lapis.each.usp.br/) <br> por meio de alguns trabalhos desenvolvidos.
@@ -24,18 +25,18 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
   * [Projeto VIMET - Vídeo Wizard](/files-materiais/1VIMETMovieWizard.mp4)
 * [Estruturas de Dados](/files-materiais/1RVEstruturasDados.pdf)
 * [Artigo - Evolução da RV e RA em Saúde](/files-materiais/1RVSaudeBrasil15AnosArtigoSVR.pdf)
-  
+
 <HR>
- 
+
 ## Visualização de Informação (VI)
 
 * [Dissertação - Claudia Berti](/files-materiais/2VISUALIZAÇÃODissertação ClaudiaBerti.pdf)
 * [Dissertação - Silvia](/files-materiais/2VISUALIZAÇÃODISSERTAÇAOSilvia.pdf)
 * [Dissertação - Roque](/files-materiais/2VISUALIZAÇÃOdissertaRoqueFinal.pdf)
 * [Artigo - Davi](/files-materiais/2VISUALIZAÇÃOiSysDaviPublicado.pdf)  
-  
+
 <HR>
- 
+
 ## Recuperação de Imagens baseada em Conteúdo (CBIR)
 
 * [Minicurso - CBIR](/files-materiais/3CBIR0ConceitosMinicursoSaude.pdf)
@@ -52,7 +53,7 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 
 
 <HR>
- 
+
 ## Jogos Sérios
 
 * [VIMET Game (2012) - Rafael Torres](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
@@ -60,18 +61,27 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
   * [Vídeo - VIMET Game - Rafael Torres](/files-materiais/4JogosSeriosvimetGameFull.mp4)
 * [Serious Games baseados em RV](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
 * [Serious games para Sáude e Treinamento Imersivo](/files-materiais/4JogosSeriosJIS2012VimetGame.pdf)
- 
- 
- <HR>
- 
-## Geração de Expressões Faciais
 
-* [Artigo CBMS2015 - Rafael Testa](/files-materiais/5CBMS2015Rafael.pdf)
-  * [Relatório IC - Rafael Testa](/files-materiais/5JogosPsiquiatricosRelatorioFinalRafaelTesta.pdf)
+
+ <HR>
+
+## Representação de emoções
+
+* [Projetos, artigos, dissertações e relatórios do grupo](http://lapis.each.usp.br/pt/project/emotion-representation/)
 * [Relatório - Reconhecimento de emoções](/files-materiais/5JogosPsiquiatricosRelatorio-finalUFG.pdf)
 
+### Livros
+
+* PHARR, Matt; JAKOB, Wenzel; HUMPHREYS, Greg. Physically based rendering: From theory to implementation. Morgan Kaufmann, 2016.
+
+* SHUM, Heung-Yeung; CHAN, Shing-Chow; KANG, Sing Bing. Image-based rendering. Springer Science & Business Media, 2008.
+
+### Bancos de expressões faciais
+
+* [Lista na wikipedia](https://en.wikipedia.org/wiki/Facial_expression_databases)
+
 <HR>
- 
+
 ## Correção Automática de Provas Dissertativas em Radiologia
 
 * [Correção - Texto Médico](/files-materiais/6CorrecaoTextoMedico.pdf)
