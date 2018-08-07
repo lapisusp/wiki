@@ -63,6 +63,7 @@ Dicionários
 
 *   Merriam-Webster: [https://www.merriam-webster.com](https://www.merriam-webster.com)
 *   Macmillan Dictionary: [http://www.macmillandictionary.com](http://www.macmillandictionary.com)
+*   Learners Dictionary (Merriam-Webster): [http://learnersdictionary.com/](http://learnersdictionary.com/)
 
 Sinônimos
 ---------
