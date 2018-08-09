@@ -79,6 +79,7 @@ Aulas e livros
 	*   [https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/](https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/)
 	*   [https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/](https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/)
 	*   [https://www.oxford-royale.co.uk/articles/words-phrases-good-essays.html](https://www.oxford-royale.co.uk/articles/words-phrases-good-essays.html)
+	* Figures: [https://www.e-education.psu.edu/styleforstudents/c4_p11.html](https://www.e-education.psu.edu/styleforstudents/c4_p11.html)
 
 Apresentações
 -------------
