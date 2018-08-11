@@ -129,6 +129,12 @@ Sinônimos e antônimos
 *   Sinônimos: [https://www.sinonimos.com.br/](https://www.sinonimos.com.br/)
 *   Antônimos: [https://www.antonimos.com.br/](https://www.antonimos.com.br/)
 
+Verbos
+---------
+
+*   conjugação: [https://www.conjugacao.com.br/](https://www.conjugacao.com.br/)
+
+
 Aulas e livros
 --------------
 
