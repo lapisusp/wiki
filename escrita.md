@@ -123,10 +123,11 @@ Dicionários
 *   Priberam: [https://www.priberam.pt/dlpo](https://www.priberam.pt/dlpo)
 *   Michaelis: [http://michaelis.uol.com.br](http://michaelis.uol.com.br)
 
-Sinônimos
+Sinônimos e antônimos
 ---------
 
 *   Sinônimos: [https://www.sinonimos.com.br/](https://www.sinonimos.com.br/)
+*   Antônimos: [https://www.antonimos.com.br/](https://www.antonimos.com.br/)
 
 Aulas e livros
 --------------
