@@ -75,6 +75,7 @@ Aulas e livros
 --------------
 
 *   Sciwriting: [https://cgi.duke.edu/web/sciwriting](https://cgi.duke.edu/web/sciwriting)
+*  Stanforad: [https://www.coursera.org/learn/sciwrite](https://www.coursera.org/learn/sciwrite)
 *   Academic phrases and verbs:
 	*   [https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/](https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/)
 	*   [https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/](https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/)
