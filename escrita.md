@@ -47,8 +47,14 @@ Revisão automática de texto
 *   ACM: [http://bfy.tw/Iyfh](http://bfy.tw/Iyfh)
 	*   ["specific example" site:https://dl.acm.org/](https://www.google.com/search?safe=off&ei=HxViW--BAoaGwgTsy4WgCQ&q=%22specific%20example%22%20site:https://dl.acm.org/&oq=%22specific%20example%22%20site:https://dl.acm.org/&gs_l=psy-ab.3...56405.56405.0.56882.1.1.0.0.0.0.98.98.1.1.0....0...1c.1.64.psy-ab..0.0.0....0.5SNvlX6ETGo)
 
+*   Science Direct: [http://bfy.tw/JURR](http://bfy.tw/JURR)
+	*   ["specific example" site:https://www.sciencedirect.com/](https://www.google.com/search?safe=off&ei=y6V6W8vfJ5CQlwTbmpmYCg&q=%22specific+example%22+site%3Ahttps%3A%2F%2Fwww.sciencedirect.com%2F&oq=%22specific+example%22+site%3Ahttps%3A%2F%2Fwww.sciencedirect.com%2F&gs_l=psy-ab.3...387901.387901.0.388810.1.1.0.0.0.0.330.330.3-1.1.0....0...1c.1.64.psy-ab..0.0.0....0.MhyTAsDQzD4)	
+
 *   BBC: [http://bfy.tw/Iyfm](http://bfy.tw/Iyfm)
 	*   ["specific example" site:https://bbc.com](https://www.google.com/search?safe=off&ei=WBViW4XNNYO9wATN8KH4DQ&q=%20%22specific%20example%22%20site:https://bbc.com&oq=%20%22specific%20example%22%20site:https://bbc.com&gs_l=psy-ab.3...18681.18681.0.19371.1.1.0.0.0.0.101.101.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.K5ZjI6Owx9o)
+
+	
+	
 
 ### Preposições
 
@@ -113,6 +119,9 @@ Revisão automática de texto
 
 *   ACM: [http://bfy.tw/Iyfu](http://bfy.tw/Iyfu)
 	*   ["termo" site:https://dl.acm.org/](https://www.google.com/search?safe=off&ei=1hViW9TAEMyMwgTWzr_IAQ&q=%22termo%22%20site:https://dl.acm.org/&oq=%22termo%22%20site:https://dl.acm.org/&gs_l=psy-ab.3...0.0.0.37041.0.0.0.0.0.0.0.0..0.0....0...1c..64.psy-ab..0.0.0....0.jPwc2hpwJK4)
+
+*   Science Direct: [http://bfy.tw/JURH](http://bfy.tw/JURH)
+	*   ["termo" site:https://www.sciencedirect.com/](https://www.google.com/search?safe=off&ei=mqV6W-2ULK_BlwSgpIaYDQ&q=%22termo%22+site%3Ahttps%3A%2F%2Fwww.sciencedirect.com%2F&oq=%22termo%22+site%3Ahttps%3A%2F%2Fwww.sciencedirect.com%2F&gs_l=psy-ab.3...46550.46550.0.46778.1.1.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..1.0.0....0.dqL7zUpjdQk)
 
 *   BBC: [http://bfy.tw/Iyfz](http://bfy.tw/Iyfz)
 	*   ["termo" site:https://bbc.com](https://www.google.com/search?safe=off&ei=mRViW-PdCoeAwgTgtoyoCA&q=%22termo%22%20site:https://bbc.com&oq=%22termo%22%20site:https://bbc.com&gs_l=psy-ab.3...16783.16783.0.17483.1.1.0.0.0.0.101.101.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.U_2pQ95lv4g)
