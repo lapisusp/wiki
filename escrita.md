@@ -126,6 +126,9 @@ Revisão automática de texto
 *   BBC: [http://bfy.tw/Iyfz](http://bfy.tw/Iyfz)
 	*   ["termo" site:https://bbc.com](https://www.google.com/search?safe=off&ei=mRViW-PdCoeAwgTgtoyoCA&q=%22termo%22%20site:https://bbc.com&oq=%22termo%22%20site:https://bbc.com&gs_l=psy-ab.3...16783.16783.0.17483.1.1.0.0.0.0.101.101.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.U_2pQ95lv4g)
 
+*   Teses USP: [http://bfy.tw/KQd1](http://bfy.tw/KQd1)
+	*   ["uma definição" site:teses.usp.br](https://www.google.com/search?q=%22uma+defini%C3%A7%C3%A3o%22+site%3Ateses.usp.br)
+
 Dicionários
 -----------
 
