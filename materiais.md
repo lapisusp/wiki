@@ -52,7 +52,9 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 * [Dissertação - Rafael Moraes](http://lapis.each.usp.br/pt/research/sistema-para-recuperacao-de-imagens-por-conteudo-para-internet/)  
 * [Processamento Som](/files-materiais/3CBIRProcessamentoSomLivro.pdf)  
 	* MITCHELL, Joan L. **Introduction to digital audio coding and standards**. Journal of Electronic Imaging, v. 13, n. 2, p. 399, 2004.
-
+* [Curva precisão revocação](https://drive.google.com/file/d/0B-ffcZLl3gjrY2Y3SnJRWjhocklSelJqN0xxc3NnTTRjcllv/view?usp=sharing)  
+	* MITCHELL, Joan L. **Introduction to digital audio coding and standards**. Journal of Electronic Imaging, v. 13, n. 2, p. 399, 2004.
+	
 <HR>
 
 ## Jogos Sérios
