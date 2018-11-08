@@ -3,5 +3,5 @@ Escrita
 
 Ferramentas para escrita
 ------------------------
-* [inglês](/escrita/ferramentas/pt)
-* [português](/escrita/ferramentas/pt)
+* [inglês](/wiki/escrita/ferramentas/pt)
+* [português](/wiki/escrita/ferramentas/pt)
