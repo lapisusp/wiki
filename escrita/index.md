@@ -7,7 +7,7 @@ Ferramentas para escrita
 * [português](/wiki/escrita/ferramentas/br)
 
 Diretrizes para artigos
-=========
+-----------------------
 
 Os trabalhos produzidos ou publicados, em qualquer mídia, que decorram de atividades financiadas, integral ou parcialmente, pela CAPES, deverão, obrigatoriamente, fazer referência ao apoio recebido. Deverão ser usadas as seguintes expressões, no idioma do trabalho:
 
