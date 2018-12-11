@@ -1,5 +1,5 @@
 remote_theme: Drassil/git-wiki
 title: [LApIS wiki]
 description: [Wiki do Laboratório de Aplicações de Informática em Saúde]
-logo_url: /assets/images/logo.png
+logo_url: assets/images/logo.png
 custom_sidebar: true
