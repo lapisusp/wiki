@@ -78,3 +78,12 @@ Editores
 
 ### Equações
 * Codecogs: [https://www.codecogs.com/latex/eqneditor.php?lang=pt-br](https://www.codecogs.com/latex/eqneditor.php?lang=pt-br)
+
+Extensões
+--------------
+
+### Citações
+* Ordernar e agrupar citações 
+```latex
+\usepackage[numbers,sort&compress]{natbib}
+```
