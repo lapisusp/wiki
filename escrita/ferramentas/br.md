@@ -79,11 +79,11 @@ Editores
 ### Equações
 * Codecogs: [https://www.codecogs.com/latex/eqneditor.php?lang=pt-br](https://www.codecogs.com/latex/eqneditor.php?lang=pt-br)
 
-Extensões
+Pacotes
 --------------
 
 ### Citações
-* Ordernar e agrupar citações 
+* Pacote para ordenar citações numéricas e agrupar citações com numerações contínuas 
 ```latex
 \usepackage[numbers,sort&compress]{natbib}
 ```
