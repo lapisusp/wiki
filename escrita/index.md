@@ -3,8 +3,8 @@ Escrita
 
 Ferramentas para escrita
 ------------------------
-* [inglês](/wiki/escrita/ferramentas/en)
-* [português](/wiki/escrita/ferramentas/br)
+* [Ferramentas para inglês](/wiki/escrita/ferramentas/en)
+* [Ferramentas para português](/wiki/escrita/ferramentas/br)
 
 Diretrizes para artigos
 -----------------------
