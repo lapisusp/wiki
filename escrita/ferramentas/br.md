@@ -4,7 +4,7 @@ Português
 Revisão automática de texto
 ---------------------------
 
-* Language tool: [https://languagetool.org/pt/](https://languagetool.org/pt/)
+* Language tool: [https://languagetool.org/pt-BR/](https://languagetool.org/pt-BR/)
 *   FLiP: [https://www.flip.pt/FLiP-On-line/Corrector-ortografico-e-sintactico](https://www.flip.pt/FLiP-On-line/Corrector-ortografico-e-sintactico)
 
 
