@@ -19,18 +19,18 @@ As informações aqui apresentadas se baseiam nas fases propostas por Kitchenham
   
 
 *   **Slides da Palestra**
-    *   Revisão Sistemática. [RevisaoSistematicaConceitos.pdf](/files/RevisaoSistematicaConceitos.pdf)
+    *   Revisão Sistemática. [RevisaoSistematicaConceitos.pdf](files/RevisaoSistematicaConceitos.pdf)
 *   **Protocolo**
-    *   Exemplo - Adriano [Protocolo_Adriano.pdf](/files/Protocolo_Adriano.pdf)
-    *   Exemplo - Vagner [ProtocoloVagner.pdf](/files/ProtocoloVagner.pdf)
+    *   Exemplo - Adriano [Protocolo_Adriano.pdf](files/Protocolo_Adriano.pdf)
+    *   Exemplo - Vagner [ProtocoloVagner.pdf](files/ProtocoloVagner.pdf)
 *   **Condução**
-    *   Exemplo - Eunice [ConducaoEunice.pdf](/files/ConducaoEunice.pdf)
-    *   Exemplo - Vagner [ConducaoVagner.pdf](/files/ConducaoVagner.pdf)
+    *   Exemplo - Eunice [ConducaoEunice.pdf](files/ConducaoEunice.pdf)
+    *   Exemplo - Vagner [ConducaoVagner.pdf](files/ConducaoVagner.pdf)
 *   **Extração**
-    *   Exemplo - [ExemploExtracao.pdf](/files/ExemploExtracao.pdf)
+    *   Exemplo - [ExemploExtracao.pdf](files/ExemploExtracao.pdf)
 *   **Arquivos - _StArt_**
-    *   Exemplo - Mateus [RS_Mateus.zip](/files/RS_Mateus.zip)
-    *   Exemplo - Vagner [Vagner.zip](/files/Vagner.zip)
+    *   Exemplo - Mateus [RS_Mateus.zip](files/RS_Mateus.zip)
+    *   Exemplo - Vagner [Vagner.zip](files/Vagner.zip)
 
 ## Exemplos de Artigos de Revisão Sistemática
 
