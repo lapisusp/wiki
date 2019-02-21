@@ -1,4 +1,5 @@
 ## Recursos para encontrar artigos
 
-- [https://www.thecvf.com/](https://www.thecvf.com/)
-- [https://arxiv.org/](https://arxiv.org/)
+- [thecvf](http://openaccess.thecvf.com/)
+- [arxiv](https://arxiv.org/)
+
