@@ -1,3 +1,7 @@
+---
+redirect_from: "/"
+---
+
 # LApIS wiki
 
 Seja bem-vindo(a) a Wiki do [LApIS](http://lapis.each.usp.br/) \- Laboratório de Aplicações de Informática em Saúde!
