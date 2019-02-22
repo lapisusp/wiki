@@ -13,6 +13,11 @@ As informações aqui apresentadas se baseiam nas fases propostas por Kitchenham
 ## Materiais de Apoio
 <object style="width:100%;height:100%;width: 820px; height: 461.25px; float: none; clear: both; margin: 2px auto;" data="http://www.youtube.com/embed/Wgaw97mTKWM">
 </object>
+
+Cursos
+------------
+
+* [Elsevier](https://researcheracademy.elsevier.com/writing-research/technical-writing-skills/systematic-reviews-101)
   
 **Palestra sobre Revisão Sistemática - Profa. Fátima L. S. Nunes**
 
@@ -86,5 +91,7 @@ Biolchini, Jorge, Paula Gomes Mian, Ana Candida Cruz Natali, and Guilherme Horta
 Kitchenham, Barbara. ["Procedures for performing systematic reviews."](http://csnotes.upm.edu.my/kelasmaya/pgkm20910.nsf/0/715071a8011d4c2f482577a700386d3a/$FILE/10.1.1.122.3308[1].pdf) Keele, UK, Keele University 33, no. 2004 (2004): 1-26.
 
 * * *
+
+
 
 _Em caso de dúvidas, comentários ou sugestões entre em contato com: [Leonardo Silva](mailto:leonardosilva@usp.br)_
