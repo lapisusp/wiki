@@ -87,3 +87,6 @@ Pacotes
 ```latex
 \usepackage[numbers,sort&compress]{natbib}
 ```
+Cursos
+--------------
+* [iniciante]{https://researcheracademy.elsevier.com/writing-research/technical-writing-skills/beginners-guide-writing-manuscript-latex}
