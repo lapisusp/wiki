@@ -89,4 +89,4 @@ Pacotes
 ```
 Cursos
 --------------
-* [iniciante]{https://researcheracademy.elsevier.com/writing-research/technical-writing-skills/beginners-guide-writing-manuscript-latex}
+* [iniciante](https://researcheracademy.elsevier.com/writing-research/technical-writing-skills/beginners-guide-writing-manuscript-latex)
