@@ -19,6 +19,7 @@ Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp
 <TR>
   <TD> <a href="CEP" rel="nofollow">Comitê de Ética em Pesquisa</a> </TD> <TD> <I> <a href="escrita" rel="nofollow">Writing Center</a></I> </TD></TR>
   <TR><TD> <a href="fun" rel="nofollow"><i>LApIS for Fun! </i></a> </TD> <TD> <a href="eventos-revistas" rel="nofollow">Eventos de Interesse</a> </TD></TR>
+  <TR><TD> <a href="artigos" rel="nofollow">Encontrar artigos</a> </TD> <TD> <a href="servicos-computacionais" rel="nofollow">Serviços computracionais</a> </TD></TR>
 </TABLE>
 
 <BR>
