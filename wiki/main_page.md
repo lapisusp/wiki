@@ -11,18 +11,12 @@ Seja bem-vindo(a) a Wiki do [LApIS](http://lapis.each.usp.br/) \- Laboratório d
 
 Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp.br)
 
-<BR>
-
-<TABLE>
-  <TR>
-    <TD> <a href="materiais" rel="nofollow"> Conheça o LApIS </a> - Materiais para Alunos </TD> <TD> <a href="rs" rel="nofollow">Revisão Sistemática</a></TD></TR>
-<TR>
-  <TD> <a href="CEP" rel="nofollow">Comitê de Ética em Pesquisa</a> </TD> <TD> <I> <a href="escrita" rel="nofollow">Writing Center</a></I> </TD></TR>
-  <TR><TD> <a href="fun" rel="nofollow"><i>LApIS for Fun! </i></a> </TD> <TD> <a href="eventos-revistas" rel="nofollow">Eventos de Interesse</a> </TD></TR>
-  <TR><TD> <a href="artigos" rel="nofollow">Encontrar artigos</a> </TD> <TD> <a href="servicos-computacionais" rel="nofollow">Serviços computracionais</a> </TD></TR>
-</TABLE>
-
-<BR>
+| [Conheça o LApIS](materiais) - Materiais para Alunos                                                                                                                              | [Revisão Sistemática](rs)                |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+| [Comitê de Ética em Pesquisa](CEP)                                                                                                                                                | [Writing Center](escrita)                |
+| [_LApIS for Fun!_](fun)                                                                                                                                                           | [Eventos de Interesse](eventos-revistas) |
+| [Revistas de Interesse](https//docs.google.com/spreadsheets/d/e/2PACX-1vRWjx4BX1eOPOB2Z8wg9Ni9IBmA3PNOxeyfU_hPpgz8MugigpD3AH3axtlJlhxty-AvwwoQN4TIjQp-/pubhtml?gid=0&single=true) | [Encontrar artigos](artigos)              |
+| [Serviços computracionais](servicos-computacionais)                                                                                                                               |                                          |
 
 <CENTER> Wiki mantido pelos alunos: Cleber Gimenez, Leonardo Silva, Rafael Luiz Testa e Renan Vinícius Aranha <BR> com intuito de reunir informações úteis aos membros do <a href="http://lapis.each.usp.br/" rel="nofollow"> LApIS </a>. </CENTER>
 
