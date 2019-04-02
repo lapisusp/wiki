@@ -16,7 +16,7 @@ Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp
 | [Comitê de Ética em Pesquisa](CEP)                                                                                                                                                | [Writing Center](escrita)                |
 | [_LApIS for Fun!_](fun)                                                                                                                                                           | [Eventos de Interesse](eventos-revistas) |
 | [Revistas de Interesse](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWjx4BX1eOPOB2Z8wg9Ni9IBmA3PNOxeyfU_hPpgz8MugigpD3AH3axtlJlhxty-AvwwoQN4TIjQp-/pubhtml?gid=0&single=true) | [Encontrar artigos](artigos)              |
-| [Serviços computracionais](servicos-computacionais)                                                                                                                               |  [Exemplos](Exemplos)                                         |
+| [Serviços computracionais](servicos-computacionais)                                                                                                                               |  [Exemplos](exemplos)                                         |
 
 <CENTER> Wiki mantido pelos alunos: Cleber Gimenez, Leonardo Silva, Rafael Luiz Testa e Renan Vinícius Aranha <BR> com intuito de reunir informações úteis aos membros do <a href="http://lapis.each.usp.br/" rel="nofollow"> LApIS </a>. </CENTER>
 
