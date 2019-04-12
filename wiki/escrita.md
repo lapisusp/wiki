@@ -6,6 +6,13 @@ Ferramentas para escrita
 * [Ferramentas para inglês](escrita-ferramentas-en)
 * [Ferramentas para português](escrita-ferramentas-br)
 
+Proficiência em inglês
+------------------------
+* [Teste gratuito com certificado](https://www.efset.org/english-certificate/)
+* [Lista de testes possíveis](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#Language-specific_scales)
+
+https://www.efset.org/
+
 Diretrizes para artigos
 -----------------------
 
