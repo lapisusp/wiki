@@ -47,7 +47,7 @@ Revisão automática de texto
 
 *   [BBC](https://www.google.com/search?safe=off&ei=WBViW4XNNYO9wATN8KH4DQ&q=%20%22specific%20example%22%20site:https://bbc.com&oq=%20%22specific%20example%22%20site:https://bbc.com&gs_l=psy-ab.3...18681.18681.0.19371.1.1.0.0.0.0.101.101.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.K5ZjI6Owx9o)
 
-*[NY Times](https://www.google.com/search?q="specific+example"+site%3Awww.nytimes.com)
+*   [NY Times](https://www.google.com/search?q="specific+example"+site%3Awww.nytimes.com)
 
 	
 	
