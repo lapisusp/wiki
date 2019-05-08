@@ -72,6 +72,7 @@ Dicionários
 Sinônimos
 ---------
 
+*   MacMillan: [https://www.macmillanthesaurus.com/](https://www.macmillanthesaurus.com/)
 *   Thesaurus.com: [http://www.thesaurus.com](http://www.thesaurus.com)
 *   Merriam-Webster: [https://www.merriam-webster.com/thesaurus](https://www.merriam-webster.com/thesaurus)
 
