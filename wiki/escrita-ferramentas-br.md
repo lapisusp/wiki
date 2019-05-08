@@ -19,20 +19,16 @@ Revisão automática de texto
 
 ### Exemplos em sites específicos
 
-*   IEEE: [http://bfy.tw/Iyfs](http://bfy.tw/Iyfs)
-	*   ["termo" site:http://ieeexplore.ieee.org/](https://www.google.com/search?safe=off&ei=bRViW_XgEMilwATz47jIAw&q=%22termo%22%20site:http://ieeexplore.ieee.org/&oq=%22termo%22%20site:http://ieeexplore.ieee.org/&gs_l=psy-ab.3...26265.26265.0.26821.1.1.0.0.0.0.293.293.2-1.1.0....0...1c.1.64.psy-ab..0.0.0....0.E8WXQ9AL528)
+*   [IEEE](https://www.google.com/search?safe=off&ei=bRViW_XgEMilwATz47jIAw&q=%22termo%22%20site:http://ieeexplore.ieee.org/&oq=%22termo%22%20site:http://ieeexplore.ieee.org/&gs_l=psy-ab.3...26265.26265.0.26821.1.1.0.0.0.0.293.293.2-1.1.0....0...1c.1.64.psy-ab..0.0.0....0.E8WXQ9AL528)
 
-*   ACM: [http://bfy.tw/Iyfu](http://bfy.tw/Iyfu)
-	*   ["termo" site:https://dl.acm.org/](https://www.google.com/search?safe=off&ei=1hViW9TAEMyMwgTWzr_IAQ&q=%22termo%22%20site:https://dl.acm.org/&oq=%22termo%22%20site:https://dl.acm.org/&gs_l=psy-ab.3...0.0.0.37041.0.0.0.0.0.0.0.0..0.0....0...1c..64.psy-ab..0.0.0....0.jPwc2hpwJK4)
+*   [ACM](https://www.google.com/search?safe=off&ei=1hViW9TAEMyMwgTWzr_IAQ&q=%22termo%22%20site:https://dl.acm.org/&oq=%22termo%22%20site:https://dl.acm.org/&gs_l=psy-ab.3...0.0.0.37041.0.0.0.0.0.0.0.0..0.0....0...1c..64.psy-ab..0.0.0....0.jPwc2hpwJK4)
 
-*   Science Direct: [http://bfy.tw/JURH](http://bfy.tw/JURH)
-	*   ["termo" site:https://www.sciencedirect.com/](https://www.google.com/search?safe=off&ei=mqV6W-2ULK_BlwSgpIaYDQ&q=%22termo%22+site%3Ahttps%3A%2F%2Fwww.sciencedirect.com%2F&oq=%22termo%22+site%3Ahttps%3A%2F%2Fwww.sciencedirect.com%2F&gs_l=psy-ab.3...46550.46550.0.46778.1.1.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..1.0.0....0.dqL7zUpjdQk)
+*   [Science Direct](https://www.google.com/search?safe=off&ei=mqV6W-2ULK_BlwSgpIaYDQ&q=%22termo%22+site%3Ahttps%3A%2F%2Fwww.sciencedirect.com%2F&oq=%22termo%22+site%3Ahttps%3A%2F%2Fwww.sciencedirect.com%2F&gs_l=psy-ab.3...46550.46550.0.46778.1.1.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..1.0.0....0.dqL7zUpjdQk)
 
-*   BBC: [http://bfy.tw/Iyfz](http://bfy.tw/Iyfz)
-	*   ["termo" site:https://bbc.com](https://www.google.com/search?safe=off&ei=mRViW-PdCoeAwgTgtoyoCA&q=%22termo%22%20site:https://bbc.com&oq=%22termo%22%20site:https://bbc.com&gs_l=psy-ab.3...16783.16783.0.17483.1.1.0.0.0.0.101.101.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.U_2pQ95lv4g)
+*   [BBC](https://www.google.com/search?safe=off&ei=mRViW-PdCoeAwgTgtoyoCA&q=%22termo%22%20site:https://bbc.com&oq=%22termo%22%20site:https://bbc.com&gs_l=psy-ab.3...16783.16783.0.17483.1.1.0.0.0.0.101.101.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.U_2pQ95lv4g)
 
-*   Teses USP: [http://bfy.tw/KQd1](http://bfy.tw/KQd1)
-	*   ["uma definição" site:teses.usp.br](https://www.google.com/search?q=%22uma+defini%C3%A7%C3%A3o%22+site%3Ateses.usp.br)
+*   [Teses USP](https://www.google.com/search?q=%22uma+defini%C3%A7%C3%A3o%22+site%3Ateses.usp.br)
+*   [Scielo](https://www.google.com/search?q="termo"+site%3Awww.scielo.br&oq="termo"+site%3Awww.scielo.br)
 
 Dicionários
 -----------
