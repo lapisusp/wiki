@@ -49,6 +49,8 @@ Revisão automática de texto
 
 *   [NY Times](https://www.google.com/search?q="specific+example"+site%3Awww.nytimes.com)
 
+*   [Na revista ACM TOG](https://www.google.com/search?q="specific+example"+"ACM Trans. Graph."+site%3Aacm.org)
+
 	
 	
 
