@@ -6,3 +6,12 @@
 - [Arxiv-sanity](http://www.arxiv-sanity.com/)
 - [Reddit MachineLearning](https://www.reddit.com/r/MachineLearning/)
 
+
+## Entendendo artigos
+- [Infographic: How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper)
+- [How to (seriously) read a scientific paper ](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
+- [Why Research Machine Learning Algorithms](https://machinelearningmastery.com/how-to-research-a-machine-learning-algorithm/)
+- [[Video] How to Read a Research Paper] https://www.youtube.com/watch?v=SHTOI0KtZnU
+- [How do you read math-heavy machine learning papers?](https://www.reddit.com/r/MachineLearning/comments/6rj9r4/d_how_do_you_read_mathheavy_machine_learning/)
+- [How do I start reading research papers on Machine Learning?](https://www.quora.com/How-do-I-start-reading-research-papers-on-Machine-Learning)
+
