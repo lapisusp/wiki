@@ -15,6 +15,9 @@ Proficiência em inglês
 Figuras
 ------------------------
 * [Gráficos](https://www.highcharts.com/demo)
+* [Fotos](https://www.pexels.com/)
+* [ccsearch](https://ccsearch.creativecommons.org/)
+* [WikiMedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 
 
 
