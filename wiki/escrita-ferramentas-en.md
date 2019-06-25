@@ -51,7 +51,7 @@ Revisão automática de texto
 
 *   [Na revista ACM TOG](https://www.google.com/search?q="specific+example"+"ACM Trans. Graph."+site%3Aacm.org)
 
-*   [Na revista Springer IJCV](https://www.google.com/search?q="specific+example"+"International Journal of Computer Vision"+site%3Ahttps%3A%2F%2Flink.springer.com%2Farticle%2F	
+*   [Na revista Springer IJCV](https://www.google.com/search?q="specific+example"+"International Journal of Computer Vision"+site%3Ahttps%3A%2F%2Flink.springer.com%2Farticle%2F)	
 
 ### Preposições
 
