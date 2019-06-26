@@ -3,8 +3,8 @@ Escrita
 
 Ferramentas para escrita
 ------------------------
-* [Ferramentas para inglês](escrita-ferramentas-en)
-* [Ferramentas para português](escrita-ferramentas-br)
+* ### [Ferramentas para inglês](escrita-ferramentas-en)
+* ### [Ferramentas para português](escrita-ferramentas-br)
 
 Proficiência em inglês
 ------------------------
@@ -19,6 +19,9 @@ Figuras
 * [ccsearch](https://ccsearch.creativecommons.org/)
 * [WikiMedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 
+
+[Posters](poster)
+------------------------
 
 
 Diretrizes para artigos
