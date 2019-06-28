@@ -15,6 +15,13 @@
 	 - doutorado sanduíche e pós-doutorado na França na área de engenharia
 	 - Proficiência em francês
 	 
+## Para Estados Unidos
+- [Fulbright](https://fulbright.org.br/edital/doutorado-nos-eua/)
+
+## Para Canada
+- [Banting Postdoctoral Fellowship program](https://gradstudies.uoit.ca/post-doctoral/funding-opportunities.php)
+
+	 
 ## Demais
 - [CAPES](http://www.capes.gov.br/pt/cooperacao-internacional/)
 - [FAPESP](http://www.fapesp.br/6557)
