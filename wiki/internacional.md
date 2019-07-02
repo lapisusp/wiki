@@ -17,6 +17,10 @@
 	 
 ## Para Estados Unidos
 - [Fulbright](https://fulbright.org.br/edital/doutorado-nos-eua/)
+	- Doutorado sanduíche de até 9 meses
+	- Outras vagas
+- [Fulbright/CAPES](https://www.capes.gov.br/pt/cooperacao-internacional/estados-unidos/programa-capes-fulbright-de-doutorado-pleno-nos-eua)
+	- Doutorado pleno de até 6 anos
 
 ## Para Canada
 - [Banting Postdoctoral Fellowship program](https://gradstudies.uoit.ca/post-doctoral/funding-opportunities.php)
