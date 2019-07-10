@@ -1,13 +1,12 @@
 ## Recursos para encontrar artigos
 
-- [JOVE (artigos em vídeo)](https://www.jove.com/)
 - [thecvf](http://openaccess.thecvf.com/)
 - [arxiv](https://arxiv.org/)
 - [ACM TOG](https://dl.acm.org/citation.cfm?id=J778&preflayout=flat#prox)
 - [International Journal of Computer Vision](https://link.springer.com/journal/volumesAndIssues/11263)
 - [Arxiv-sanity](http://www.arxiv-sanity.com/)
 - [Reddit MachineLearning](https://www.reddit.com/r/MachineLearning/)
-
+- [joVE (artigos em vídeo)](https://www.jove.com/)
 
 ## Entendendo artigos
 - [Infographic: How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper)
