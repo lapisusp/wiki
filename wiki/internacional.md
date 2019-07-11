@@ -12,6 +12,8 @@
 	 - doutorado sanduíche e pós-doutorado na Alemanha
 	 - Proficiência em inglês ou alemão
 -[DDAD](https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/)
+	- Mestrado e doutorado pleno
+	- [Doutorado sanduíche](https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=4&origin=5&subjectGrps=&daad=&intention=&q=&page=2&detail=57507783)
 	 
 ### França
  - [Cofecub](http://www.capes.gov.br/pt/cooperacao-internacional/franca/cofecub)
