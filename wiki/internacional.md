@@ -11,6 +11,7 @@
  - [Probal](http://www.capes.gov.br/pt/cooperacao-internacional/alemanha/probral)
 	 - doutorado sanduíche e pós-doutorado na Alemanha
 	 - Proficiência em inglês ou alemão
+-[DDAD](https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/)
 	 
 ### França
  - [Cofecub](http://www.capes.gov.br/pt/cooperacao-internacional/franca/cofecub)
@@ -38,6 +39,8 @@
 	- Doutorado pleno de até 6 anos
 - [OAS](http://www.oas.org/en/scholarships/)
 	- Doutorado pleno na CSU
+- [Stanfoard](https://knight-hennessy.stanford.edu/admission/eligibility)
+	- Mestrado ou doutorado pleno
 
 
 ## Para Canada
