@@ -53,7 +53,7 @@ Revisão automática de texto
 
 *   [Na revista Springer IJCV](https://www.google.com/search?q="specific+example"+"International Journal of Computer Vision"+site%3Ahttps%3A%2F%2Flink.springer.com%2Farticle%2F)
 
-*   [Nos nature](https://www.google.com/search?q=%22specific+example%22+site%3Anature.com)
+*   [Na nature](https://www.google.com/search?q=%22specific+example%22+site%3Anature.com)
 
 *   [Na site da British Council](https://www.google.com/search?q="personal+level"+site%3Abritishcouncil.org)
 
