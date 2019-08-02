@@ -39,6 +39,10 @@
 * Ocorre em **Novembro**.
 * Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Junho).
 
+## [ICCV: International Conference on Computer Vision](http://www.wikicfp.com/cfp/program?id=1325&s=ICCV&f=International%20Conference%20on%20Computer%20Vision)
+* Ocorre no final de **Outubro**.
+* Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Março).
+
 
 <HR>
   
