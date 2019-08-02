@@ -1,7 +1,13 @@
 # Artigos exemplos
 
+## Escrita de artigo em geral
+
+ - [Learning the parts of objects by non-negative matrix factorization](https://www.nature.com/articles/44565)
+ - [Collective dynamics of ‘small-world’ networks](https://www.nature.com/articles/30918)
+
+
 ## Descrição experimento
 
- - [https://ieeexplore.ieee.org/document/6777465](https://ieeexplore.ieee.org/document/6777465)
- - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3737792/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3737792/)
+ - [ Effects of VR System Fidelity on Analyzing Isosurface Visualization of Volume Datasets](https://ieeexplore.ieee.org/document/6777465)
+ - [Effects of sodium bicarbonate ingestion on swim performance in youth athletes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3737792/)
 
