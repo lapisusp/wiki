@@ -79,6 +79,12 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 
 * SHUM, Heung-Yeung; CHAN, Shing-Chow; KANG, Sing Bing. **Image-based rendering**. Springer Science & Business Media, 2008.
 
+#### Estastística
+ * Sivia, Devinderjit, and John Skilling. Data analysis: a Bayesian tutorial. OUP Oxford, 2006.
+ 
+#### Sistemas de recomendação
+* Aggarwal, Charu C. Recommender systems. Cham: Springer International Publishing, 2016.
+
 ### Bancos de expressões faciais
 
 * [Lista na wikipedia](https://en.wikipedia.org/wiki/Facial_expression_databases)
@@ -88,3 +94,4 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 ## Correção Automática de Provas Dissertativas em Radiologia
 
 * [Correção - Texto Médico](files-materiais/6CorrecaoTextoMedico.pdf)
+
