@@ -34,3 +34,22 @@ Os trabalhos produzidos ou publicados, em qualquer mídia, que decorram de ativi
 
 ### Inglês
 * "This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001"
+
+Aulas, livros e páginas
+--------------
+
+*   Sciwriting: [https://cgi.duke.edu/web/sciwriting](https://cgi.duke.edu/web/sciwriting)
+*  Stanforad: [https://www.coursera.org/learn/sciwrite](https://www.coursera.org/learn/sciwrite)
+*   Academic phrases and verbs:
+	*   [https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/](https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/)
+	*   [https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/](https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/)
+	*   [https://www.oxford-royale.co.uk/articles/words-phrases-good-essays.html](https://www.oxford-royale.co.uk/articles/words-phrases-good-essays.html)
+	* Figures: [https://www.e-education.psu.edu/styleforstudents/c4_p11.html](https://www.e-education.psu.edu/styleforstudents/c4_p11.html)
+* [Nature - Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/)
+
+
+Apresentações
+-------------
+
+*   WILLIAMS, Erica J. Presentations in English: Find your voice as a presenter. Macmillan, 2008.
+
