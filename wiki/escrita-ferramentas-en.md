@@ -80,19 +80,3 @@ Sinônimos
 *   MacMillan: [https://www.macmillanthesaurus.com/](https://www.macmillanthesaurus.com/)
 *   Thesaurus.com: [http://www.thesaurus.com](http://www.thesaurus.com)
 *   Merriam-Webster: [https://www.merriam-webster.com/thesaurus](https://www.merriam-webster.com/thesaurus)
-
-Aulas e livros
---------------
-
-*   Sciwriting: [https://cgi.duke.edu/web/sciwriting](https://cgi.duke.edu/web/sciwriting)
-*  Stanforad: [https://www.coursera.org/learn/sciwrite](https://www.coursera.org/learn/sciwrite)
-*   Academic phrases and verbs:
-	*   [https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/](https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/)
-	*   [https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/](https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/)
-	*   [https://www.oxford-royale.co.uk/articles/words-phrases-good-essays.html](https://www.oxford-royale.co.uk/articles/words-phrases-good-essays.html)
-	* Figures: [https://www.e-education.psu.edu/styleforstudents/c4_p11.html](https://www.e-education.psu.edu/styleforstudents/c4_p11.html)
-
-Apresentações
--------------
-
-*   WILLIAMS, Erica J. Presentations in English: Find your voice as a presenter. Macmillan, 2008.
