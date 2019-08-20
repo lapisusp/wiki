@@ -4,7 +4,7 @@ Inglês
 Revisão automática de texto
 ---------------------------
 
-*   WriteLab: [https://app.writelab.com](https://app.writelab.com)
+*   Easybib: [https://www.easybib.com/grammar-and-plagiarism/](https://www.easybib.com/grammar-and-plagiarism/)
 *   Language tool: [https://languagetool.org/en/](https://languagetool.org/en/)
 *   Grammarly: [https://app.grammarly.com](https://app.grammarly.com)
 *   Hemingway App: [http://hemingwayapp.com/](http://hemingwayapp.com/)
