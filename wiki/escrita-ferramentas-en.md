@@ -49,9 +49,11 @@ Revisão automática de texto
 
 *   [NY Times](https://www.google.com/search?q="specific+example"+site%3Awww.nytimes.com)
 
-*   [Na revista ACM TOG](https://www.google.com/search?q="specific+example"+"ACM Trans. Graph."+site%3Aacm.org)
+*   [Na revista ACM CSUR](https://www.google.com/search?q="specific+example"+"ACM Computing Surveys"+site%3Aacm.org)
 
 *   [Na revista Springer IJCV](https://www.google.com/search?q="specific+example"+"International Journal of Computer Vision"+site%3Ahttps%3A%2F%2Flink.springer.com%2Farticle%2F)
+
+*   [Na revista ACM TOG](https://www.google.com/search?q="specific+example"+"ACM Trans. Graph."+site%3Aacm.org)
 
 *   [Na nature](https://www.google.com/search?q=%22specific+example%22+site%3Anature.com)
 
