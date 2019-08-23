@@ -79,10 +79,11 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 
 * SHUM, Heung-Yeung; CHAN, Shing-Chow; KANG, Sing Bing. **Image-based rendering**. Springer Science & Business Media, 2008.
 
-#### Estastística
+### Estastística
  * Sivia, Devinderjit, and John Skilling. Data analysis: a Bayesian tutorial. OUP Oxford, 2006.
+ * [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer/playlists)
  
-#### Sistemas de recomendação
+### Sistemas de recomendação
 * Aggarwal, Charu C. Recommender systems. Cham: Springer International Publishing, 2016.
 
 ### Bancos de expressões faciais
