@@ -47,6 +47,8 @@ Aulas, livros e páginas
 	*   [https://www.oxford-royale.co.uk/articles/words-phrases-good-essays.html](https://www.oxford-royale.co.uk/articles/words-phrases-good-essays.html)
 	* Figures: [https://www.e-education.psu.edu/styleforstudents/c4_p11.html](https://www.e-education.psu.edu/styleforstudents/c4_p11.html)
 * [Nature - English Communication for Scientists](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/)
+* [Escrita acadêmica](https://www.escritaacademica.com/)
+	* [Construção de sentido](https://www.escritaacademica.com/topicos/construcao-de-sentido/)
 
 
 Apresentações
