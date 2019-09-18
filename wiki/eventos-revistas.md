@@ -45,7 +45,12 @@
 
 
 <HR>
-  
+
+### Eventos considerados referência:
+"top-tier venues in computer vision, graphics, or machine learning (CVPR, ECCV/ICCV, Siggraph, Siggraph Asia, NeurIPS, ICML, ICLR)"
+
+### Outros
+
 Mais eventos podem ser encontrados em: [http://www.guide2research.com/topconf/computer-vision](http://www.guide2research.com/topconf/computer-vision)
 
 # Revistas
