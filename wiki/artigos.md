@@ -1,5 +1,6 @@
 ## Recursos para encontrar artigos
 
+- [Arxiv-sanity](http://www.arxiv-sanity.com/)
 - [thecvf](http://openaccess.thecvf.com/)
 - [arxiv](https://arxiv.org/)
 - [ACM TOG](https://dl.acm.org/citation.cfm?id=J778&preflayout=flat#prox)
@@ -8,7 +9,6 @@
 - [Google](https://ai.google/research/pubs/)
 - [Microsoft](https://www.microsoft.com/en-us/research/search/)
 - [Nvdia](https://research.nvidia.com/publications)
-- [Arxiv-sanity](http://www.arxiv-sanity.com/)
 - [Reddit MachineLearning](https://www.reddit.com/r/MachineLearning/)
 - [joVE (artigos em vídeo)](https://www.jove.com/)
 
