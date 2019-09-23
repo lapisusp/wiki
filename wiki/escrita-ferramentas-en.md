@@ -30,6 +30,7 @@ Revisão automática de texto
 *   Corpus of Contemporary American English: [https://corpus.byu.edu/coca](https://corpus.byu.edu/coca)
 *   Dictionary.com: [http://www.dictionary.com](http://www.dictionary.com)
 *   Your Dictionary: [http://sentence.yourdictionary.com/](http://sentence.yourdictionary.com/)
+*   Corpus em geral: [https://www.english-corpora.org/](https://www.english-corpora.org/)
 
 ### Dicionário de colocação
 
