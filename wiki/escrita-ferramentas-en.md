@@ -70,6 +70,7 @@ Revisão automática de texto
 Dicionários
 -----------
 
+*   Cambridge: [https://dictionary.cambridge.org/dictionary/english/](https://dictionary.cambridge.org/dictionary/english/)
 *   Merriam-Webster: [https://www.merriam-webster.com](https://www.merriam-webster.com)
 *   Macmillan Dictionary: [http://www.macmillandictionary.com](http://www.macmillandictionary.com)
 *   Learners Dictionary (Merriam-Webster): [http://learnersdictionary.com/](http://learnersdictionary.com/)
@@ -79,6 +80,7 @@ Dicionários
 Sinônimos
 ---------
 
+*   Lexico by Oxford: [https://www.lexico.com/en/synonym/](https://www.lexico.com/en/synonym/)
 *   MacMillan: [https://www.macmillanthesaurus.com/](https://www.macmillanthesaurus.com/)
 *   Thesaurus.com: [http://www.thesaurus.com](http://www.thesaurus.com)
 *   Merriam-Webster: [https://www.merriam-webster.com/thesaurus](https://www.merriam-webster.com/thesaurus)
