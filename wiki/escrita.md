@@ -67,6 +67,13 @@ Aulas, livros e páginas
 * [Nature - English Communication for Scientists](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/)
 * [Escrita acadêmica](https://www.escritaacademica.com/)
 	* [Construção de sentido](https://www.escritaacademica.com/topicos/construcao-de-sentido/)
+* [Academic Collocation List](https://www.eapfoundation.com/vocab/academic/acl/)
+
+### Bibliography recommendation:
+* McCarthy, M. & O’Dell, F. (2016) Academic Vocabulary in Use, 2nd edition, Cambridge: Cambridge University Press.
+* Poole, R. (2018) A Guide to Using Corpora for English Language Learners, Edinburgh: Edinburgh University Press.
+* McCarthy, M., & O'Dell, F. Academic vocabulary in use.
+
 
 
 Apresentações
