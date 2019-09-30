@@ -28,7 +28,7 @@ Figuras
 Diretrizes para artigos
 -----------------------
 
-### CAPES
+### [CAPES](http://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/39729251/do1-2018-09-05-portaria-n-206-de-4-de-setembro-de-2018-39729135)
 
 Os trabalhos produzidos ou publicados, em qualquer mídia, que decorram de atividades financiadas, integral ou parcialmente, pela CAPES, deverão, obrigatoriamente, fazer referência ao apoio recebido. Deverão ser usadas as seguintes expressões, no idioma do trabalho:
 
@@ -49,7 +49,7 @@ National Institute of Science and Technology-Medicine Assisted by Scientific Com
 ### [Projeto Ariane](https://prp.usp.br/wp-content/uploads/Of.Circ-004_2019.pdf)
 
 #### Português
-Pró-Reitoria de Pesquisa da Universidade de São Paulo (processo 18.5.245.86.7 - Sistema inteligente de classificação de transtorno psiquiátricosbaseadas em medidas antropométricas faciais)
+Pró-Reitoria de Pesquisa da Universidade de São Paulo (processo 18.5.245.86.7 - Sistema inteligente de classificação de transtorno psiquiátricos baseadas em medidas antropométricas faciais)
 
 #### Inglês
 Dean's Office for Research of the University of São Paulo (process 18.5.245.86.7 - Intelligent psychiatric disorder classification system based on facial anthropometric measurements)
