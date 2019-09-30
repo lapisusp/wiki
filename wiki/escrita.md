@@ -28,13 +28,33 @@ Figuras
 Diretrizes para artigos
 -----------------------
 
+### CAPES
+
 Os trabalhos produzidos ou publicados, em qualquer mídia, que decorram de atividades financiadas, integral ou parcialmente, pela CAPES, deverão, obrigatoriamente, fazer referência ao apoio recebido. Deverão ser usadas as seguintes expressões, no idioma do trabalho:
 
-### Português
+#### Português
 * "O presente trabalho foi realizado com apoio da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Código de Financiamento 001"
 
-### Inglês
+#### Inglês
 * "This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001"
+
+### INCT-MAAC
+
+* [Informações do projeto](https://bv.fapesp.br/pt/auxilios/96965/inct-2014-em-medicina-assistida-por-computacao-cientifica-inct-macc/)
+
+#### Português
+Instituto Nacional de Ciência e Tecnologia em Medicina Assistida por Computação Científica (INCT-MACC) – número do processo 14/50889-7
+
+#### Inglês
+National Institute of Science and Technology-Medicine Assisted by Scientific Computing (INCT-MACC) – number 14/50889-7
+
+### Projeto Ariane
+
+#### Português
+Pró-Reitoria de Pesquisa da Universidade de São Paulo (processo 18.5.245.86.7 - Sistema inteligente de classificação de transtorno psiquiátricosbaseadas em medidas antropométricas faciais)
+
+#### Inglês
+Dean's Office for Research of the University of S\~{a}o Paulo (process 18.5.245.86.7 - Intelligent psychiatric disorder classification system based on facial anthropometric measurements)
 
 Aulas, livros e páginas
 --------------
