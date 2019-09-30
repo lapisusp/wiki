@@ -72,8 +72,6 @@ Aulas, livros e páginas
 ### Bibliography recommendation:
 * McCarthy, M. & O’Dell, F. (2016) Academic Vocabulary in Use, 2nd edition, Cambridge: Cambridge University Press.
 * Poole, R. (2018) A Guide to Using Corpora for English Language Learners, Edinburgh: Edinburgh University Press.
-* McCarthy, M., & O'Dell, F. Academic vocabulary in use.
-
 
 
 Apresentações
