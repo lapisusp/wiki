@@ -54,7 +54,7 @@ National Institute of Science and Technology-Medicine Assisted by Scientific Com
 Pró-Reitoria de Pesquisa da Universidade de São Paulo (processo 18.5.245.86.7 - Sistema inteligente de classificação de transtorno psiquiátricosbaseadas em medidas antropométricas faciais)
 
 #### Inglês
-Dean's Office for Research of the University of S\~{a}o Paulo (process 18.5.245.86.7 - Intelligent psychiatric disorder classification system based on facial anthropometric measurements)
+Dean's Office for Research of the University of São Paulo (process 18.5.245.86.7 - Intelligent psychiatric disorder classification system based on facial anthropometric measurements)
 
 Aulas, livros e páginas
 --------------
