@@ -48,7 +48,7 @@ Os autores agradecem ao Conselho Nacional de Desenvolvimento Cientifico e Tecnol
 (FAPESP) (Processos 14/50889-7): Instituto Nacional de Ciência e Tecnologia em Medicina Assistida por Computação Científica (INCT-MACC).
 
 #### Inglês
-The authors are grateful to Brazilian National Council of Scientific and Technological Development (CNPq) (Process 157535/2017-7 ) and São Paulo Research Foundation
+The authors are grateful to Brazilian National Council of Scientific and Technological Development (CNPq) (Process 157535/2017-7) and São Paulo Research Foundation
 (FAPESP) (Processs 14/50889-7): National Institute of Science and Technology – Medicine Assisted by Scientific Computing (INCT-MACC).
 
 ### [Projeto Ariane](https://prp.usp.br/wp-content/uploads/Of.Circ-004_2019.pdf)
