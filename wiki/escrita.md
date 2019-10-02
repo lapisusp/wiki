@@ -42,6 +42,7 @@ Os trabalhos produzidos ou publicados, em qualquer mídia, que decorram de ativi
 
 * [FAPESP](https://bv.fapesp.br/pt/auxilios/96965/inct-2014-em-medicina-assistida-por-computacao-cientifica-inct-macc/)
 * [CNPq](http://inct.cnpq.br/web/inct-macc)
+* [site](https://macc.lncc.br/MACC2/index.html)
 
 #### Português
 Os autores agradecem ao Conselho Nacional de Desenvolvimento Cientifico e Tecnológico (CNPq) (Processo 157535/2017-7) e à Fundação de Amparo à Pesquisa do Estado de São Paulo
