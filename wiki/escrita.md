@@ -38,13 +38,18 @@ Os trabalhos produzidos ou publicados, em qualquer mídia, que decorram de ativi
 #### Inglês
 * "This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001"
 
-### [INCT-MAAC](https://bv.fapesp.br/pt/auxilios/96965/inct-2014-em-medicina-assistida-por-computacao-cientifica-inct-macc/)
+### INCT-MAAC
+
+* [FAPESP](https://bv.fapesp.br/pt/auxilios/96965/inct-2014-em-medicina-assistida-por-computacao-cientifica-inct-macc/)
+* [CNPq](http://inct.cnpq.br/web/inct-macc)
 
 #### Português
-Instituto Nacional de Ciência e Tecnologia em Medicina Assistida por Computação Científica (INCT-MACC) – número do processo 14/50889-7
+Os autores agradecem ao Conselho Nacional de Desenvolvimento Cientifico e Tecnológico (CNPq) (Processo 157535/2017-7) e à Fundação de Amparo à Pesquisa do Estado de São Paulo
+(FAPESP) (Processos 14/50889-7): Instituto Nacional de Ciência e Tecnologia em Medicina Assistida por Computação Científica (INCT-MACC).
 
 #### Inglês
-National Institute of Science and Technology-Medicine Assisted by Scientific Computing (INCT-MACC) – number 14/50889-7
+The authors are grateful to Brazilian National Council of Scientific and Technological Development (CNPq) (Process 157535/2017-7 ) and São Paulo Research Foundation
+(FAPESP) (Processs 14/50889-7): National Institute of Science and Technology – Medicine Assisted by Scientific Computing (INCT-MACC).
 
 ### [Projeto Ariane](https://prp.usp.br/wp-content/uploads/Of.Circ-004_2019.pdf)
 
