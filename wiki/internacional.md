@@ -8,12 +8,16 @@
 ## Para Europa
 
 ### Alemanha
- - [Probal](http://www.capes.gov.br/pt/cooperacao-internacional/alemanha/probral)
+- [Probal](http://www.capes.gov.br/pt/cooperacao-internacional/alemanha/probral)
 	 - doutorado sanduíche e pós-doutorado na Alemanha
 	 - Proficiência em inglês ou alemão
--[DDAD](https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/)
+- [DDAD](https://www.daad.org.br/pt/)
 	- Mestrado e doutorado pleno
-	- [Doutorado sanduíche](https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=4&origin=5&subjectGrps=&daad=&intention=&q=&page=2&detail=57507783)
+	- Doutorado sanduíche
+-[Research in german](https://www.research-in-germany.org)
+	- [Webinars](https://www.research-in-germany.org/en/campaigns-and-activities/webinars.html)
+
+
 	 
 ### França
  - [Cofecub](http://www.capes.gov.br/pt/cooperacao-internacional/franca/cofecub)
