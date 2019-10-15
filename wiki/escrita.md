@@ -63,8 +63,16 @@ Dean's Office for Research of the University of São Paulo (process 18.5.245.86.
 Aulas, livros e páginas
 --------------
 
-*   Sciwriting: [https://cgi.duke.edu/web/sciwriting](https://cgi.duke.edu/web/sciwriting)
-*  Stanforad: [https://www.coursera.org/learn/sciwrite](https://www.coursera.org/learn/sciwrite)
+*  [Sciwriting](https://cgi.duke.edu/web/sciwriting)
+*  [Stanforad](https://www.coursera.org/learn/sciwrite)
+*  [University Writing Center - Texas A&M University](https://writingcenter.tamu.edu/Students/Writing-Speaking-Guides/Alphabetical-List-of-Guides/Citing-Documenting/Summarizing 
+)
+*  [EAP Foundation](https://eapfoundation.com/reading/summarising/)
+*  [Academic English Online - Queen Mary University of London](http://aeo.sllf.qmul.ac.uk/index.html)
+* Summary:
+	*   [University Writing Center - Texas A&M University](https://writingcenter.tamu.edu/Students/Writing-Speaking-Guides/Alphabetical-List-of-Guides/Citing-Documenting/Summarizing )
+	*   [EAP Foundation](https://eapfoundation.com/reading/summarising/)
+	*   [Academic English Online - Queen Mary University of London](http://aeo.sllf.qmul.ac.uk/Files/Summarizing/Summarising.html)
 *   Academic phrases and verbs:
 	*   [https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/](https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/)
 	*   [https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/](https://www.myenglishteacher.eu/blog/academic-writing-examples-and-phrases/)
