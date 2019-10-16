@@ -66,6 +66,7 @@ Aulas, livros e páginas
 )
 *  [EAP Foundation](https://eapfoundation.com/reading/summarising/)
 *  [Academic English Online - Queen Mary University of London](http://aeo.sllf.qmul.ac.uk/index.html)
+* [Using English for Academic Purposes For Students in Higher Education](http://www.uefap.net)
 * Summary:
 	*   [University Writing Center - Texas A&M University](https://writingcenter.tamu.edu/Students/Writing-Speaking-Guides/Alphabetical-List-of-Guides/Citing-Documenting/Summarizing )
 	*   [EAP Foundation](https://eapfoundation.com/reading/summarising/)
