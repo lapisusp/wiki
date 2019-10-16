@@ -77,7 +77,7 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 
 ## Imagens de Ressonância Magnética Cardíaca
 
-* [Imagens de eixo curto de corações normais, hipertróficos e dilatados (necessário fazer login)](https://drive.google.com/open?id=1ZfRuUYAhhB6KFTnTyjv7Ed182c70Md5Z)
+* [Imagens de eixo curto de corações normais, hipertróficos e dilatados (necessário fazer login)](https://drive.google.com/drive/u/0/folders/1eI7Y73wDmaba8hGojGtSKaqLwyWJiSIP)
 
 ### Livros
 
