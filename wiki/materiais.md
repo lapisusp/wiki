@@ -73,6 +73,12 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 * [Projetos, artigos, dissertações e relatórios do grupo](http://lapis.each.usp.br/pt/project/emotion-representation/)
 * [Relatório - Reconhecimento de emoções](files-materiais/5JogosPsiquiatricosRelatorio-finalUFG.pdf)
 
+ <HR>
+
+## Imagens de Ressonância Magnética Cardíaca
+
+* [Imagens de eixo curto de corações normais, hipertróficos e dilatados (necessário fazer login)](https://drive.google.com/open?id=1ZfRuUYAhhB6KFTnTyjv7Ed182c70Md5Z)
+
 ### Livros
 
 * PHARR, Matt; JAKOB, Wenzel; HUMPHREYS, Greg. **Physically based rendering: From theory to implementation**. Morgan Kaufmann, 2016.
