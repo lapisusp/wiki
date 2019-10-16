@@ -114,7 +114,7 @@ Ferramentas para inglês
 ### (Buscar) Exemplos de uso
 
 #### Phrasebank
-[Academic Phrasebank - Manchester](http://www.phrasebank.manchester.ac.uk/introducing-work/)
+* [Academic Phrasebank - Manchester](http://www.phrasebank.manchester.ac.uk/introducing-work/)
 
 #### Frases
 
