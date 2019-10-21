@@ -179,6 +179,13 @@ Ferramentas para inglês
 *   Thesaurus.com: [http://www.thesaurus.com](http://www.thesaurus.com)
 *   Merriam-Webster: [https://www.merriam-webster.com/thesaurus](https://www.merriam-webster.com/thesaurus)
 
+
+### Pronuncia
+
+*   [Youglish](https://youglish.com/)
+
+
+
 Ferramentas para português
 ------------------------
 
