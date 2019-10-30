@@ -73,6 +73,8 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 * [Projetos, artigos, dissertações e relatórios do grupo](http://lapis.each.usp.br/pt/project/emotion-representation/)
 * [Relatório - Reconhecimento de emoções](files-materiais/5JogosPsiquiatricosRelatorio-finalUFG.pdf)
 
+[Mais informações](wiki/representing_emotions)
+
  <HR>
 
 ## Imagens de Ressonância Magnética Cardíaca
@@ -91,10 +93,6 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
  
 ### Sistemas de recomendação
 * Aggarwal, Charu C. Recommender systems. Cham: Springer International Publishing, 2016.
-
-### Bancos de expressões faciais
-
-* [Lista na wikipedia](https://en.wikipedia.org/wiki/Facial_expression_databases)
 
 <HR>
 
