@@ -2,10 +2,10 @@
 
 
 
-# Bolsas
+## Bolsas
 
 
-## Doutorado
+### Doutorado
 
  - [CAPES](http://ppgsi.each.usp.br/regras-de-bolsas/)
  - CNPq - Não disponível para PPgSI
