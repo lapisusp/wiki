@@ -70,7 +70,7 @@ Graduate Scholarships](http://vanier.gc.ca/en/home-accueil.html)
 	- Doutorado pleno
 	- GRE / IELTS / TOEFL / SAT I & II / GATE
 
-### América Latina
+## América Latina
 
 - [Cenicet - Argentina](https://convocatorias.conicet.gov.ar/internas/)
 	- Mestrado, Doutorado e pós-doc
