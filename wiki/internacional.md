@@ -3,8 +3,8 @@
 ## Pela USP
  - [PrInt USP](http://www.prpg.usp.br/index.php/pt-br/apoio-administrativo/editais)
  	- PAME, PVE e PDSE
- -[Editais AUCANI](http://www.usp.br/internationaloffice/index.php/category/editais/)
- -[Editais Mundus](https://uspdigital.usp.br/mundus/editalintercambiopublicoListar?nivpbcavo=P&codmnu=2071)
+ - [Editais AUCANI](http://www.usp.br/internationaloffice/index.php/category/editais/)
+ - [Editais Mundus](https://uspdigital.usp.br/mundus/editalintercambiopublicoListar?nivpbcavo=P&codmnu=2071)
 
 ## Para Europa
 
