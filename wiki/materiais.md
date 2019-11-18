@@ -88,10 +88,6 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 * PHARR, Matt; JAKOB, Wenzel; HUMPHREYS, Greg. **Physically based rendering: From theory to implementation**. Morgan Kaufmann, 2016.
 
 * SHUM, Heung-Yeung; CHAN, Shing-Chow; KANG, Sing Bing. **Image-based rendering**. Springer Science & Business Media, 2008.
-
-## Estastística
- * Sivia, Devinderjit, and John Skilling. Data analysis: a Bayesian tutorial. OUP Oxford, 2006.
- * [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer/playlists)
  
 ## Sistemas de recomendação
 * Aggarwal, Charu C. Recommender systems. Cham: Springer International Publishing, 2016.
@@ -101,4 +97,11 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 ## Correção Automática de Provas Dissertativas em Radiologia
 
 * [Correção - Texto Médico](files-materiais/6CorrecaoTextoMedico.pdf)
+
+# Dados e Estastística
+ * Sivia, Devinderjit, and John Skilling. Data analysis: a Bayesian tutorial. OUP Oxford, 2006.
+ * [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer/playlists)
+ * Anonimização de dados:
+ 	* [Protecting Privacy with MATH -  minutephysics](https://www.youtube.com/watch?v=pT19VwBAqKA)
+ 	* [When It's OK to Violate Privacy -  minutephysics](https://www.youtube.com/watch?v=FE9ko2wtyeQ)
 
