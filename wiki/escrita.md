@@ -80,6 +80,7 @@ Aulas, livros e páginas
 * [Escrita acadêmica](https://www.escritaacademica.com/)
 	* [Construção de sentido](https://www.escritaacademica.com/topicos/construcao-de-sentido/)
 * [Academic Collocation List](https://www.eapfoundation.com/vocab/academic/acl/)
+* [SAT Reading and Writing practice](https://www.khanacademy.org/test-prep/sat/sat-reading-writing-practice)
 
 ### Bibliography recommendation:
 * McCarthy, M. & O’Dell, F. (2016) Academic Vocabulary in Use, 2nd edition, Cambridge: Cambridge University Press.
