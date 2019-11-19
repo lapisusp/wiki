@@ -135,23 +135,14 @@ Ferramentas para inglês
 #### Exemplos em sites específicos
 
 *   [IEEE](https://www.google.com/search?source=hp&ei=GxViW-6UM4SlwASO6ZyQDw&q=%22specific%20example%22%20site:http://ieeexplore.ieee.org/&oq=%22specific%20example%22%20site:http://ieeexplore.ieee.org/&gs_l=psy-ab.3...1279.1279.0.2097.4.2.0.0.0.0.103.103.0j1.2.0....0...1c.1.64.psy-ab..2.1.146.6..35i39k1.146.4EQV9p2G--8)
-
 *   [ACM](https://www.google.com/search?safe=off&ei=HxViW--BAoaGwgTsy4WgCQ&q=%22specific%20example%22%20site:https://dl.acm.org/&oq=%22specific%20example%22%20site:https://dl.acm.org/&gs_l=psy-ab.3...56405.56405.0.56882.1.1.0.0.0.0.98.98.1.1.0....0...1c.1.64.psy-ab..0.0.0....0.5SNvlX6ETGo)
-
 *   [Science Direct](https://www.google.com/search?safe=off&ei=y6V6W8vfJ5CQlwTbmpmYCg&q=%22specific+example%22+site%3Ahttps%3A%2F%2Fwww.sciencedirect.com%2F&oq=%22specific+example%22+site%3Ahttps%3A%2F%2Fwww.sciencedirect.com%2F&gs_l=psy-ab.3...387901.387901.0.388810.1.1.0.0.0.0.330.330.3-1.1.0....0...1c.1.64.psy-ab..0.0.0....0.MhyTAsDQzD4)	
-
 *   [BBC](https://www.google.com/search?safe=off&ei=WBViW4XNNYO9wATN8KH4DQ&q=%20%22specific%20example%22%20site:https://bbc.com&oq=%20%22specific%20example%22%20site:https://bbc.com&gs_l=psy-ab.3...18681.18681.0.19371.1.1.0.0.0.0.101.101.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.K5ZjI6Owx9o)
-
 *   [NY Times](https://www.google.com/search?q="specific+example"+site%3Awww.nytimes.com)
-
 *   [Na revista ACM CSUR](https://www.google.com/search?q="specific+example"+"ACM Computing Surveys"+site%3Aacm.org)
-
 *   [Na revista Springer IJCV](https://www.google.com/search?q="specific+example"+"International Journal of Computer Vision"+site%3Ahttps%3A%2F%2Flink.springer.com%2Farticle%2F)
-
 *   [Na revista ACM TOG](https://www.google.com/search?q="specific+example"+"ACM Trans. Graph."+site%3Aacm.org)
-
 *   [Na nature](https://www.google.com/search?q=%22specific+example%22+site%3Anature.com)
-
 *   [Na site da British Council](https://www.google.com/search?q="personal+level"+site%3Abritishcouncil.org)
 
 #### Preposições
@@ -207,15 +198,13 @@ Ferramentas para português
 ####  Exemplos em sites específicos
 
 *   [IEEE](https://www.google.com/search?safe=off&ei=bRViW_XgEMilwATz47jIAw&q=%22termo%22%20site:http://ieeexplore.ieee.org/&oq=%22termo%22%20site:http://ieeexplore.ieee.org/&gs_l=psy-ab.3...26265.26265.0.26821.1.1.0.0.0.0.293.293.2-1.1.0....0...1c.1.64.psy-ab..0.0.0....0.E8WXQ9AL528)
-
 *   [ACM](https://www.google.com/search?safe=off&ei=1hViW9TAEMyMwgTWzr_IAQ&q=%22termo%22%20site:https://dl.acm.org/&oq=%22termo%22%20site:https://dl.acm.org/&gs_l=psy-ab.3...0.0.0.37041.0.0.0.0.0.0.0.0..0.0....0...1c..64.psy-ab..0.0.0....0.jPwc2hpwJK4)
-
 *   [Science Direct](https://www.google.com/search?safe=off&ei=mqV6W-2ULK_BlwSgpIaYDQ&q=%22termo%22+site%3Ahttps%3A%2F%2Fwww.sciencedirect.com%2F&oq=%22termo%22+site%3Ahttps%3A%2F%2Fwww.sciencedirect.com%2F&gs_l=psy-ab.3...46550.46550.0.46778.1.1.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..1.0.0....0.dqL7zUpjdQk)
-
 *   [BBC](https://www.google.com/search?safe=off&ei=mRViW-PdCoeAwgTgtoyoCA&q=%22termo%22%20site:https://bbc.com&oq=%22termo%22%20site:https://bbc.com&gs_l=psy-ab.3...16783.16783.0.17483.1.1.0.0.0.0.101.101.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.U_2pQ95lv4g)
-
 *   [Teses USP](https://www.google.com/search?q=%22uma+defini%C3%A7%C3%A3o%22+site%3Ateses.usp.br)
 *   [Scielo](https://www.google.com/search?q="termo"+site%3Awww.scielo.br&oq="termo"+site%3Awww.scielo.br)
+*   [Revista Fapesp](https://www.google.com/search?q="termo"+site%3Arevistapesquisa.fapesp.br&oq="termo"+site%3Arevistapesquisa.fapesp.br)
+*   [Jornal USP](https://www.google.com/search?q="termo"+site%3Ajornal.usp.br&oq="termo"+site%3Ajornal.usp.br)
 
 ### Dicionários
 
