@@ -53,12 +53,4 @@
 
 Mais eventos podem ser encontrados em: [http://www.guide2research.com/topconf/computer-vision](http://www.guide2research.com/topconf/computer-vision)
 
-# Revistas
-
-## Processamento de imagem
-## [ACM Transactions on Graphics (TOG)](https://tog.acm.org/)
-
-<HR>
-  
-Mais revistas podem ser encontradas em: [http://www.guide2research.com/journals/computer-vision](http://www.guide2research.com/journals/computer-vision)
 
