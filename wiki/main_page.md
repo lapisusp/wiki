@@ -14,8 +14,8 @@ Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp
 | [Conheça o LApIS](materiais) - Materiais para Alunos                                                                                                                              | [Revisão Sistemática](rs)                |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
 | [Comitê de Ética em Pesquisa](CEP)                                                                                                                                                | [Writing Center](escrita)                |
-| [_LApIS for Fun!_](fun)                                                                                                                                                           | [Eventos de Interesse](eventos-revistas) |
-| [Revistas de Interesse](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWjx4BX1eOPOB2Z8wg9Ni9IBmA3PNOxeyfU_hPpgz8MugigpD3AH3axtlJlhxty-AvwwoQN4TIjQp-/pubhtml?gid=0&single=true) | [Encontrar artigos](artigos)              |
+| [_LApIS for Fun!_](fun)                                                                                                                                                           | [Eventos de Interesse](eventos) |
+| [Revistas de Interesse](revistas) | [Encontrar artigos](artigos)              |
 | [Serviços computracionais](servicos-computacionais)                                                                                                                               |  [Exemplos](exemplos) |
 | [Internacional](internacional) | [Financiamento](financiamento)
 
