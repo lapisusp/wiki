@@ -11,5 +11,5 @@
  - [Journal Article Name Estimator](http://jane.biosemantics.org/) (Biomedical)
  - [Cofactor Journal Selector](http://cofactorscience.com/journal-selector)
  - [Journal Guide](https://www.journalguide.com/)
- - [Guide2research (Image Processing & Computer Vision)](http://www.guide2research.com/journals/computer-vision)
+ - [Guide2research](http://www.guide2research.com/journals/computer-vision) (Image Processing & Computer Vision)
  
