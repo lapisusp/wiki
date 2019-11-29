@@ -20,3 +20,6 @@
 - [How do you read math-heavy machine learning papers?](https://www.reddit.com/r/MachineLearning/comments/6rj9r4/d_how_do_you_read_mathheavy_machine_learning/)
 - [How do I start reading research papers on Machine Learning?](https://www.quora.com/How-do-I-start-reading-research-papers-on-Machine-Learning)
 
+## Discutindo artigos
+ - [PubPeer](https://pubpeer.com)
+
