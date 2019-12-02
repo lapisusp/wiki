@@ -86,7 +86,7 @@ Graduate Scholarships](http://vanier.gc.ca/en/home-accueil.html)
 
 	 
 ## Demais
-- [CAPES](http://www.capes.gov.br/pt/cooperacao-internacional/)
+- [CAPES](https://www.capes.gov.br/bolsas-e-auxilios-internacionais)
 - [FAPESP](http://www.fapesp.br/6557)
 - [CNPQ](http://cnpq.br/bolsas-no-exterior1)
 - [Informações sobre bolsas](https://partiuintercambio.org/)
