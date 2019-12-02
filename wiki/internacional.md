@@ -38,6 +38,10 @@
  	- Doutorado sanduíche na espanha
  - [Universidade de Salamanca](http://rel-int.usal.es/en/)
  	- Graduação, mestrado e doutorado
+
+### Áustria
+ -[CAPES/IIASA](https://www.capes.gov.br/bolsas-e-auxilios-internacionais/pais/195-austria)
+ 	- Doutorado Sanduíche, Pós-Doutorado e Jovens Cientistas
 	 
 ## Para Estados Unidos
 - [Fulbright](https://fulbright.org.br/edital/doutorado-nos-eua/)
