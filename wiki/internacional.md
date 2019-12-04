@@ -19,7 +19,7 @@
 	- Pós-doutorado: para pesquisador altamente qualificado e em início da carreira acadêmica, que tenha completado seu doutorado há menos de quatro anos;
 	- Pesquisador experiente: para acadêmico altamente qualificado com um perfil de pesquisa definido, que tenha completado seu doutorado há menos de doze anos;
 
--[Research in german](https://www.research-in-germany.org)
+- [Research in german](https://www.research-in-germany.org)
 	- [Webinars](https://www.research-in-germany.org/en/campaigns-and-activities/webinars.html)
 
 
