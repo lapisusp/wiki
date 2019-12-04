@@ -8,6 +8,14 @@
 
 ## Para Europa
 
+### Eramus+
+
+- [Eramus+](https://ec.europa.eu/programmes/erasmus-plus/node_pt)
+- [Eramus Mundus](https://ec.europa.eu/programmes/erasmus-plus/opportunities/individuals/students/erasmus-mundus-joint-master-degrees_pt)
+	- Mestrado pleno
+
+
+
 ### Alemanha
 - [Probal](http://www.capes.gov.br/pt/cooperacao-internacional/alemanha/probral)
 	 - doutorado sanduíche e pós-doutorado na Alemanha
