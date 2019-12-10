@@ -245,7 +245,8 @@ Latex
 * Tables generator: [https://www.tablesgenerator.com/](https://www.tablesgenerator.com/)
 
 #### Equações
-* Codecogs: [https://www.codecogs.com/latex/eqneditor.php?lang=pt-br](https://www.codecogs.com/latex/eqneditor.php?lang=pt-br)
+* [Codecogs](https://www.codecogs.com/latex/eqneditor.php?lang=pt-br)
+* [Latex4technics](https://www.latex4technics.com)
 
 ### Pacotes
 
