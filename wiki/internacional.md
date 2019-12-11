@@ -52,8 +52,8 @@
  	- Graduação, mestrado e doutorado
 
 ### Áustria
- -[CAPES/IIASA](https://www.capes.gov.br/bolsas-e-auxilios-internacionais/pais/195-austria)
- 	- [Site da IIASA](https://www.iiasa.ac.at/web/home/education/yssp/Apply/ConditionsEligibility/Application_Information.html)
+ - [CAPES/IIASA](https://www.capes.gov.br/bolsas-e-auxilios-internacionais/pais/195-austria)
+	- [Site da IIASA](https://www.iiasa.ac.at/web/home/education/yssp/Apply/ConditionsEligibility/Application_Information.html)
 	- Doutorado Sanduíche, Pós-Doutorado e Jovens Cientistas
 	 
 ## Para Estados Unidos
