@@ -53,7 +53,8 @@
 
 ### Áustria
  -[CAPES/IIASA](https://www.capes.gov.br/bolsas-e-auxilios-internacionais/pais/195-austria)
- 	- Doutorado Sanduíche, Pós-Doutorado e Jovens Cientistas
+ 	- [Site da IIASA](https://www.iiasa.ac.at/web/home/education/yssp/Apply/ConditionsEligibility/Application_Information.html)
+	- Doutorado Sanduíche, Pós-Doutorado e Jovens Cientistas
 	 
 ## Para Estados Unidos
 - [Fulbright](https://fulbright.org.br/edital/doutorado-nos-eua/)
