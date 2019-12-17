@@ -55,6 +55,10 @@
  - [CAPES/IIASA](https://www.capes.gov.br/bolsas-e-auxilios-internacionais/pais/195-austria)
 	- [Site da IIASA](https://www.iiasa.ac.at/web/home/education/yssp/Apply/ConditionsEligibility/Application_Information.html)
 	- Doutorado Sanduíche, Pós-Doutorado e Jovens Cientistas
+
+### Holanda
+ - [Orange Tulip Scholarship Brazil](https://www.nesobrazil.org/bolsas-de-estudo/orange-tulip-scholarship/orange-tulip-scholarship-brazil?utm_source=Partiu%20Intercambio&utm_medium=post&utm_campaign=ots)
+    - graduação, pós-graduação, MBA e Short Degree (onde só o último ano do bacharelado é feito no exterior)
 	 
 ## Para Estados Unidos
 - [Fulbright](https://fulbright.org.br/edital/doutorado-nos-eua/)
