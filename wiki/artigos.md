@@ -1,5 +1,16 @@
 ## Recursos para encontrar artigos
 
+### Tradicionais
+
+- [IEEE](https://ieeexplore.ieee.org)
+- [ACM](https://dlnext.acm.org/)
+- [Science Direct](https://www.sciencedirect.com)
+- [Scopus](https://www.scopus.com)
+- [Google Scholar](https://scholar.google.com/)
+- [Microsoft Academic](https://academic.microsoft.com/)
+
+### Expecíficos
+
 - [Arxiv-sanity](http://www.arxiv-sanity.com/)
 - [thecvf](http://openaccess.thecvf.com/)
 - [arxiv](https://arxiv.org/)
