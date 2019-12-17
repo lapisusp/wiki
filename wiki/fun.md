@@ -1,5 +1,14 @@
 # _LApIS for fun_
 
+## Cadastro biometria
+
+Pedir para o orientador enviar nome número USP (ou RG) para:
+
+ - Ernani Barone
+   - barone60@usp.br
+   - Ramal 918192
+   - Final do corredor no térreo do A2 
+
 
 
 ## IMPORTANTE!!! O Café
