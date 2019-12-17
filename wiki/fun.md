@@ -2,7 +2,7 @@
 
 ## Cadastro biometria
 
-Pedir para o orientador enviar nome número USP (ou RG) para:
+Pedir para o orientador enviar nome e número USP (ou RG) para:
 
  - Ernani Barone
    - barone60@usp.br
