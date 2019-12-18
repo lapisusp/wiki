@@ -21,6 +21,7 @@
 	 - doutorado sanduíche e pós-doutorado na Alemanha
 	 - Proficiência em inglês ou alemão
 - [DAAD](https://www.daad.org.br/pt/)
+	- [Site CAPES](https://www.capes.gov.br/bolsas-e-auxilios-internacionais/pais/194-alemanha/9566-doutorado-capesdaad)
 	- Mestrado e doutorado pleno
 	- Doutorado sanduíche
 - [CAPES/Humboldt](https://www.capes.gov.br/bolsas-e-auxilios-internacionais/pais/194-alemanha/9569-programa-bolsas-para-pesquisa-capeshumboldt)
