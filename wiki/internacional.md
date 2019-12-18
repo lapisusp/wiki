@@ -20,7 +20,7 @@
 - [Probal](http://www.capes.gov.br/pt/cooperacao-internacional/alemanha/probral)
 	 - doutorado sanduíche e pós-doutorado na Alemanha
 	 - Proficiência em inglês ou alemão
-- [DDAD](https://www.daad.org.br/pt/)
+- [DAAD](https://www.daad.org.br/pt/)
 	- Mestrado e doutorado pleno
 	- Doutorado sanduíche
 - [CAPES/Humboldt](https://www.capes.gov.br/bolsas-e-auxilios-internacionais/pais/194-alemanha/9569-programa-bolsas-para-pesquisa-capeshumboldt)
