@@ -99,13 +99,21 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 * [Correção - Texto Médico](files-materiais/6CorrecaoTextoMedico.pdf)
 
 # Dados e Estastística
+
 * Sivia, Devinderjit, and John Skilling. Data analysis: a Bayesian tutorial. OUP Oxford, 2006.
 * [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer/playlists)
 * Anonimização de dados:
   * [Protecting Privacy with MATH -  minutephysics](https://www.youtube.com/watch?v=pT19VwBAqKA)
   * [When It's OK to Violate Privacy -  minutephysics](https://www.youtube.com/watch?v=FE9ko2wtyeQ)
-  
-  # Tópicos academicos
-  
-  * [Research Academy](https://researcheracademy.elsevier.com/)  
+
+# Aprendizado de máquina
+
+* [A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+* [Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+* [Machine Learning](https://www.learndatasci.com/out/coursera-machine-learning/)
+* [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+ 
+# Tópicos academicos
+
+* [Research Academy](https://researcheracademy.elsevier.com/)  
 
