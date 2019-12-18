@@ -73,7 +73,7 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 * [Projetos, artigos, dissertações e relatórios do grupo](http://lapis.each.usp.br/pt/project/emotion-representation/)
 * [Relatório - Reconhecimento de emoções](files-materiais/5JogosPsiquiatricosRelatorio-finalUFG.pdf)
 
-[Mais informações](wiki/representing_emotions)
+[Mais informações](representing_emotions)
 
  <HR>
 
