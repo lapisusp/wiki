@@ -104,4 +104,8 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 * Anonimização de dados:
   * [Protecting Privacy with MATH -  minutephysics](https://www.youtube.com/watch?v=pT19VwBAqKA)
   * [When It's OK to Violate Privacy -  minutephysics](https://www.youtube.com/watch?v=FE9ko2wtyeQ)
+  
+  # Tópicos academicos
+  
+  * [Research Academy](https://researcheracademy.elsevier.com/)  
 
