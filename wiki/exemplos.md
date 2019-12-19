@@ -14,3 +14,7 @@
 ## Teses
  - [Siggraph Outstanding Doctoral Dissertation](https://www.siggraph.org/about/awards/outstanding-doctoral-dissertation-award/)
  - [ACM Doctoral Dissertation Award](https://awards.acm.org/doctoral-dissertation/award-winners)
+ - [Alain Fournier Award](http://graphicsinterface.org/awards/alain-fournier/)
+ - [Teses premiadas CAPES](https://www.capes.gov.br/premiocapesdetese/edicoes-anteriores)
+ - [Teses usp](https://www.teses.usp.br/)
+ - [Catálogo de Teses e Dissertações da CAPES](https://catalogodeteses.capes.gov.br/catalogo-teses/#!/)
