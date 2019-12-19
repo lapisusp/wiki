@@ -113,6 +113,7 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 * [Machine Learning](https://www.learndatasci.com/out/coursera-machine-learning/)
 * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 * [Finland](https://course.elementsofai.com/)
+* [ Robert Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg/videos)
  
 # Tópicos academicos
 
