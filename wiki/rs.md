@@ -11,21 +11,27 @@ As informações aqui apresentadas se baseiam nas fases propostas por Kitchenham
   
 
 ## Materiais de Apoio
+
+Palestra sobre Revisão Sistemática - Profa. Fátima L. S. Nunes
+------------
+
 <object style="width:100%;height:100%;width: 820px; height: 461.25px; float: none; clear: both; margin: 2px auto;" data="http://www.youtube.com/embed/Wgaw97mTKWM">
 </object>
+
+*   **Slides da Palestra**
+    *   Revisão Sistemática. [RevisaoSistematicaConceitos.pdf](files/RevisaoSistematicaConceitos.pdf)
 
 Cursos
 ------------
 
 * [Elsevier](https://researcheracademy.elsevier.com/writing-research/technical-writing-skills/systematic-reviews-101)
   
-**Palestra sobre Revisão Sistemática - Profa. Fátima L. S. Nunes**
 
+Exemplos
+------------
   
 *   **Exemplos em repositórios** 
     *   [Dspace USP](https://metabuscador.uspdigital.usp.br/browse?type=author&value=L.+S.+Nunes%2C+Fatima)
-*   **Slides da Palestra**
-    *   Revisão Sistemática. [RevisaoSistematicaConceitos.pdf](files/RevisaoSistematicaConceitos.pdf)
 *   **Protocolo**
     *   Exemplo - Adriano [Protocolo_Adriano.pdf](files/Protocolo_Adriano.pdf)
     *   Exemplo - Vagner [ProtocoloVagner.pdf](files/ProtocoloVagner.pdf)
