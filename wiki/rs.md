@@ -33,6 +33,7 @@ Cursos
     *   Exemplo - Vagner [ConducaoVagner.pdf](files/ConducaoVagner.pdf)
 *   **Extração**
     *   Exemplo - [ExemploExtracao.pdf](files/ExemploExtracao.pdf)
+    *   Exemplos recentes - [Dspace USP](https://metabuscador.uspdigital.usp.br/browse?type=author&value=L.+S.+Nunes%2C+Fatima)
 *   **Arquivos - _StArt_**
     *   Exemplo - Mateus [RS_Mateus.zip](files/RS_Mateus.zip)
     *   Exemplo - Vagner [Vagner.zip](files/Vagner.zip)
