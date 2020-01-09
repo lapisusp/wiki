@@ -114,8 +114,9 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 * [Finland](https://course.elementsofai.com/)
 * [Robert Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg/videos)
-* [The Coding Train](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=16)
 * [10 Days Of Grad: Deep Learning From The First Principles](http://penkovsky.com/neural-networks/)
+* [The Coding Train](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=16)
+* [Machine Learning for Artists](https://ml4a.github.io/)
  
 # Tópicos academicos
 
