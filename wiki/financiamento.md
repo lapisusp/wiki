@@ -16,3 +16,4 @@
 	 -  Até Julho
 - [NVIDIA GRADUATE FELLOWSHIPS](https://www.nvidia.com/en-us/research/graduate-fellowships/)
 	- Até Setembro
+- [Lista de oportunidades internacionais](https://www.cs.cmu.edu/~gradfellowships/)
