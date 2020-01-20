@@ -131,5 +131,6 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 	* Essence of calculus 
 	* Differential equations
 * [Khan Academy](https://www.khanacademy.org/math)
+* [WolframAlpha](https://www.wolframalpha.com/)
 
 
