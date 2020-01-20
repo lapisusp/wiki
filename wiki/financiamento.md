@@ -14,3 +14,5 @@
 	 - Entre agosto e outubro
  - [Google Research Awards for Latin America](https://ai.google/research/outreach/latin-america-research-awards/)
 	 -  Até Julho
+- [NVIDIA GRADUATE FELLOWSHIPS](https://www.nvidia.com/en-us/research/graduate-fellowships/)
+	- Até Setembro
