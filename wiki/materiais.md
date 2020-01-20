@@ -112,6 +112,7 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 * [Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 * [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 * [Machine Learning](https://www.learndatasci.com/out/coursera-machine-learning/)
+* [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 * [Finland](https://course.elementsofai.com/)
 * [Robert Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg/videos)
