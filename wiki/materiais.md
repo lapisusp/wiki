@@ -122,5 +122,14 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
  
 # Tópicos academicos
 
-* [Research Academy](https://researcheracademy.elsevier.com/)  
+* [Research Academy](https://researcheracademy.elsevier.com/)
+
+# Matemática
+
+* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?view=50&sort=dd&shelf_id=20)
+	* Essence of linear algebra 
+	* Essence of calculus 
+	* Differential equations
+* [Khan Academy](https://www.khanacademy.org/math)
+
 
