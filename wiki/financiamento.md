@@ -19,4 +19,4 @@
 - [IBM](https://www.research.ibm.com/university/awards/fellowships.html)
 	- Até Setembro
 - [The Open Phil AI Fellowship ](https://www.research.ibm.com/university/awards/fellowships.html)
-- [Lista de oportunidades internacionais](https://www.cs.cmu.edu/~gradfellowships/)
+- [**Lista de oportunidades internacionais**](https://www.cs.cmu.edu/~gradfellowships/)
