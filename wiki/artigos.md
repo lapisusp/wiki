@@ -21,6 +21,7 @@
 - [Microsoft](https://www.microsoft.com/en-us/research/search/)
 - [Nvdia](https://research.nvidia.com/publications)
 - [Reddit MachineLearning](https://www.reddit.com/r/MachineLearning/)
+- [Papers with code](https://paperswithcode.com/)
 - [joVE (artigos em vídeo)](https://www.jove.com/)
 
 ## Entendendo artigos
