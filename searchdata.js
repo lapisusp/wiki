@@ -1,7 +1,8 @@
 ---
-layout: null
+layout: 
 is_wiki_page: false
 ---
+
 {% if site.search_engine == "js" %}
 var jsondata=[
   {% for post in site.posts %}
