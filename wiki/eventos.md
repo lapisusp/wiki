@@ -24,6 +24,18 @@
 * Ocorre em **Junho**.
 * Deadline no inicio do **primeiro** semestre do ano do evento (aproximadamente Janeiro).
 
+## [AVI - International Conference on Advanced Visual Interfaces](https://sites.google.com/unisa.it/avi2020/)
+* Ocorre em **Junho**.
+* Deadline no inicio do **primeiro** semestre do ano do evento (aproximadamente Janeiro).
+
+## [IWSSIP - International Conference on Systems, Signals and Image Processing](http://ieeevr.org/)
+* Ocorre em **Junho**.
+* Deadline no inicio do **primeiro** semestre do ano do evento (aproximadamente Janeiro).
+
+## [IEEE VR](https://sites.google.com/unisa.it/avi2020/)
+* Ocorre em **Junho**.
+* Deadline no inicio do **primeiro** semestre do ano do evento (aproximadamente Janeiro).
+
 <BR>
 
 ## EVENTOS NO SEGUNDO SEMESTRE
