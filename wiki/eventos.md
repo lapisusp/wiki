@@ -36,6 +36,10 @@
 * Ocorre em **Junho**.
 * Deadline no inicio do **primeiro** semestre do ano do evento (aproximadamente Janeiro).
 
+## [International Conference on Pattern Recognition Applications and Methods (ICPRAM)](http://www.icpram.org/)
+* Ocorre em **Fevereiro**.
+* Deadline no inicio do **Segundo** semestre do ano do evento (aproximadamente Dezembro).
+
 <BR>
 
 ## EVENTOS NO SEGUNDO SEMESTRE
