@@ -59,6 +59,10 @@
 * Ocorre no final de **Outubro**.
 * Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Março).
 
+## [ECCV: European Conference on Computer Vision](http://www.wikicfp.com/cfp/program?id=800)
+* Ocorre no final de **Outubro**.
+* Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Março).
+
 
 <HR>
 
