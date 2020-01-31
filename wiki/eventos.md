@@ -85,6 +85,11 @@
 * Ocorre no meio de **Outubro**.
 * Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Março).
 
+## [IEEE  BIBE: Bioinformatics and Bioengineering ](http://www.wikicfp.com/cfp/program?id=282&amp%3Bf=Bioinformatics)
+* Ocorre no final de **Outubro**.
+* Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Julho).
+
+http://www.wikicfp.com/cfp/program?id=282&amp%3Bf=Bioinformatics
 
 <HR>
 
