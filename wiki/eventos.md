@@ -10,7 +10,6 @@
 * Ocorre em **Abril**
 * Deadline no **segundo** semestre do ano anterior ao evento (aproximadamente Setembro).
 
-
 ## IEEE CBMS - The International Symposium on Computer-Based Medical Systems 
 * [Edição 2019 (provisório):](https://easychair.org/cfp/CBMS2019)
 * Ocorre em **Junho**.
@@ -40,6 +39,14 @@
 * Ocorre em **Fevereiro**.
 * Deadline no inicio do **Segundo** semestre do ano do evento (aproximadamente Dezembro).
 
+## [International Conference on Machine Learning](https://icml.cc/)
+* Ocorre em **Julho**.
+* Deadline no inicio do **Segundo** semestre anterior do ano do evento (aproximadamente Fevereiro).
+
+## [NeurIPS](https://iclr.cc)
+* Ocorre no final de **Abril**.
+* Deadline no final do **Segundo** semestre anterior do ano do evento (aproximadamente Setembro).
+
 <BR>
 
 ## EVENTOS NO SEGUNDO SEMESTRE
@@ -62,6 +69,14 @@
 ## [ECCV: European Conference on Computer Vision](http://www.wikicfp.com/cfp/program?id=800)
 * Ocorre no final de **Outubro**.
 * Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Março).
+
+## [SIGGRAPH Asia](https://sa2019.siggraph.org/about-us/sa2020)
+* Ocorre no final de **Novembro**.
+* Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Maio).
+
+## [NeurIPS](https://nips.cc/)
+* Ocorre no final de **Dezembro**.
+* Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Maio).
 
 
 <HR>
