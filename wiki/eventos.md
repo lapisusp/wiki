@@ -61,18 +61,17 @@
 * Ocorre em **Novembro**.
 * Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Junho).
 
- 
 ## [SIBGRAPI: Brazilian Symposium on Computer Graphics and Image Processing](http://www.wikicfp.com/cfp/program?id=2655&f=Brazilian%20Symposium%20on%20Computer%20Graphics%20and%20Image%20Processing)
 * Ocorre em **Novembro**.
 * Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Junho).
 
 ## [ICCV: International Conference on Computer Vision](http://www.wikicfp.com/cfp/program?id=1325&s=ICCV&f=International%20Conference%20on%20Computer%20Vision)
 * Ocorre no final de **Outubro**.
-* Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Março).
+* Deadline no começo do **primeiro** semestre do ano do evento (aproximadamente Março).
 
 ## [ECCV: European Conference on Computer Vision](http://www.wikicfp.com/cfp/program?id=800)
 * Ocorre no final de **Outubro**.
-* Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Março).
+* Deadline no começo do **primeiro** semestre do ano do evento (aproximadamente Março).
 
 ## [SIGGRAPH Asia](https://sa2019.siggraph.org/about-us/sa2020)
 * Ocorre no final de **Novembro**.
@@ -80,7 +79,11 @@
 
 ## [NeurIPS](https://nips.cc/)
 * Ocorre no final de **Dezembro**.
-* Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Maio).
+* Deadline no começo do **primeiro** semestre do ano do evento (aproximadamente Maio).
+
+## [ACM International Conference on Multimedia](https://acmmm.org/)
+* Ocorre no meio de **Outubro**.
+* Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Março).
 
 
 <HR>
