@@ -10,8 +10,7 @@
 * Ocorre em **Abril**
 * Deadline no **segundo** semestre do ano anterior ao evento (aproximadamente Setembro).
 
-## IEEE CBMS - The International Symposium on Computer-Based Medical Systems 
-* [Edição 2019 (provisório):](https://easychair.org/cfp/CBMS2019)
+## [IEEE CBMS - The International Symposium on Computer-Based Medical Systems](http://www.wikicfp.com/cfp/program?id=377)
 * Ocorre em **Junho**.
 * Deadline no início do **primeiro** semestre do ano do evento (aproximadamente Janeiro).
 
