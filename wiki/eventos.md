@@ -46,6 +46,11 @@
 * Ocorre no final de **Abril**.
 * Deadline no final do **Segundo** semestre anterior do ano do evento (aproximadamente Setembro).
 
+## [SBCAS - Simpósio Brasileiro de Computação Aplicada à Saúde](http://sbcas2020.ufba.br/)
+* Ocorre em **Junho (16-19)**.
+* Deadline para submissão de artigos: 10 de março de 2020
+
+
 <BR>
 
 ## EVENTOS NO SEGUNDO SEMESTRE
