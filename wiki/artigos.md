@@ -24,6 +24,11 @@
 - [Papers with code](https://paperswithcode.com/)
 - [joVE (artigos em vídeo)](https://www.jove.com/)
 
+
+### Eventos
+ - [Conftube](https://conftube.com/)
+
+
 ## Entendendo artigos
 - [Infographic: How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper)
 - [How to (seriously) read a scientific paper ](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
