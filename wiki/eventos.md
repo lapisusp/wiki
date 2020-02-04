@@ -98,6 +98,10 @@
 * Ocorre no final de **Novembro**.
 * Deadline no começo de **abril**.
 
+## [ACII - International Conference on Affective Computing & Intelligent Interaction](http://acii-conf.org)
+* Ocorre no final de **Setembro**.
+* Deadline no final de **Março**.
+* Cada dois anos (próximo 2021)
 
 
 <HR>
