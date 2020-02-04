@@ -89,7 +89,11 @@
 * Ocorre no final de **Outubro**.
 * Deadline no final do **primeiro** semestre do ano do evento (aproximadamente Julho).
 
-http://www.wikicfp.com/cfp/program?id=282&amp%3Bf=Bioinformatics
+## [ISMAR - IEEE INTERNATIONAL SYMPOSIUM ON MIXED AND AUGMENTED REALITY](http://www.wikicfp.com/cfp/program?id=282&amp%3Bf=Bioinformatics)
+* Ocorre no final de **Novembro**.
+* Deadline no começo de **abril**.
+
+
 
 <HR>
 
@@ -98,6 +102,8 @@ http://www.wikicfp.com/cfp/program?id=282&amp%3Bf=Bioinformatics
 
 ### Outros
 
-Mais eventos podem ser encontrados em: [http://www.guide2research.com/topconf/computer-vision](http://www.guide2research.com/topconf/computer-vision)
-
+Mais eventos podem ser encontrados em: 
+ * [Computer vision](http://www.guide2research.com/topconf/computer-vision)
+ * [BioInfo](http://www.wikicfp.com/cfp/program?id=282&amp%3Bf=Bioinformatics)
+ * [Google scholar](https://scholar.google.com/citations?view_op=top_venues)
 
