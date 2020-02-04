@@ -51,6 +51,11 @@
 * Deadline para submissão de artigos: 10 de março de 2020
 
 
+## [AAAI Conference on Artificial Intelligence](https://aaai.org/)
+* Ocorre em **Fevereiro**.
+* Deadline para submissão de artigos em **Setembro**
+
+
 <BR>
 
 ## EVENTOS NO SEGUNDO SEMESTRE
