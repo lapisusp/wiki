@@ -106,4 +106,5 @@ Mais eventos podem ser encontrados em:
  * [Computer vision](http://www.guide2research.com/topconf/computer-vision)
  * [BioInfo](http://www.wikicfp.com/cfp/program?id=282&amp%3Bf=Bioinformatics)
  * [Google scholar](https://scholar.google.com/citations?view_op=top_venues)
+ * [Calendário ACM](https://www.acm.org/calendar)
 
