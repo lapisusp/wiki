@@ -108,6 +108,10 @@
 * Deadline no final de **Abril**.
 * Cada dois anos (próximo 2021)
 
+## [ICIP - IEEE International Conference on Image Processing](https://2020.ieeeicip.org/)
+* Ocorre no final de **Outubro**.
+* Deadline no final de **Fevereiro**.
+* Cada dois anos (próximo 2021)
 
 <HR>
 
