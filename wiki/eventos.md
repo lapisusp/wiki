@@ -51,9 +51,14 @@
 * Deadline para submissão de artigos: 10 de março de 2020
 
 
-## [AAAI Conference on Artificial Intelligence](https://aaai.org/)
+## [AAAI - Conference on Artificial Intelligence](https://aaai.org/)
 * Ocorre em **Fevereiro**.
 * Deadline para submissão de artigos em **Setembro**
+
+## [ACM ICMR - International Conference on Multimedia Retrieval](http://icmr2020.org/)
+* Ocorre em **Junho**.
+* Deadline para submissão de artigos em **Janeiro**
+
 
 
 <BR>
