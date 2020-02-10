@@ -100,6 +100,7 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 
 # Dados e Estastística
 
+* [Khan academy](https://www.khanacademy.org/math/statistics-probability)
 * Sivia, Devinderjit, and John Skilling. Data analysis: a Bayesian tutorial. OUP Oxford, 2006.
 * [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer/playlists)
 * Anonimização de dados:
