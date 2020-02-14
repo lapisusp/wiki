@@ -40,4 +40,5 @@
 
 ## Discutindo artigos
  - [PubPeer](https://pubpeer.com)
+ - [OpenReview](https://openreview.net/)
 
