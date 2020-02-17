@@ -17,7 +17,8 @@ Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp
 | [_LApIS for Fun!_](fun)                                                                                                                                                           | [Eventos de Interesse](eventos) |
 | [Revistas de Interesse](revistas) | [Encontrar artigos](artigos)              |
 | [Serviços computracionais](servicos-computacionais)                                                                                                                               |  [Exemplos](exemplos) |
-| [Internacional](internacional) | [Financiamento](financiamento)
+| [Internacional](internacional) | [Financiamento](financiamento) |
+| [Datasets](datasets) | |
 
 <CENTER> Wiki mantido pelos alunos: Cleber Gimenez, Leonardo Silva, Rafael Luiz Testa e Renan Vinícius Aranha <BR> com intuito de reunir informações úteis aos membros do <a href="http://lapis.each.usp.br/" rel="nofollow"> LApIS </a>. </CENTER>
 
