@@ -20,3 +20,7 @@
 	- Até Setembro
 - [The Open Phil AI Fellowship ](https://www.research.ibm.com/university/awards/fellowships.html)
 - [**Lista de oportunidades internacionais**](https://www.cs.cmu.edu/~gradfellowships/)
+
+
+### Outros
+- [Programa de Cooperação de Formação Didático-Pedagógico USP/UNIFESP](http://www.prpg.usp.br/index.php/pt-br/apoio-administrativo/editais)
