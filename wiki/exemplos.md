@@ -18,3 +18,6 @@
  - [Teses premiadas CAPES](https://www.capes.gov.br/premiocapesdetese/edicoes-anteriores)
  - [Teses usp](https://www.teses.usp.br/)
  - [Catálogo de Teses e Dissertações da CAPES](https://catalogodeteses.capes.gov.br/catalogo-teses/#!/)
+ 
+ ## Cronograma
+ - [NTNU - PhD research Plan](https://www.ntnu.no/documents/10334/14915656/PhD+research+plan_PH-BEH-addtions.pdf/488ded62-55c6-4fe9-bc58-0e26a4263bf5)
