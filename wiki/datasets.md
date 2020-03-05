@@ -1,6 +1,10 @@
 
 # Datasets
 
+## Encontrar
+
+* [Academic Torrents](http://academictorrents.com)
+* [Kagle](https://www.kaggle.com/datasets)
  
 ## Grandes datasets de imagens
 
