@@ -125,6 +125,13 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 
 * [Research Academy](https://researcheracademy.elsevier.com/)
 
+## Livros sobre vida acadêmica
+
+* Phillips, Estelle, and Derek Pugh. **How to get a PhD: A handbook for students and their supervisors**. McGraw-Hill Education (UK), 2010.
+* Petre, Marian. **The unwritten rules of PhD research.** McGraw-Hill Education (UK), 2010.
+* Kearns, Hugh, and John Finn. **Supervising PhD Students: A practical guide and toolkit.** Thinkwell, 2017.
+* Bell, Judith. **Doing Your Research Project: A guide for first-time researchers.** McGraw-Hill Education (UK), 2014.
+
 # Matemática
 
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?view=50&sort=dd&shelf_id=20)
