@@ -60,6 +60,10 @@
 ### Holanda
  - [Orange Tulip Scholarship Brazil](https://www.nesobrazil.org/bolsas-de-estudo/orange-tulip-scholarship/orange-tulip-scholarship-brazil?utm_source=Partiu%20Intercambio&utm_medium=post&utm_campaign=ots)
     - graduação, pós-graduação, MBA e Short Degree (onde só o último ano do bacharelado é feito no exterior)
+    
+### Polônia
+ - [THE ULAM PROGRAMME](https://nawa.gov.pl/en/scientists/the-ulam-programme)
+    - Pós-Doutorado
 	 
 ## Para Estados Unidos
 - [Fulbright](https://fulbright.org.br/edital/doutorado-nos-eua/)
