@@ -64,6 +64,10 @@
 ### Polônia
  - [THE ULAM PROGRAMME](https://nawa.gov.pl/en/scientists/the-ulam-programme)
     - Pós-Doutorado
+    
+### Portugal
+- [Grupo Coimbra](https://www.coimbra-group.eu/scholarships/latin-america-la/)
+    - Jovem pesquisador
 	 
 ## Para Estados Unidos
 - [Fulbright](https://fulbright.org.br/edital/doutorado-nos-eua/)
