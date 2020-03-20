@@ -38,11 +38,15 @@ Exemplos
 *   **Condução**
     *   Exemplo - Eunice [ConducaoEunice.pdf](files/ConducaoEunice.pdf)
     *   Exemplo - Vagner [ConducaoVagner.pdf](files/ConducaoVagner.pdf)
+    *   Exemplo - Rafael Testa (Mestrado) [facialimagessynthesis.zip](https://repositorio.uspdigital.usp.br/handle/item/228)
 *   **Extração**
     *   Exemplo - [ExemploExtracao.pdf](files/ExemploExtracao.pdf)
+    *   Exemplo - Rafael Testa (Mestrado) [facialimagessynthesis.zip](https://repositorio.uspdigital.usp.br/handle/item/228)
 *   **Arquivos - _StArt_**
     *   Exemplo - Mateus [RS_Mateus.zip](files/RS_Mateus.zip)
     *   Exemplo - Vagner [Vagner.zip](files/Vagner.zip)
+    *   Exemplo - Rafael Torres [RS_RafaelTorres.start](https://drive.google.com/open?id=1EC9fRyZdR2yql8ihotkDjaWxV4YbTtTA)
+    *   Exemplo - Renan [RS_Renan.start](https://drive.google.com/open?id=1nlj1okmBCM76Vb-EhKTAHL4GuMAEOxQ9)
 
 ## Exemplos de Artigos de Revisão Sistemática
 
