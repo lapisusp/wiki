@@ -46,6 +46,14 @@ Exemplos
 
 ## Exemplos de Artigos de Revisão Sistemática
 
+*   Aranha, Renan Vinicius, Cléber Gimenez Corrêa, and Fátima LS Nunes. [**Adapting software with Affective Computing: a systematic review.**](https://ieeexplore.ieee.org/abstract/document/8656550) IEEE Transactions on Affective Computing (2019).
+
+*   Bergamasco, Leila Cristina C., and Fátima LS Nunes. [**Intelligent retrieval and classification in three-dimensional biomedical images—a systematic mapping.**](https://www.sciencedirect.com/science/article/pii/S1574013718300881) Computer Science Review 31 (2019): 19-38.
+
+*   Testa, Rafael Luiz, et al. [**Synthesis of Facial Expressions in Photographs: Characteristics, Approaches, and Challenges.**](https://dl.acm.org/doi/abs/10.1145/3292652) ACM Computing Surveys (CSUR) 51.6 (2019): 1-35.
+
+* Corrêa, Cléber G., et al. [**"Haptic interaction for needle insertion training in medical applications: The state-of-the-art.**](https://www.sciencedirect.com/science/article/abs/pii/S135045331830167X) Medical engineering & physics 63 (2019): 6-25.
+
 *   Ricardo Wandré Dias Pedro, Fátima LS Nunes, and Ariane Machado-Lima. **["Using grammars for pattern recognition in images: a systematic review."](https://dl.acm.org/citation.cfm?id=2543593)** ACM Computing Surveys (CSUR) 46.2 (2013): 26.
 
 *   Narciso, Everton Note, Márcio Eduardo Delamaro, and Fátima De Lourdes Dos Santos Nunes. **["Test case selection: A systematic literature review."](http://www-worldscientific-com.ez67.periodicos.capes.gov.br/doi/abs/10.1142/S0218194014500259)** International Journal of Software Engineering and Knowledge Engineering 24.04 (2014): 653-676.
