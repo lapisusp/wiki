@@ -11,14 +11,13 @@ Seja bem-vindo(a) a Wiki do [LApIS](http://lapis.each.usp.br/) \- Laboratório d
 
 Coordenação: Profa. Dra. [Fátima L. S. Nunes Marques](mailto:fatima.nunes@usp.br)
 
-| [Conheça o LApIS](materiais) - Materiais para Alunos                                                                                                                              | [Revisão Sistemática](rs)                |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| [Comitê de Ética em Pesquisa](CEP)                                                                                                                                                | [Writing Center](escrita)                |
-| [_LApIS for Fun!_](fun)                                                                                                                                                           | [Eventos de Interesse](eventos) |
-| [Revistas de Interesse](revistas) | [Encontrar artigos](artigos)              |
-| [Serviços computracionais](servicos-computacionais)                                                                                                                               |  [Exemplos](exemplos) |
-| [Internacional](internacional) | [Financiamento](financiamento) |
-| [Datasets](datasets) | |
+| [Conheça o LApIS](materiais) - Materiais para Alunos | [Revisão Sistemática](rs) |
+|--------|---------|
+| [Comitê de Ética em Pesquisa](CEP) | [Writing Center](escrita)  |
+| [_LApIS for Fun!_](fun) | [Revistas e Eventos de Interesse](divulgacao) |
+| [Encontrar artigos](artigos) | [Serviços computracionais](servicos-computacionais)
+|  [Exemplos](exemplos) | [Internacional](internacional) |
+| [Financiamento](financiamento) | [Datasets](datasets) |
 
 <CENTER> Wiki mantido pelos alunos: Cleber Gimenez, Leonardo Silva, Rafael Luiz Testa e Renan Vinícius Aranha <BR> com intuito de reunir informações úteis aos membros do <a href="http://lapis.each.usp.br/" rel="nofollow"> LApIS </a>. </CENTER>
 
