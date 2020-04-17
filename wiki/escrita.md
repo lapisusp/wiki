@@ -249,6 +249,9 @@ Latex
 * [Codecogs](https://www.codecogs.com/latex/eqneditor.php?lang=pt-br)
 * [Latex4technics](https://www.latex4technics.com)
 
+### Cores
+* [Latexcolor](http://latexcolor.com/)
+
 ### Bibtex
 * [doi2bib](https://www.doi2bib.org/)
 
