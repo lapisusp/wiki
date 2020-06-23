@@ -240,6 +240,7 @@ Latex
 * Latex Base: [https://latexbase.com/](https://latexbase.com/)
 
 #### PC
+* KILE: [https://kile.sourceforge.io/](https://kile.sourceforge.io/)
 * TexStudio: [https://www.texstudio.org/](https://www.texstudio.org/)
 
 #### Tabela
