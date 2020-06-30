@@ -255,7 +255,7 @@ Latex
 
 ### Bibtex
 * [doi2bib](https://www.doi2bib.org/)
-* [https://flamingtempura.github.io/bibtex-tidy/](https://flamingtempura.github.io/bibtex-tidy/)
+* [bibtex-tidy](https://flamingtempura.github.io/bibtex-tidy/)
 
 ### Pacotes
 
