@@ -16,7 +16,7 @@
 
 # Eventos
 
-[**Calendário de eventos de interesse**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTEvaUsJ888_8lGIC68sGy-TsVT4ZFU678TdbgEfWP-R0hrW2lDDl3vrpoCkB4swrKLP46M2tf_EtIm/pubhtml)
+**[Calendário de eventos de interesse](https://docs.google.com/spreadsheets/d/e/2PACX-1vTEvaUsJ888_8lGIC68sGy-TsVT4ZFU678TdbgEfWP-R0hrW2lDDl3vrpoCkB4swrKLP46M2tf_EtIm/pubhtml)**
 
 <HR>
 
