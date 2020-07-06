@@ -24,7 +24,7 @@ Artigos
  - [COG - IEEE Conference on Games](https://ieee-cog.org/)
  - [FDG - Foundations of Digital Games](http://www.foundationsofdigitalgames.org/)
  - [AIIDE - AAAI Artificial Intelligence and Interactive Digital Entertainment Conference](https://www.aaai.org/) 
- - [SEGAH - IEEE Serious Games and Applications for Health](www.segah.org)
+ - [SEGAH - IEEE Serious Games and Applications for Health](http://www.segah.org)
  - ICEC - IFIP International Conference on Entertainment Computing
  - [SBGames - Brazilian Symposium on Computer Games and Digital Entertainment](https://www.sbgames.org/)
 
