@@ -13,7 +13,7 @@ Artigos
 - [Adapting software with Affective Computing: a systematic review](https://ieeexplore.ieee.org/abstract/document/8656550) (2019)
 
 **Periódicos**
-- [IEEE Transactions on Affective Computing](https://www.computer.org/csdl/journal/ta](https://www.computer.org/csdl/journal/ta)
+- [IEEE Transactions on Affective Computing](https://www.computer.org/csdl/journal/ta)
 
 **Conferências**
 
