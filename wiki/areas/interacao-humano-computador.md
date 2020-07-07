@@ -5,7 +5,7 @@
 Artigos
 
 - [Which Instrument Should I Use? Supporting Decision-Making About the Evaluation of User Experience](https://link.springer.com/chapter/10.1007/978-3-030-23535-2_4) (2019)
-
+- [Seven HCI Grand Challenges](https://www.tandfonline.com/doi/full/10.1080/10447318.2019.1619259) (2019)
 
 **Periódicos**
 
