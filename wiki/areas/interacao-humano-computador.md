@@ -2,6 +2,12 @@
 
 **Bibliografia recomendada**
 
+Livros 
+
+- [Interaction Design: Beyond Human-Computer Interaction](https://books.google.com.br/books?id=UDeQDwAAQBAJ&printsec=frontcover&dq=Interaction+Design:+Beyond+Human-Computer+Interaction&hl=pt-BR&sa=X&ved=2ahUKEwiG4KKk8LvqAhUrIrkGHTkqDmcQ6AEwAnoECAYQAg) - Helen Sharp, Jennifer Preece, Yvonne Rogers
+- [Interação Humano-Computador](https://books.google.com.br/books?id=qk0skwr_cewC&printsec=frontcover&dq=intera%C3%A7%C3%A3o+humano+computador&hl=pt-BR&sa=X&ved=2ahUKEwiz0Lu68LvqAhXfILkGHftgCLIQ6AEwAHoECAYQAg#v=onepage) - Simone Barbosa, Bruno Silva
+- [Design do dia a dia](https://books.google.com.br/books?id=IVRVDwAAQBAJ&printsec=frontcover&dq=design+do+dia+a+dia&hl=pt-BR&sa=X&ved=2ahUKEwjvo43W8LvqAhVeJrkGHaNnDxAQ6AEwAHoECAQQAg#v=onepage&q=design%20do%20dia%20a%20dia&f=false) - Donald A. Norman
+
 Artigos
 
 - [Which Instrument Should I Use? Supporting Decision-Making About the Evaluation of User Experience](https://link.springer.com/chapter/10.1007/978-3-030-23535-2_4) (2019)
