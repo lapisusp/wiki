@@ -12,7 +12,7 @@
  - [FAPESP](http://www.fapesp.br/261)
  - [Facebook Fellowship application](https://research.fb.com/programs/fellowship/)
 	 - Entre agosto e outubro
- - [Google Research Awards for Latin America](https://research.google/outreach/phd-fellowship/)
+ - [Google Research Awards for Latin America](https://research.google/outreach/faq/?category=latin)
 	 -  Até Julho
 - [NVIDIA GRADUATE FELLOWSHIPS](https://www.nvidia.com/en-us/research/graduate-fellowships/)
 	- Até Setembro
