@@ -20,6 +20,8 @@
 	- Até Setembro
 - [The Open Phil AI Fellowship ](https://www.research.ibm.com/university/awards/fellowships.html)
 - [EMEA PhD Award](https://www.microsoft.com/en-us/research/academic-program/emea-phd-award/)
+	- Até abril
+	- Terceiro ano
 - [**Lista de oportunidades internacionais**](https://www.cs.cmu.edu/~gradfellowships/)
 
 
