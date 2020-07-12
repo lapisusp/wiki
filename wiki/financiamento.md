@@ -18,7 +18,8 @@
 	- Até Setembro
 - [IBM](https://www.research.ibm.com/university/awards/fellowships.html)
 	- Até Setembro
-- [The Open Phil AI Fellowship ](https://www.research.ibm.com/university/awards/fellowships.html)
+- [The Open Phil AI Fellowship ](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship)
+	- Fall
 - [EMEA PhD Award](https://www.microsoft.com/en-us/research/academic-program/emea-phd-award/)
 	- Até abril
 	- Terceiro ano
