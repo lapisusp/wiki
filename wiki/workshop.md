@@ -15,7 +15,7 @@
 
  - [Vídeo: Unity - Considerações finais](https://drive.google.com/file/d/1mkKm5z5Q5fdDaddxoRFlMHe3g3eXni3Z/view)
  
- ## Quarto encontro - Murillo Brandão
+## Quarto encontro - Murillo Brandão
  
  - [Vídeo: Uso de câmera em jogos](https://drive.google.com/file/d/1vp194yNdNVPSLo_wozyhsFrspJ1SKwCL/view)
  
