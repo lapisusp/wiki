@@ -99,9 +99,10 @@ Ferramentas para inglês
 
 ### Revisão automática de texto
 
-*   Easybib: [https://www.easybib.com/grammar-and-plagiarism/](https://www.easybib.com/grammar-and-plagiarism/)
-*   Language tool: [https://languagetool.org/en/](https://languagetool.org/en/)
 *   Grammarly: [https://app.grammarly.com](https://app.grammarly.com)
+*   Pro writing aid: [https://prowritingaid.com](https://prowritingaid.com)
+*   Language tool: [https://languagetool.org/en/](https://languagetool.org/en/)
+*   Easybib: [https://www.easybib.com/grammar-and-plagiarism/](https://www.easybib.com/grammar-and-plagiarism/)
 *   Hemingway App: [http://hemingwayapp.com/](http://hemingwayapp.com/)
 *   Write & Improve: [https://writeandimprove.com](https://writeandimprove.com/)
 *   Expresso: [http://www.expresso-app.org/](http://www.expresso-app.org/)
