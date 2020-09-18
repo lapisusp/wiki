@@ -241,6 +241,7 @@ Latex
 * Latex Base: [https://latexbase.com/](https://latexbase.com/)
 
 #### PC
+* Visual Studio Code with LaTeX workshop: [https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
 * KILE: [https://kile.sourceforge.io/](https://kile.sourceforge.io/)
 * TexStudio: [https://www.texstudio.org/](https://www.texstudio.org/)
 
