@@ -259,6 +259,9 @@ Latex
 * [doi2bib](https://www.doi2bib.org/)
 * [bibtex-tidy](https://flamingtempura.github.io/bibtex-tidy/)
 
+### Compilando
+* [Latexmk](https://mg.readthedocs.io/latexmk.html)
+
 ### Pacotes
 
 #### Citações
