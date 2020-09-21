@@ -261,6 +261,7 @@ Latex
 
 ### Compilando
 * [Latexmk](https://mg.readthedocs.io/latexmk.html)
+* [Latex Docker](https://github.com/blang/latex-docker)
 
 ### Pacotes
 
