@@ -263,6 +263,11 @@ Latex
 * [Latexmk](https://mg.readthedocs.io/latexmk.html)
 * [Latex Docker](https://github.com/blang/latex-docker)
 
+### Outros formatos
+* [Pandoc](https://pandoc.org/demos.html)
+* [MS Word](https://medium.com/@zhelinchen91/how-to-convert-from-latex-to-ms-word-with-pandoc-f2045a762293)
+
+
 ### Pacotes
 
 #### Citações
