@@ -121,3 +121,13 @@ Graduate Scholarships](http://vanier.gc.ca/en/home-accueil.html)
 - [Academic Gates](https://www.academicgates.com/job)
 - [ECR](https://ecrcentral.org/)
 - [Mendley](https://www.mendeley.com/research-funding/)
+
+
+# Proficiência em inglês
+
+* [Teste gratuito com certificado](https://www.efset.org/english-certificate/)
+* [Lista de testes possíveis](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#Language-specific_scales)
+* [CEFR](https://www.coe.int/en/web/language-policy/cefr)
+
+
+
