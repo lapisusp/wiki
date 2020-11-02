@@ -25,4 +25,5 @@ Artigos
 - [AAAC - Association for the Advancement of Affective Computing](http://emotion-research.org/)
 
 **Conceitos**
-- [Afeto](https://link.springer.com/referenceworkentry/10.1007/978-0-387-79948-3_2111)
+- [Afeto](https://link.springer.com/referenceworkentry/10.1007/978-0-387-79948-3_2111
+- [Discrete emotions](https://www.sciencedirect.com/topics/computer-science/discrete-emotion)
