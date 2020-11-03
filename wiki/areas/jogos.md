@@ -12,6 +12,7 @@ Artigos
 
 - [A Systematic Review of the Definition and Measurement of Engagement in Serious Games](http://doi.org/10.1145/3290688.3290747) (2019)
 - [What Is It Like to Be a Game?—Object Oriented Inquiry for Games Research, Design, and Evaluation](https://www.frontiersin.org/articles/10.3389/fcomp.2020.00018/full) (2020)
+- ["Let’s Get Physiological, Physiological!": A Systematic Review of Affective Gaming](https://doi.org/10.1145/3410404.3414227) (2020)
 
 **Cursos**
 
