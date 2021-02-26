@@ -27,3 +27,7 @@ Artigos
 **Conceitos**
 - [Afeto](https://link.springer.com/referenceworkentry/10.1007/978-0-387-79948-3_2111
 - [Discrete emotions](https://www.sciencedirect.com/topics/computer-science/discrete-emotion)
+
+**Vídeos**
+
+- [Webinar BR-CHI 26/02/2021 - Humanos que sentem e sistemas que computam](https://www.youtube.com/watch?v=J09LdoUK6WY)
