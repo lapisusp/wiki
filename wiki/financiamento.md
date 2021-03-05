@@ -22,7 +22,6 @@
 	- Fall
 - [Microsoft Latin America PhD Award](https://www.microsoft.com/en-us/research/academic-program/latin-america-phd-award/)
 	- Até abril
-	- Terceiro ano
 - [**Lista de oportunidades internacionais**](https://www.cs.cmu.edu/~gradfellowships/)
 
 
