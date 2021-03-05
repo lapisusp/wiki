@@ -20,7 +20,7 @@
 	- Até Setembro
 - [The Open Phil AI Fellowship ](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship)
 	- Fall
-- [EMEA PhD Award](https://www.microsoft.com/en-us/research/academic-program/emea-phd-award/)
+- [Microsoft Latin America PhD Award](https://www.microsoft.com/en-us/research/academic-program/latin-america-phd-award/)
 	- Até abril
 	- Terceiro ano
 - [**Lista de oportunidades internacionais**](https://www.cs.cmu.edu/~gradfellowships/)
