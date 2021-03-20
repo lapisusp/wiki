@@ -13,6 +13,11 @@ Artigos
 - [What Scientists Who Study Emotion Agree About](http://www.ncbi.nlm.nih.gov/pubmed/26817724) (2016)
 - [Adapting software with Affective Computing: a systematic review](https://ieeexplore.ieee.org/abstract/document/8656550) (2019)
 
+Livros 
+
+- [Organizational Behavior](https://www.pearson.com/us/higher-education/product/Robbins-Organizational-Behavior-16th-Edition/9780133507645.html?tab=contents)
+- [The Measurement of Affect, Mood, and Emotion](https://www.cambridge.org/core/books/measurement-of-affect-mood-and-emotion/402BDE954A7AFAEF9FBA3CFF7534B917#)
+
 **Periódicos**
 - [IEEE Transactions on Affective Computing](https://www.computer.org/csdl/journal/ta)
 
