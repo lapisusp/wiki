@@ -127,6 +127,7 @@ Ferramentas para inglês
 *   Ozdic: [http://www.ozdic.com](http://www.ozdic.com)
 *   Cambridge: [https://dictionary.cambridge.org/pt/dicionario/learner-english](https://dictionary.cambridge.org/pt/dicionario/learner-english/)
 *   Oxford: [https://www.oxfordlearnersdictionaries.com/definition/collocations](https://www.oxfordlearnersdictionaries.com/definition/collocations)
+*   Inspirassion: [https://inspirassion.com/](https://inspirassion.com/)
 
 #### Exemplos em sites específicos
 
