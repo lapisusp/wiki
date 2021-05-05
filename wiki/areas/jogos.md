@@ -29,14 +29,14 @@ Artigos
 
 
 **Conferências**
-
- - [IFIP International Conference on Entertainment Computing](www.ifip-icec.org)
- - [CHIPlay- ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play](http://chiplay.acm.org/)
+ 
+ - [CHIPlay - ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play](http://chiplay.acm.org/)
  - [COG - IEEE Conference on Games](https://ieee-cog.org/)
  - [FDG - Foundations of Digital Games](http://www.foundationsofdigitalgames.org/)
  - [AIIDE - AAAI Artificial Intelligence and Interactive Digital Entertainment Conference](https://www.aaai.org/) 
  - [SEGAH - IEEE Serious Games and Applications for Health](http://www.segah.org)
- - ICEC - IFIP International Conference on Entertainment Computing
+ - [IFIP ICEC - International Conference on Entertainment Computing](http://www.ifip-icec.org)
+ - [IFIP INTERACT - International Conference on Human–Computer Interaction](http://www.interact2021.org)
  - [SBGames - Brazilian Symposium on Computer Games and Digital Entertainment](https://www.sbgames.org/)
 
 **Comunidades**
