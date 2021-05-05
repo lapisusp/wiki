@@ -30,6 +30,7 @@ Artigos
 
 **Conferências**
 
+ - [IFIP International Conference on Entertainment Computing](www.ifip-icec.org)
  - [CHIPlay- ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play](http://chiplay.acm.org/)
  - [COG - IEEE Conference on Games](https://ieee-cog.org/)
  - [FDG - Foundations of Digital Games](http://www.foundationsofdigitalgames.org/)
