@@ -110,6 +110,9 @@ Ferramentas para inglês
 
 ### (Buscar) Exemplos de uso
 
+### Comparar uso de duas expressões ao longo do tempo
+* [Google Books ngrams](https://books.google.com/ngrams/graph?content=in+my+perspective%2Cfrom+my+perspective&year_start=1970&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cin%20my%20perspective%3B%2Cc0%3B.t1%3B%2Cfrom%20my%20perspective%3B%2Cc0)
+
 #### Phrasebank
 * [Academic Phrasebank - Manchester](http://www.phrasebank.manchester.ac.uk/introducing-work/)
 
