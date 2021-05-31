@@ -21,7 +21,9 @@
 <HR>
 
 ### Eventos considerados referência:
-"top-tier venues in computer vision, graphics, or machine learning (CVPR, ECCV/ICCV, Siggraph, Siggraph Asia, NeurIPS, ICML, ICLR)"
+ * ["top-tier venues in computer vision, graphics, or machine learning (CVPR, ECCV/ICCV, Siggraph, Siggraph Asia, NeurIPS, ICML, ICLR)" - Neural Capture & Synthesis Group](https://web.archive.org/web/20210226100044/https://justusthies.github.io/openings/)
+ * ["Successful record of publication to top-tier international research venues (e.g. ICLR, AAAI, NeurIPS, CVPR, ECCV, ICCV, SIGGRAPH)" - Snap research](https://web.archive.org/web/20210531215144/https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Research-Scientist--Creative-Vision_R0015544)
+
 
 # Outros
 
