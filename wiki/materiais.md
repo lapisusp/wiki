@@ -103,6 +103,7 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 * [Khan academy](https://www.khanacademy.org/math/statistics-probability)
 * Sivia, Devinderjit, and John Skilling. Data analysis: a Bayesian tutorial. OUP Oxford, 2006.
 * [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer/playlists)
+* [Lives Estatística  Nível I Psicobio UNIFESP 2021](https://www.youtube.com/playlist?list=PLZjaOxYREinvmuS1j0H5fKVPqJ862CHt4)
 * Anonimização de dados:
   * [Protecting Privacy with MATH -  minutephysics](https://www.youtube.com/watch?v=pT19VwBAqKA)
   * [When It's OK to Violate Privacy -  minutephysics](https://www.youtube.com/watch?v=FE9ko2wtyeQ)
