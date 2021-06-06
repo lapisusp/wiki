@@ -174,6 +174,7 @@ Ferramentas para inglês
 ### Pronuncia
 
 *   [Youglish](https://youglish.com/)
+*   [Play phrase me](https://playphrase.me/)
 
 
 
