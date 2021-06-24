@@ -22,6 +22,8 @@
 	- Fall
 - [Microsoft Latin America PhD Award](https://www.microsoft.com/en-us/research/academic-program/latin-america-phd-award/)
 	- Até abril
+- [Amazon Research Awards](https://www.amazon.science/research-awards) 
+ 	- Até julho
 - [**Lista de oportunidades internacionais**](https://www.cs.cmu.edu/~gradfellowships/)
 
 
