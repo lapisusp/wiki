@@ -12,6 +12,7 @@ Artigos
 - [Norms of valence, arousal, and dominance for 13,915 English lemmas](http://doi.org/10.3758/s13428-012-0314-x) (2013)
 - [What Scientists Who Study Emotion Agree About](http://www.ncbi.nlm.nih.gov/pubmed/26817724) (2016)
 - [Adapting software with Affective Computing: a systematic review](https://ieeexplore.ieee.org/abstract/document/8656550) (2019)
+- [Applications of Biological and Physiological Signals in Commercial Video Gaming and Game Research: A Review](https://doi.org/10.3389/fcomp.2021.557608) (2021)
 
 Livros 
 
