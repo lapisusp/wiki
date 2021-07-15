@@ -31,7 +31,8 @@ Artigos
 - IUI - ACM Intelligent User Interfaces
 - UIST - ACM Symposium on User Interface Software and Technology
 - 3DUI - IEEE Symposium on 3D User Interfaces
- - IHC - Simpósio Brasileiro Sobre Fatores Humanos em Sistemas Computacionais
+- IHC - Simpósio Brasileiro Sobre Fatores Humanos em Sistemas Computacionais
+- EICS - ACM SIGCHI Symposium on Engineering Interactive Computing Systems
 
 **Comunidades**
 
