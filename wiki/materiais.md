@@ -142,4 +142,6 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 * [Khan Academy](https://www.khanacademy.org/math)
 * [WolframAlpha](https://www.wolframalpha.com/)
 
+# Escrita
+* [Plágio (IU)](https://plagiarism.iu.edu/index.html)
 
