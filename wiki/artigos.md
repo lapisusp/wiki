@@ -1,5 +1,8 @@
 ## Recursos para encontrar artigos
 
+### Guias de pesquisa (Research guides)
+ - [MIT](https://libguides.mit.edu/eecs)
+
 ### Tradicionais
 
 - [IEEE](https://ieeexplore.ieee.org)
