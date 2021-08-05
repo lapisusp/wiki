@@ -144,4 +144,5 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 
 # Escrita
 * [Plágio (IU)](https://plagiarism.iu.edu/index.html)
+* [Purdue wrting lab](https://owl.purdue.edu/owl/purdue_owl.html)
 
