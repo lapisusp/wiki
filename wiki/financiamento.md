@@ -24,7 +24,9 @@
 	- Até abril
 - [Amazon Research Awards](https://www.amazon.science/research-awards) 
  	- Até julho
-- [**Lista de oportunidades internacionais**](https://www.cs.cmu.edu/~gradfellowships/)
+- **Listas de oportunidades internacionais**
+	- [cmu](https://www.cs.cmu.edu/~gradfellowships/)
+	- [afterschoolafrica](https://www.afterschoolafrica.com/scholarship/by-level/phd/page/86/?type=month&date=2018-2-10&cal=phd-post-doctoral)
 
 
 ### Outros
