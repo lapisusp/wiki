@@ -12,7 +12,6 @@
  - [Cofactor Journal Selector](http://cofactorscience.com/journal-selector)
  - [Journal Guide](https://www.journalguide.com/)
  - [Guide2research](http://www.guide2research.com/journals/computer-vision) (Image Processing & Computer Vision)
- - [IEEE Publication Recommender](https://publication-recommender.ieee.org/home#)
  
 
 # Eventos
