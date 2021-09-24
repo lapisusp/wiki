@@ -2,7 +2,7 @@
 
 **[Tabela com revistas de interesse](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWjx4BX1eOPOB2Z8wg9Ni9IBmA3PNOxeyfU_hPpgz8MugigpD3AH3axtlJlhxty-AvwwoQN4TIjQp-/pubhtml?gid=0&single=true)**
  
-## Ferramentas para encontrar revistas
+## Ferramentas para encontrar revistas/eventos
 
  - [Edanz Journal Selector](https://www.edanzediting.com/journal-selector)
  - [Springer Journal Suggester](http://journalsuggester.springer.com/)
@@ -12,6 +12,7 @@
  - [Cofactor Journal Selector](http://cofactorscience.com/journal-selector)
  - [Journal Guide](https://www.journalguide.com/)
  - [Guide2research](http://www.guide2research.com/journals/computer-vision) (Image Processing & Computer Vision)
+ - [IEEE Publication Recommender](https://publication-recommender.ieee.org/home#)
  
 
 # Eventos
