@@ -25,10 +25,12 @@ Livros
 **Conferências**
 
 - [ACII - International Conference on Affective Computing & Intelligent Interaction](http://acii-conf.org/)
+- [ISRE - International Society for Research on Emotion (ISRE) Conference](https://www.isre.org/page/isre2022)
 
 **Comunidades**
 
 - [AAAC - Association for the Advancement of Affective Computing](http://emotion-research.org/)
+- [ISRE - International Society of Research on Emotion (ISRE)](https://www.isre.org/)
 
 **Conceitos**
 - [Afeto](https://link.springer.com/referenceworkentry/10.1007/978-0-387-79948-3_2111)
