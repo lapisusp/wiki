@@ -121,6 +121,7 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 * [10 Days Of Grad: Deep Learning From The First Principles](http://penkovsky.com/neural-networks/)
 * [The Coding Train](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=16)
 * [Machine Learning for Artists](https://ml4a.github.io/)
+* [OSSU Data Science](https://github.com/ossu/data-science)
  
 # Tópicos academicos
 
@@ -141,9 +142,15 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 	* Differential equations
 * [Khan Academy](https://www.khanacademy.org/math)
 * [WolframAlpha](https://www.wolframalpha.com/)
+* [OSSU MATH](https://github.com/ossu/math)
 
 # Escrita
 * [Plágio (IU)](https://plagiarism.iu.edu/index.html)
 * [Purdue wrting lab](https://owl.purdue.edu/owl/purdue_owl.html)
 * [How to Write a Research Paper (HCCC)](https://library.hccc.edu/c.php?g=452139&p=3154898)
+	
+# Computação geral
+* [OSSU CS](https://github.com/ossu/computer-science)
 
+# Bioinformática
+* [OSSU Bioinformatics](https://github.com/ossu/bioinformatics)
