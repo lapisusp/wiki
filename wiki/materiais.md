@@ -104,7 +104,7 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 * Sivia, Devinderjit, and John Skilling. Data analysis: a Bayesian tutorial. OUP Oxford, 2006.
 * [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer/playlists)
 * [Lives Estatística Nível I e II Psicobio UNIFESP (português)](https://www.youtube.com/c/cientistica/playlists)
-	* **Estatística e método científico com base na história da ciência**
+	* **Estatística e método científico**
 * Anonimização de dados:
   * [Protecting Privacy with MATH -  minutephysics](https://www.youtube.com/watch?v=pT19VwBAqKA)
   * [When It's OK to Violate Privacy -  minutephysics](https://www.youtube.com/watch?v=FE9ko2wtyeQ)
