@@ -26,6 +26,7 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
   * [Projeto VIMET - Vídeo Wizard](https://youtu.be/r_LWnL3VWfg)
 * [Estruturas de Dados](https://www.ncbi.nlm.nih.gov/pubmed/27568296)
 * [Artigo - Evolução da RV e RA em Saúde](files-materiais/1RVSaudeBrasil15AnosArtigoSVR.pdf)
+* M. Speicher, B.D. Hall, M. Nebeling: [What is Mixed Reality? In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems](http://michael-nebeling.de/publications/chi19b.pdf), CHI 2019, Glasgow, Scotland, UK, May 4-9, 2019.
 
 <HR>
 
