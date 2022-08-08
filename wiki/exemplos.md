@@ -21,3 +21,7 @@
  
  ## Cronograma
  - [NTNU - PhD research Plan](https://www.ntnu.no/documents/10334/14915656/PhD+research+plan_PH-BEH-addtions.pdf/488ded62-55c6-4fe9-bc58-0e26a4263bf5)
+
+# Exemplos de apresentações
+
+- [Qualificação/defesa - PPgSI](https://docs.google.com/presentation/d/1G4Rtz_jy-R3UQbpFHiA2PnIEngjWqGzXKWnSILBJybk/edit?usp=sharing)
