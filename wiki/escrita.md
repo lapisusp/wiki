@@ -256,6 +256,9 @@ Latex
 ### Bibtex
 * [doi2bib](https://www.doi2bib.org/)
 * [bibtex-tidy](https://flamingtempura.github.io/bibtex-tidy/)
+* [JabRef](https://www.jabref.org/)
+* [anystyle](https://anystyle.io/)
+	* Converte citação em texto para bibtex
 
 ### Compilando
 * [Latexmk](https://mg.readthedocs.io/latexmk.html)
