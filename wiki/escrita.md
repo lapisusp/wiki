@@ -259,6 +259,7 @@ Latex
 * [JabRef](https://www.jabref.org/)
 * [anystyle](https://anystyle.io/)
 	* Converte citação em texto para bibtex
+* [BibTeX generator from URL](https://url-to-bibtex.vercel.app/)
 
 ### Compilando
 * [Latexmk](https://mg.readthedocs.io/latexmk.html)
