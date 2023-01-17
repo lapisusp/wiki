@@ -225,7 +225,7 @@ Ferramentas para português
 
 ### Aulas e livros
 
-*   Escrita Acadêmica: [http://www.escritaacademica.com](http://www.escritaacademica.com/)
+*   Ver escrita em conheça o LApIS: [https://lapis.each.usp.br/wiki/materiais#escrita](https://lapis.each.usp.br/wiki/materiais#escrita)
 
 Latex
 -------------
