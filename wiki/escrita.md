@@ -100,6 +100,7 @@ Ferramentas para inglês
 *   Write & Improve: [https://writeandimprove.com](https://writeandimprove.com/)
 *   Expresso: [http://www.expresso-app.org/](http://www.expresso-app.org/)
 *   TEXTalyzer: [https://www.textalyzer.xyz/test](https://www.textalyzer.xyz/test)
+*   AJE:[https://secure.aje.com/en/researcher/grammar-check/](https://secure.aje.com/en/researcher/grammar-check/)
 
 ### (Buscar) Exemplos de traduções
 
