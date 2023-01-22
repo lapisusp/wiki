@@ -9,6 +9,7 @@ Figuras
 * [ccsearch](https://ccsearch.creativecommons.org/)
 * [WikiMedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 * [Descrevendo figuras](http://yuhaozhu.com/blog/explain-figure/)
+* [Textual References to Figures and Tables](https://www.e-education.psu.edu/styleforstudents/c4_p11.html)
 
 
 [Posters](poster)
