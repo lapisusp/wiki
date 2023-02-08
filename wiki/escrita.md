@@ -103,6 +103,16 @@ Ferramentas para inglês
 *   Expresso: [http://www.expresso-app.org/](http://www.expresso-app.org/)
 *   TEXTalyzer: [https://www.textalyzer.xyz/test](https://www.textalyzer.xyz/test)
 *   AJE:[https://secure.aje.com/en/researcher/grammar-check/](https://secure.aje.com/en/researcher/grammar-check/)
+*   Quillbot: [https://quillbot.com/grammar-check](https://quillbot.com/grammar-check)
+*   Microsoft editor: [https://www.microsoft.com/pt-br/microsoft-365/microsoft-editor](https://www.microsoft.com/pt-br/microsoft-365/microsoft-editor)
+
+### Parafrasear
+* Language tool: [https://languagetool.org/en/](https://languagetool.org/en/)
+* Quillbot [https://quillbot.com/](https://quillbot.com/)
+
+### Resumir
+
+* Quillbot [https://quillbot.com/](https://quillbot.com/summarize)
 
 ### (Buscar) Exemplos de traduções
 
@@ -187,7 +197,7 @@ Ferramentas para português
 ### Revisão automática de texto
 
 * Language tool: [https://languagetool.org/pt-BR/](https://languagetool.org/pt-BR/)
-*   FLiP: [https://www.flip.pt/FLiP-On-line/Corrector-ortografico-e-sintactico](https://www.flip.pt/FLiP-On-line/Corrector-ortografico-e-sintactico)
+* FLiP: [https://www.flip.pt/FLiP-On-line/Corrector-ortografico-e-sintactico](https://www.flip.pt/FLiP-On-line/Corrector-ortografico-e-sintactico)
 
 
 ### (Buscar) Exemplos de uso
@@ -263,6 +273,7 @@ Latex
 * [anystyle](https://anystyle.io/)
 	* Converte citação em texto para bibtex
 * [BibTeX generator from URL](https://url-to-bibtex.vercel.app/)
+* [Gera citações e bibtex](https://quillbot.com/citation-generator)
 
 ### Compilando
 * [Latexmk](https://mg.readthedocs.io/latexmk.html)
