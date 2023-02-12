@@ -9,6 +9,8 @@ Figuras
 * [ccsearch](https://ccsearch.creativecommons.org/)
 * [WikiMedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 * [Descrevendo figuras](http://yuhaozhu.com/blog/explain-figure/)
+* [Textual References to Figures and Tables](https://www.e-education.psu.edu/styleforstudents/c4_p11.html)
+* [Diagrama de Venn](https://bioinfogp.cnb.csic.es/tools/venny/)
 
 
 [Posters](poster)
@@ -100,6 +102,17 @@ Ferramentas para inglês
 *   Write & Improve: [https://writeandimprove.com](https://writeandimprove.com/)
 *   Expresso: [http://www.expresso-app.org/](http://www.expresso-app.org/)
 *   TEXTalyzer: [https://www.textalyzer.xyz/test](https://www.textalyzer.xyz/test)
+*   AJE:[https://secure.aje.com/en/researcher/grammar-check/](https://secure.aje.com/en/researcher/grammar-check/)
+*   Quillbot: [https://quillbot.com/grammar-check](https://quillbot.com/grammar-check)
+*   Microsoft editor: [https://www.microsoft.com/pt-br/microsoft-365/microsoft-editor](https://www.microsoft.com/pt-br/microsoft-365/microsoft-editor)
+
+### Parafrasear
+* Language tool: [https://languagetool.org/en/](https://languagetool.org/en/)
+* Quillbot [https://quillbot.com/](https://quillbot.com/)
+
+### Resumir
+
+* Quillbot [https://quillbot.com/](https://quillbot.com/summarize)
 
 ### (Buscar) Exemplos de traduções
 
@@ -184,7 +197,7 @@ Ferramentas para português
 ### Revisão automática de texto
 
 * Language tool: [https://languagetool.org/pt-BR/](https://languagetool.org/pt-BR/)
-*   FLiP: [https://www.flip.pt/FLiP-On-line/Corrector-ortografico-e-sintactico](https://www.flip.pt/FLiP-On-line/Corrector-ortografico-e-sintactico)
+* FLiP: [https://www.flip.pt/FLiP-On-line/Corrector-ortografico-e-sintactico](https://www.flip.pt/FLiP-On-line/Corrector-ortografico-e-sintactico)
 
 
 ### (Buscar) Exemplos de uso
@@ -222,11 +235,6 @@ Ferramentas para português
 
 *   conjugação: [https://www.conjugacao.com.br/](https://www.conjugacao.com.br/)
 
-
-### Aulas e livros
-
-*   Escrita Acadêmica: [http://www.escritaacademica.com](http://www.escritaacademica.com/)
-
 Latex
 -------------
 
@@ -256,6 +264,11 @@ Latex
 ### Bibtex
 * [doi2bib](https://www.doi2bib.org/)
 * [bibtex-tidy](https://flamingtempura.github.io/bibtex-tidy/)
+* [JabRef](https://www.jabref.org/)
+* [anystyle](https://anystyle.io/)
+	* Converte citação em texto para bibtex
+* [BibTeX generator from URL](https://url-to-bibtex.vercel.app/)
+* [Gera citações e bibtex](https://quillbot.com/citation-generator)
 
 ### Compilando
 * [Latexmk](https://mg.readthedocs.io/latexmk.html)
@@ -275,3 +288,16 @@ Latex
 ```
 #### Cursos
 * [iniciante](https://researcheracademy.elsevier.com/writing-research/technical-writing-skills/beginners-guide-writing-manuscript-latex)
+
+
+Dicas de escrita
+------------------------
+
+### Aulas e livros
+
+*   Ver escrita em conheça o LApIS: [https://lapis.each.usp.br/wiki/materiais#escrita](https://lapis.each.usp.br/wiki/materiais#escrita)
+
+### Estilo de escrita acadêmico
+
+*   Números e datas em inglês: [https://nau.edu/writing-style-guide/numbers-dates/](https://nau.edu/writing-style-guide/numbers-dates/)
+

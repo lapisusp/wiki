@@ -150,6 +150,10 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 * [Plágio (IU)](https://plagiarism.iu.edu/index.html)
 * [Purdue wrting lab](https://owl.purdue.edu/owl/purdue_owl.html)
 * [How to Write a Research Paper (HCCC)](https://library.hccc.edu/c.php?g=452139&p=3154898)
+* [Smrt English](https://youtube.com/playlist?list=PLN3kZ8bfmMJN2-EdLyE7_rOZo8o3IpFlv)
+* [Escrita Acadêmica](http://www.escritaacademica.com/)
+* [Springer Nature](https://beta.springernature.com/pre-submission)
+* [UNC](https://writingcenter.unc.edu/tips-and-tools/)
 	
 # Computação geral
 * [OSSU CS](https://github.com/ossu/computer-science)
