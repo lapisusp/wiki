@@ -293,10 +293,11 @@ Latex
 Dicas de escrita
 ------------------------
 
-# Aulas e livros
+### Aulas e livros
 
 *   Ver escrita em conheça o LApIS: [https://lapis.each.usp.br/wiki/materiais#escrita](https://lapis.each.usp.br/wiki/materiais#escrita)
 
-# Estilo de escrita acadêmico
+### Estilo de escrita acadêmico
+
 *   Números e datas em inglês: [https://nau.edu/writing-style-guide/numbers-dates/](https://nau.edu/writing-style-guide/numbers-dates/)
 
