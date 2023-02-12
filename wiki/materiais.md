@@ -128,6 +128,7 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 # Tópicos academicos
 
 * [Research Academy](https://researcheracademy.elsevier.com/)
+* [Tutoriais USP](https://www.abcd.usp.br/apoio-pesquisador/eventos-videos-e-tutoriais/gravacoes-e-slides/)
 
 ## Livros sobre vida acadêmica
 
