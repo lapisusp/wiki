@@ -13,6 +13,7 @@
  - [Journal Guide](https://www.journalguide.com/)
  - [Guide2research](http://www.guide2research.com/journals/computer-vision) (Image Processing & Computer Vision)
  - [USP - Mais ferramentas](https://www.abcd.usp.br/apoio-pesquisador/escrita-publicacao-cientifica/selecao-revistas-publicacao/)
+ - [Busca melhorada do QUALIS](https://sites.google.com/view/ondepublicar/)
  
 
 # Eventos
