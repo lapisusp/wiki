@@ -235,11 +235,6 @@ Ferramentas para português
 
 *   conjugação: [https://www.conjugacao.com.br/](https://www.conjugacao.com.br/)
 
-
-### Aulas e livros
-
-*   Ver escrita em conheça o LApIS: [https://lapis.each.usp.br/wiki/materiais#escrita](https://lapis.each.usp.br/wiki/materiais#escrita)
-
 Latex
 -------------
 
@@ -293,3 +288,15 @@ Latex
 ```
 #### Cursos
 * [iniciante](https://researcheracademy.elsevier.com/writing-research/technical-writing-skills/beginners-guide-writing-manuscript-latex)
+
+
+Dicas de escrita
+------------------------
+
+# Aulas e livros
+
+*   Ver escrita em conheça o LApIS: [https://lapis.each.usp.br/wiki/materiais#escrita](https://lapis.each.usp.br/wiki/materiais#escrita)
+
+# Estilo de escrita acadêmico
+*   Números e datas em inglês: [https://nau.edu/writing-style-guide/numbers-dates/](https://nau.edu/writing-style-guide/numbers-dates/)
+
