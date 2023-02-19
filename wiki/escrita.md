@@ -131,6 +131,9 @@ Ferramentas para inglês
 
 #### Frases
 
+*   Lengusa: [https://lengusa.com/](https://lengusa.com/)
+*   Skell: [https://skell.sketchengine.eu/](https://skell.sketchengine.eu/)
+*   Sentence Stack [https://sentencestack.com/](https://sentencestack.com/)
 *   Ludwig Guru: [https://ludwig.guru](https://ludwig.guru)
 *   Merriam-Webster: [https://www.merriam-webster.com](https://www.merriam-webster.com)
 *   Corpus of Contemporary American English: [https://corpus.byu.edu/coca](https://corpus.byu.edu/coca)
