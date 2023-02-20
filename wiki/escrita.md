@@ -167,6 +167,7 @@ Ferramentas para inglês
 *   [Na revista ACM TOG](https://www.google.com/search?q="specific+example"+"ACM Trans. Graph."+site%3Aacm.org)
 *   [Na nature](https://www.google.com/search?q=%22specific+example%22+site%3Anature.com)
 *   [Na site da British Council](https://www.google.com/search?q="personal+level"+site%3Abritishcouncil.org)
+*   [No IEEE Spectrum](https://www.google.com/search?q=%22personal+level%22+site%3Aspectrum.ieee.org)
 
 #### Preposições
 
