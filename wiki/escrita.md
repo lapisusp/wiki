@@ -111,7 +111,7 @@ Ferramentas para inglês
 * Quillbot [https://quillbot.com/](https://quillbot.com/)
 * Word Tune: [https://app.wordtune.com/editor/](https://app.wordtune.com/editor/)
 * Chat GPT: [https://chat.openai.com/](https://chat.openai.com/)
-	* Exemplo de pormpt: "Please act as a writing editor for an academic paper. I will provide you a paragraph. Furthermore, I want you to rewrite it several times with different styles of writing in a table format. You should keep the citations to other academic papers. The paragraph should be free of grammatical and syntax errors. Please correct spelling errors. Ensure that the paragraph has a clear sentence structure. You should also improve the word choice in the paragraph." 
+	* Exemplo de prompt: "Please act as a writing editor for an academic paper. I will provide you a paragraph. Furthermore, I want you to rewrite it several times with different styles of writing in a table format. You should keep the citations to other academic papers. The paragraph should be free of grammatical and syntax errors. Please correct spelling errors. Ensure that the paragraph has a clear sentence structure. You should also improve the word choice in the paragraph." 
 
 ### Resumir
 
