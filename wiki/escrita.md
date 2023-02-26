@@ -298,7 +298,8 @@ Latex
 \usepackage[numbers,sort&compress]{natbib}
 ```
 #### Cursos
-* [iniciante](https://researcheracademy.elsevier.com/writing-research/technical-writing-skills/beginners-guide-writing-manuscript-latex)
+* [elsevier](https://researcheracademy.elsevier.com/writing-research/technical-writing-skills/beginners-guide-writing-manuscript-latex)
+* [ICMC](https://youtu.be/mViQ67fJyzg)
 
 
 Dicas de escrita
