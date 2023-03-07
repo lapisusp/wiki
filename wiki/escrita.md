@@ -300,6 +300,7 @@ Latex
 #### Cursos
 * [elsevier](https://researcheracademy.elsevier.com/writing-research/technical-writing-skills/beginners-guide-writing-manuscript-latex)
 * [ICMC](https://youtu.be/mViQ67fJyzg)
+* [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
 
 
 Dicas de escrita
