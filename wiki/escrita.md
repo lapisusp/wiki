@@ -105,6 +105,7 @@ Ferramentas para inglês
 *   AJE:[https://secure.aje.com/en/researcher/grammar-check/](https://secure.aje.com/en/researcher/grammar-check/)
 *   Quillbot: [https://quillbot.com/grammar-check](https://quillbot.com/grammar-check)
 *   Microsoft editor: [https://www.microsoft.com/pt-br/microsoft-365/microsoft-editor](https://www.microsoft.com/pt-br/microsoft-365/microsoft-editor)
+*   DeepL: [https://www.deepl.com/write](https://www.deepl.com/write)
 
 ### Parafrasear
 * Language tool: [https://languagetool.org/en/](https://languagetool.org/en/)
