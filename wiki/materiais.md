@@ -158,7 +158,8 @@ Conheça as áreas de atuação do Laboratório de Aplicações de Informática 
 * [UNC](https://writingcenter.unc.edu/tips-and-tools/)
 	
 # Computação geral
-* [OSSU CS](https://github.com/ossu/computer-science)
-
+* OSSU CS: [https://github.com/ossu/computer-science](https://github.com/ossu/computer-science)
+* Ferramentas essenciais: [https://missing.csail.mit.edu/](https://missing.csail.mit.edu/)
+	
 # Bioinformática
 * [OSSU Bioinformatics](https://github.com/ossu/bioinformatics)
