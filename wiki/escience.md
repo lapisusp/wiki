@@ -1,5 +1,5 @@
 ---
 title: Redirect
 redirect_to:
-  - https://f507-143-107-59-221.sa.ngrok.io/
+  - https://d539-143-107-59-221.sa.ngrok.io/
 ---
