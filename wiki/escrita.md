@@ -272,6 +272,7 @@ Latex
 * [LyX](https://www.lyx.org/)
 * [Codecogs](https://www.codecogs.com/latex/eqneditor.php?lang=pt-br)
 * [Latex4technics](https://www.latex4technics.com)
+* [List of symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject)
 
 ### Cores
 * [Latexcolor](http://latexcolor.com/)
