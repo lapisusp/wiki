@@ -267,6 +267,7 @@ Latex
 * Tables generator: [https://www.tablesgenerator.com/](https://www.tablesgenerator.com/)
 
 #### Equações
+* [Mathcha](https://www.mathcha.io/)
 * [Codecogs](https://www.codecogs.com/latex/eqneditor.php?lang=pt-br)
 * [Latex4technics](https://www.latex4technics.com)
 
