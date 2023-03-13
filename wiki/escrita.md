@@ -265,9 +265,11 @@ Latex
 
 #### Tabela
 * Tables generator: [https://www.tablesgenerator.com/](https://www.tablesgenerator.com/)
+* [LyX](https://www.lyx.org/)
 
 #### Equações
 * [Mathcha](https://www.mathcha.io/)
+* [LyX](https://www.lyx.org/)
 * [Codecogs](https://www.codecogs.com/latex/eqneditor.php?lang=pt-br)
 * [Latex4technics](https://www.latex4technics.com)
 
