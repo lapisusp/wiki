@@ -1,5 +1,5 @@
 ---
 title: Redirect
 redirect_to:
-  - https://yzlgnqa2qovpnuz7zc5aetjosa.srv.us/
+  - https://e41b-143-107-59-221.sa.ngrok.io/
 ---
