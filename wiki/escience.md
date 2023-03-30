@@ -1,5 +1,5 @@
 ---
 title: Redirect
 redirect_to:
-  - https://lapisusp.localtonet.com/
+  - https://esciencelapis.localtonet.com/
 ---
