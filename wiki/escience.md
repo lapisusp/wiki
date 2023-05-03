@@ -1,5 +1,5 @@
 ---
 title: Redirect
 redirect_to:
-  - https://esciencelapis.localtonet.com/
+  - https://tmw2fwrsk4dmtxb6doaujfuuaa.srv.us/
 ---
