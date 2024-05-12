@@ -246,6 +246,12 @@ Ferramentas para português
 ### Verbos
 
 *   conjugação: [https://www.conjugacao.com.br/](https://www.conjugacao.com.br/)
+  
+
+Visualização de dados
+-------------
+  * Cores em gráficos: [https://www.learnui.design/tools/data-color-picker.html#palette](https://www.learnui.design/tools/data-color-picker.html#palette)
+
 
 Latex
 -------------
