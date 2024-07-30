@@ -1,5 +1,5 @@
 ---
 title: Redirect
 redirect_to:
-  - https://xmmi46wwzycxvne7t75gsu3afy.srv.us/
+  - https://gkzzqvqk6gtd3vghfheg7jeyju.srv.us/
 ---
